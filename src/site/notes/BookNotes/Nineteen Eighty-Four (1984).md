@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/nineteen-eighty-four-1984/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.789+08:00","updated":"2024-11-27T18:15:38.430+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/nineteen-eighty-four-1984/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.789+08:00","updated":"2024-11-28T00:57:44.829+08:00"}
 ---
 
+# 相關筆記
+#技術與未來 #政治 #社會與文化 #小說 
+[[BookNotes/The Origins of Totalitarianism#Indoctrination Through Propaganda透過宣傳灌輸\|The Origins of Totalitarianism#Indoctrination Through Propaganda透過宣傳灌輸]]
+[[BookNotes/Fahrenheit 451#Analysis of Chapter 1第一章分析\|Fahrenheit 451#Analysis of Chapter 1第一章分析]]
+[[BookNotes/Brave New World#Introduction介紹\|Brave New World#Introduction介紹]]
 # Introduction to 19841984年簡介
 
 George Orwell's "1984" remains a significant work of fiction, particularly in the context of contemporary discussions about authoritarianism. Written in the late 1940s, the novel reflects Orwell's insights into the oppressive regimes of his time, particularly Stalin's Soviet Union and Nazi Germany. The narrative explores the mechanisms of totalitarian control, making it a timeless commentary on the dangers of unchecked political power and the erosion of individual freedoms.喬治‧歐威爾的《1984》仍然是一部重要的小說作品，特別是在當代關於威權主義的討論背景下。 這部小說寫於 20 世紀 40 年代末，反映了奧威爾對他那個時代的壓迫政權的見解，特別是史達林的蘇聯和納粹德國。 該敘述探討了極權主義控制的機制，使其成為對不受約束的政治權力和個人自由受到侵蝕的危險的永恆評論。

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/on-the-origin-of-species/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.203+08:00","updated":"2024-11-27T18:15:38.432+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/on-the-origin-of-species/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.203+08:00","updated":"2024-11-28T00:53:23.376+08:00"}
 ---
 
+# 相關筆記
+#科學 #自然與環境 
+[[BookNotes/A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫\|A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫]]
+[[BookNotes/The Selfish Gene#The Gene as the Basic Unit of Evolution基因作為進化的基本單位\|The Selfish Gene#The Gene as the Basic Unit of Evolution基因作為進化的基本單位]]
+[[BookNotes/Sapiens#Introduction to Human Evolution人類演化概論\|Sapiens#Introduction to Human Evolution人類演化概論]]
 # Introduction to Darwin's Work達爾文的工作簡介
 
 Charles Darwin's "On the Origin of Species" is a pivotal scientific text that introduced the theory of evolution through natural selection. This work has profoundly influenced our understanding of biology and the development of life on Earth. With advancements in genetics and paleontology, we can now further comprehend and validate Darwin's ideas, which were groundbreaking in his time.查爾斯·達爾文的《物種起源》是一部重要的科學著作，介紹了透過自然選擇進行演化的理論。 這項工作深刻地影響了我們對生物學和地球生命發展的理解。 隨著遺傳學和古生物學的進步，我們現在可以進一步理解和驗證達爾文的思想，這在他的時代是開創性的。

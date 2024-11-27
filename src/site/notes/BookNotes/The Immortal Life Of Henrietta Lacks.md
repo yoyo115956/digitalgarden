@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-immortal-life-of-henrietta-lacks/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.368+08:00","updated":"2024-11-27T18:15:38.416+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-immortal-life-of-henrietta-lacks/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.368+08:00","updated":"2024-11-28T01:16:32.479+08:00"}
 ---
 
+# 相關筆記
+#科學 #傳記與回憶 
+[[BookNotes/A Short History of Nearly Everything#The Origin of Life生命的起源\|A Short History of Nearly Everything#The Origin of Life生命的起源]]
+[[BookNotes/The Autobiography of Malcolm X#Introduction to Malcolm X馬爾科姆·X 簡介\|The Autobiography of Malcolm X#Introduction to Malcolm X馬爾科姆·X 簡介]]
+[[BookNotes/Becoming#Conclusion結論\|Becoming#Conclusion結論]]
 # Introduction介紹
 
 The story of Henrietta Lacks, the woman behind the immortal HeLa cells, is a profound narrative that intertwines medical history, ethics, and the legacy of racial injustice in America. In "The Immortal Life of Henrietta Lacks," Rebecca Skloot explores both Henrietta's life and the scientific significance of her cells, which have contributed to numerous medical breakthroughs. Despite the monumental impact of her cells, Henrietta's identity remained largely unknown until recent years, highlighting the often-overlooked contributions of Black individuals in the medical field.不朽海拉細胞背後的女性亨麗埃塔·拉克斯的故事是一個深刻的故事，將醫學史、倫理學和美國種族不平等的遺產交織在一起。 在《亨利埃塔的不朽生命》一書中，麗貝卡·斯克洛特探索了亨利埃塔的生命和她的細胞的科學意義，這些細胞為許多醫學突破做出了貢獻。 儘管亨麗埃塔的細胞產生了巨大的影響，但直到最近幾年，她的身份仍然很大程度上不為人所知，這突顯了黑人在醫學領域經常被忽視的貢獻。

@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/long-walk-to-freedom/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.476+08:00","updated":"2024-11-27T18:15:38.435+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/long-walk-to-freedom/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.476+08:00","updated":"2024-11-28T01:07:37.422+08:00"}
 ---
 
+# 相關筆記
+#政治 #傳記與回憶 
+[[BookNotes/The Power of Habit#Social Movements and Habits社會運動和習慣\|The Power of Habit#Social Movements and Habits社會運動和習慣]]
+[[BookNotes/The Unbearable Lightness of Being#Chapter 3 Prague Spring - Politics and Fate第三章：布拉格之春－政治與命運\|The Unbearable Lightness of Being#Chapter 3 Prague Spring - Politics and Fate第三章：布拉格之春－政治與命運]]
+[[BookNotes/The Autobiography of Malcolm X#Introduction to Malcolm X馬爾科姆·X 簡介\|The Autobiography of Malcolm X#Introduction to Malcolm X馬爾科姆·X 簡介]]
+[[BookNotes/Being and Time#Introduction介紹\|Being and Time#Introduction介紹]]
+[[BookNotes/Becoming#Introduction介紹\|Becoming#Introduction介紹]]
 # Introduction to Nelson Mandela納爾遜曼德拉簡介
 
 Nelson Mandela is often regarded as one of the greatest icons of the twentieth century. His life story is a powerful narrative of resilience against oppression. Born in 1918 in a small village in South Africa, Mandela faced significant injustices throughout his life but remained steadfast in his pursuit of social justice. This summary explores the key events and influences that shaped Mandela into the leader he became.納爾遜·曼德拉通常被認為是二十世紀最偉大的偶像之一。 他的人生故事有力地講述了反抗壓迫的堅強意志。 曼德拉於 1918 年出生於南非的一個小村莊，一生都面臨著嚴重的不公正，但他始終堅定地追求社會正義。 本摘要探討了塑造曼德拉成為領導者的關鍵事件和影響。

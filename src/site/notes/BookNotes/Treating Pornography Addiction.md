@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/treating-pornography-addiction/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.670+08:00","updated":"2024-11-27T18:15:38.396+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/treating-pornography-addiction/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.670+08:00","updated":"2024-11-28T01:17:43.511+08:00"}
 ---
 
 # 相關筆記
+#性與關係 
 [[BookNotes/The Body Keeps the Score#Conclusion The Path Forward結論：前進的道路\|The Body Keeps the Score#Conclusion The Path Forward結論：前進的道路]]
 [[BookNotes/The Artist's Way#Emotional Challenges in the Recovery Process復原過程中的情緒挑戰\|The Artist's Way#Emotional Challenges in the Recovery Process復原過程中的情緒挑戰]]
 [[BookNotes/Atomic Habits#Motivation and Rewards動機和獎勵\|Atomic Habits#Motivation and Rewards動機和獎勵]]
+[[BookNotes/The Power of Habit#The Habit Loop Cue, Routine, Reward習慣循環：提示、例行公事、獎勵\|The Power of Habit#The Habit Loop Cue, Routine, Reward習慣循環：提示、例行公事、獎勵]]
 # Introduction to Pornography Addiction色情成癮簡介
 
 Pornography addiction is a growing concern in today's society, where sexual imagery is omnipresent across various media platforms. This constant exposure can lead to a cycle of addiction that affects an individual's mental and physical health, relationships, and overall well-being. The journey to breaking free from this addiction is challenging but achievable with the right strategies and support. It is essential to seek professional help if experiencing severe symptoms like depression or self-harm.色情成癮在當今社會日益受到關注，性圖像在各種媒體平台上無所不在。 這種持續接觸可能會導致成癮循環，影響個人的身心健康、人際關係和整體福祉。 擺脫這種成癮的過程充滿挑戰，但透過正確的策略和支持是可以實現的。 如果出現憂鬱或自殘等嚴重症狀，必須尋求專業協助。

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/cosmos/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.104+08:00","updated":"2024-11-27T18:15:38.449+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/cosmos/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.104+08:00","updated":"2024-11-28T00:58:35.544+08:00"}
 ---
 
+# 相關筆記
+#科學 
+[[BookNotes/A Short History of Nearly Everything#Introduction to the Universe宇宙簡介\|A Short History of Nearly Everything#Introduction to the Universe宇宙簡介]]
+[[BookNotes/A Brief History of Time#Conclusion Understanding the Universe結論：理解宇宙\|A Brief History of Time#Conclusion Understanding the Universe結論：理解宇宙]]
 # Introduction介紹
 
 The exploration of the cosmos offers a profound perspective on our existence. Carl Sagan's work emphasizes the vastness of the universe, encouraging us to step back from our daily dramas and recognize our small place in the grand scheme of things. This summary explores humanity's journey to understand the universe, from ancient times to modern space exploration.對宇宙的探索為我們的存在提供了深刻的視角。 卡爾·薩根的作品強調宇宙的浩瀚，鼓勵我們從日常的戲劇中退後一步，並認識到我們在事物的宏偉計劃中的渺小地位。 本摘要探討了人類從古代到現代太空探索的理解宇宙的旅程。

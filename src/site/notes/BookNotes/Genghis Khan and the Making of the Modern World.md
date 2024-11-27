@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/genghis-khan-and-the-making-of-the-modern-world/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.591+08:00","updated":"2024-11-27T18:15:38.443+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/genghis-khan-and-the-making-of-the-modern-world/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.591+08:00","updated":"2024-11-28T01:01:26.330+08:00"}
 ---
 
 # 相關筆記
+#歷史 
 [[BookNotes/The Silk Roads#Chapter 4 The Mongol Conquests and the Plague第四章：蒙古的征服與瘟疫\|The Silk Roads#Chapter 4 The Mongol Conquests and the Plague第四章：蒙古的征服與瘟疫]]
+[[BookNotes/The Art of War (new version)#Historical Context歷史背景\|The Art of War (new version)#Historical Context歷史背景]]
+[[BookNotes/Tao Te Ching#Introduction to Tao Te Ching道德經簡介\|Tao Te Ching#Introduction to Tao Te Ching道德經簡介]]
 # Introduction介紹
 
 Genghis Khan is often portrayed as a brutal conqueror responsible for the destruction of civilizations. However, this characterization raises questions about the complexity of his legacy. Was he a unifier or a destroyer? Did he rise to greatness through privilege or struggle? This biography explores the life of Genghis Khan, revealing the nuances of his character and the impact of his actions.成吉思汗經常被描繪成一個殘酷的征服者，對文明的毀滅負有責任。 然而，這種描述引發了人們對他遺產的複雜性的質疑。 他是統一者還是破壞者？ 他是透過特權還是奮鬥而變得偉大的？ 這本傳記探討了成吉思汗的一生，揭示了他性格的細微差別以及他的行為的影響。

@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-body-keeps-the-score/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.162+08:00","updated":"2024-11-27T18:15:38.419+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-body-keeps-the-score/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.162+08:00","updated":"2024-11-28T01:14:48.376+08:00"}
 ---
 
+# 相關筆記
+#心理學 #科學 #健康與營養 #性與關係 #正念與快樂 
+[[BookNotes/Blink#Chapter 5 Stress and Decision-Making第 5 章：壓力與決策\|Blink#Chapter 5 Stress and Decision-Making第 5 章：壓力與決策]]
+[[BookNotes/The Art of War (new version)#Historical Context歷史背景\|The Art of War (new version)#Historical Context歷史背景]]
+[[BookNotes/Man's Search for Meaning#Initial Reactions to Concentration Camps對集中營的初步反應\|Man's Search for Meaning#Initial Reactions to Concentration Camps對集中營的初步反應]]
+[[BookNotes/Emotional Intelligence#The Downside of Emotions情緒的壞處\|Emotional Intelligence#The Downside of Emotions情緒的壞處]]
+[[BookNotes/The Tipping Point#Influence of External Circumstances外在環境的影響\|The Tipping Point#Influence of External Circumstances外在環境的影響]]
 # Introduction介紹
 
 The exploration of trauma and its effects on the body and mind is a critical topic in understanding mental health. Bessel van der Kolk's "The Body Keeps the Score" delves into how trauma impacts individuals, particularly focusing on war veterans but extending to a broader societal context. The book emphasizes that trauma is not limited to extreme cases but is a common experience that can affect anyone, leading to significant mental and physical health challenges.探索創傷及其對身心的影響是理解心理健康的關鍵主題。 貝塞爾·范德科爾克（Bessel van der Kolk）的《身體保持分數》深入探討了創傷如何影響個人，特別關注退伍軍人，但擴展到更廣泛的社會背景。 該書強調，創傷不僅限於極端情況，而是一種常見的經歷，可以影響任何人，導致重大的心理和身體健康挑戰。

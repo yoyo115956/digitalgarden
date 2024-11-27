@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/sapiens/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.514+08:00","updated":"2024-11-27T18:15:38.426+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/sapiens/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.514+08:00","updated":"2024-11-28T01:12:55.954+08:00"}
 ---
 
+# 相關筆記
+#科學 #歷史 
+[[BookNotes/On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響\|On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響]]
+[[BookNotes/The Selfish Gene#The Gene as the Basic Unit of Evolution基因作為進化的基本單位\|The Selfish Gene#The Gene as the Basic Unit of Evolution基因作為進化的基本單位]]
+[[BookNotes/A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫\|A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫]]
+[[BookNotes/On the Origin of Species#Introduction to Darwin's Work達爾文的工作簡介\|On the Origin of Species#Introduction to Darwin's Work達爾文的工作簡介]]
 # Introduction to Human Evolution人類演化概論
 
 The journey of Homo sapiens spans approximately 300,000 years, during which humans have evolved from being just another species to the dominant force on Earth. This transformation raises the question: why did Homo sapiens succeed while other human species, such as Neanderthals and Denisovans, did not? Mark Chrysler, a writer and podcaster, explores these themes in his summary of Yuval Noah Harari's book "Sapiens."智人的旅程跨越了大約30萬年，在此期間，人類從一個普通的物種進化成了地球上的主導力量。 這種轉變提出了一個問題：為什麼智人成功了，而其他人類物種，如尼安德塔人和丹尼索瓦人卻沒有成功？ 作家兼播客馬克·克萊斯勒 (Mark Chrysler) 在對尤瓦爾·諾亞·赫拉利 (Yuval Noah Harari) 的著作《智人》(Sapiens) 的總結中探討了這些主題。

@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/emotional-intelligence/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.528+08:00","updated":"2024-11-27T18:15:38.446+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/emotional-intelligence/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.528+08:00","updated":"2024-11-28T00:56:02.150+08:00"}
 ---
 
 # 相關筆記
+#心理學 #溝通技巧 #性與關係 
 [[BookNotes/Blink#Chapter 5 Stress and Decision-Making第 5 章：壓力與決策\|Blink#Chapter 5 Stress and Decision-Making第 5 章：壓力與決策]]
 [[BookNotes/The Age of AI#AI's Influence on Human Identity人工智慧對人類身分的影響\|The Age of AI#AI's Influence on Human Identity人工智慧對人類身分的影響]]
 [[BookNotes/Meditations#The Role of Logic邏輯的作用\|Meditations#The Role of Logic邏輯的作用]]
 [[BookNotes/How Will You Measure Your Life#Intuition and Empathy in Relationships關係中的直覺和同理心\|How Will You Measure Your Life#Intuition and Empathy in Relationships關係中的直覺和同理心]]
+[[BookNotes/Scary Smart#Guiding AI Toward an Ethical Future引導人工智慧邁向道德未來\|Scary Smart#Guiding AI Toward an Ethical Future引導人工智慧邁向道德未來]]
+[[BookNotes/Meditations#The Role of Logic邏輯的作用\|Meditations#The Role of Logic邏輯的作用]]
 # Introduction to Emotional Intelligence情緒智商簡介
 
 Emotional intelligence (EI) is a crucial aspect of human interaction and decision-making that extends beyond romantic or conflictual situations. Daniel Goleman's work emphasizes the pervasive role emotions play in our daily lives, influencing our decisions, interactions, and overall understanding of the world. This book explores the dual nature of emotions, highlighting their potential to both assist and mislead us. It also delves into the significance of emotional intelligence in fostering positive outcomes and mitigating negative consequences, while addressing how this capacity can be developed and its importance for society.情緒智商（EI）是人類互動和決策的一個重要方面，其範圍超出了浪漫或衝突的情況。 丹尼爾·戈爾曼（Daniel Goleman）的作品強調了情緒在我們日常生活中所發揮的普遍作用，影響著我們的決策、互動和對世界的整體理解。 本書探討了情緒的雙重本質，並強調了它們既可以幫助我們，也可以誤導我們。 它也深入探討了情緒智商在促進正面成果和減輕負面後果方面的重要性，同時討論如何發展這種能力及其對社會的重要性。

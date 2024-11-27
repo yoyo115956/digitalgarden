@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-great-gatsby/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.701+08:00","updated":"2024-11-27T18:15:38.414+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-great-gatsby/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.701+08:00","updated":"2024-11-28T00:51:59.587+08:00"}
 ---
 
+# 相關筆記
+#性與關係 #歷史 #創造力 #社會與文化 #小說 
+[[BookNotes/Good to Great#Introduction介紹\|Good to Great#Introduction介紹]]
+[[BookNotes/The Unbearable Lightness of Being#Conclusion結論\|The Unbearable Lightness of Being#Conclusion結論]]
+[[BookNotes/To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介\|To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介]]
+[[BookNotes/The Unbearable Lightness of Being#Conclusion結論\|The Unbearable Lightness of Being#Conclusion結論]]
+[[BookNotes/Nineteen Eighty-Four (1984)#O’Brien Breaking Love奧布萊恩：破碎的愛\|Nineteen Eighty-Four (1984)#O’Brien Breaking Love奧布萊恩：破碎的愛]]
+[[BookNotes/Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒\|Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒]]
 # Introduction介紹
 
 The Great Gatsby, written by F. Scott Fitzgerald, is a profound exploration of the American Dream and the social dynamics of 1920s America. The novel reflects Fitzgerald's own life experiences, particularly through the characters of Jay Gatsby and Nick Carraway. Both characters navigate the complexities of love, wealth, and societal expectations, mirroring Fitzgerald's own journey from modest beginnings to literary success. The narrative critiques the myth of the American Dream, revealing the class divisions and moral decay underlying the pursuit of wealth and status.F·斯科特·菲茨杰拉德 (F. Scott Fitzgerald) 所寫的《了不起的蓋茨比》是對美國夢和 20 年代美國社會動態的深刻探索。 這部小說反映了菲茨傑拉德自己的生活經歷，特別是透過傑·蓋茲比和尼克·卡拉威的角色。 這兩個角色都在愛情、財富和社會期望的複雜性中游刃有餘，反映了菲茨傑拉德自己從卑微的出身到文學成功的旅程。 這部敘事批判了美國夢的神話，揭示了追求財富和地位背後的階級分裂和道德敗壞。

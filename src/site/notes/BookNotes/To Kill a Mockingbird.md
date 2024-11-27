@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/to-kill-a-mockingbird/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.829+08:00","updated":"2024-11-27T18:15:38.397+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/to-kill-a-mockingbird/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.829+08:00","updated":"2024-11-28T00:54:40.640+08:00"}
 ---
 
+# 相關筆記
+#歷史 #社會與文化 #小說 
+[[BookNotes/Fahrenheit 451#Introduction to Fahrenheit 451華氏451度簡介\|Fahrenheit 451#Introduction to Fahrenheit 451華氏451度簡介]]
+[[BookNotes/The Catcher in the Rye#Seeking Connection尋求聯繫\|The Catcher in the Rye#Seeking Connection尋求聯繫]]
+[[BookNotes/The Great Gatsby#Introduction介紹\|The Great Gatsby#Introduction介紹]]
 # Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介
 
 Harper Lee's novel, To Kill a Mockingbird, has sold over 18 million copies since its publication in 1960 and is often ranked among the most influential books in American literature. The novel explores complex themes of human behavior and morality, presenting a nuanced view of justice and courage through the experiences of its characters, particularly Atticus Finch, a lawyer who teaches his children the importance of doing the right thing, even in the face of overwhelming odds.哈珀李的小說《殺死一隻知更鳥》自 1960 年出版以來已售出超過 1800 萬冊，經常被評為美國文學中最有影響力的書籍之一。 小說探討了人類行為和道德的複雜主題，透過人物的經驗呈現了對正義和勇氣的細緻入微的看法，尤其是律師阿蒂克斯·芬奇，他教導孩子們即使面對壓倒性的壓力也要做正確的事的重要性賠率。

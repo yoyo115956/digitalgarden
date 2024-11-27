@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/thinking-fast-and-slow/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.487+08:00","updated":"2024-11-27T18:15:38.399+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/thinking-fast-and-slow/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.487+08:00","updated":"2024-11-28T01:05:30.496+08:00"}
 ---
 
+# 相關筆記
+#心理學 
+[[BookNotes/Blink#Chapter 1 Trusting Intuition第一章：相信直覺\|Blink#Chapter 1 Trusting Intuition第一章：相信直覺]]
+[[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]
+[[BookNotes/Critique of Pure Reason#Chapter 11 Acquiring A Priori Knowledge第11章：獲得先驗知識\|Critique of Pure Reason#Chapter 11 Acquiring A Priori Knowledge第11章：獲得先驗知識]]
 # Introduction介紹
 
 The mind operates through two distinct systems that shape our behavior: System One, which is automatic and intuitive, and System Two, which is deliberate and analytical. This duality creates a dynamic interplay that influences our thoughts, judgments, and actions. System One reacts quickly and instinctively, while System Two engages in conscious thought and reasoning. Understanding these systems is crucial for recognizing how we make decisions and navigate our daily lives.大腦透過兩個不同的系統來運作，這些系統塑造了我們的行為：系統一是自動的、直覺的，系統二是深思熟慮的、分析性的。 這種二元性創造了一種動態的相互作用，影響我們的思想、判斷和行動。 系統一反應迅速、本能，而係統二則進行有意識的思考與推理。 了解這些系統對於了解我們如何做出決策和駕馭日常生活至關重要。

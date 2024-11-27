@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-innovator-s-dilemma/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.301+08:00","updated":"2024-11-27T18:15:38.414+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-innovator-s-dilemma/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.301+08:00","updated":"2024-11-28T00:59:54.916+08:00"}
 ---
 
 # 相關筆記
-[[BookNotes/The Structure of Scientific Revolutions#Conclusion結論\|The Structure of Scientific Revolutions#Conclusion結論]]
+#技術與未來 #生產力 #創業 #管理與領導 #創造力 
+[[BookNotes/The Structure of Scientific Revolutions#The Revolutionary Nature of Scientific Change科學變革的革命性本質\|The Structure of Scientific Revolutions#The Revolutionary Nature of Scientific Change科學變革的革命性本質]]
+[[BookNotes/Zero to One#Chapter 3 Stop Making Copycat Products第 3 章：停止製造山寨產品\|Zero to One#Chapter 3 Stop Making Copycat Products第 3 章：停止製造山寨產品]]
+[[BookNotes/The Uninhabitable Earth#New Technologies Give Us Ways of Softening These Disasters, but They Are Currently Impractical新技術為我們提供了減輕這些災難的方法，但目前還不切實際\|The Uninhabitable Earth#New Technologies Give Us Ways of Softening These Disasters, but They Are Currently Impractical新技術為我們提供了減輕這些災難的方法，但目前還不切實際]]
 # Introduction to Disruptive Innovation顛覆性創新簡介
 
 Disruptive innovation is a pivotal concept in economics, introduced by Clayton Christensen in his influential book, "The Innovator's Dilemma." This idea has gained lasting significance, particularly as it explains how new technologies can disrupt established markets and companies. Christensen's work has been recognized by prominent figures in the business world, highlighting its relevance in understanding economic shifts and the dynamics of innovation.顛覆性創新是經濟學中的關鍵概念，由克萊頓·克里斯滕森（Clayton Christensen）在其頗具影響力的著作《創新者的困境》中提出。 這個想法具有持久的意義，特別是因為它解釋了新技術如何擾亂現有市場和公司。 克里斯滕森的工作得到了商界知名人士的認可，強調了其在理解經濟變化和創新動態方面的相關性。

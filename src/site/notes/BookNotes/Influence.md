@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/influence/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.178+08:00","updated":"2024-11-27T18:15:38.436+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/influence/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.178+08:00","updated":"2024-11-28T01:11:23.419+08:00"}
 ---
 
+# 相關筆記
+#心理學 #市場與營銷 #溝通技巧 
+[[BookNotes/The Power of Habit#Introduction to Habits習慣簡介\|The Power of Habit#Introduction to Habits習慣簡介]]
+[[BookNotes/The Tipping Point#Persuasion and Salesmanship說服和推銷技巧\|The Tipping Point#Persuasion and Salesmanship說服和推銷技巧]]
+[[BookNotes/The Tipping Point#Key Influencers in Epidemics流行病的關鍵影響因素\|The Tipping Point#Key Influencers in Epidemics流行病的關鍵影響因素]]
+[[BookNotes/The 7 Habits of Highly Effective People#The Importance of Principles in Habit Formation原則在習慣形成中的重要性\|The 7 Habits of Highly Effective People#The Importance of Principles in Habit Formation原則在習慣形成中的重要性]]
+[[BookNotes/SuperFreakonomics#Human Behavior Altruism vs. Apathy人類行為：利他主義與冷漠\|SuperFreakonomics#Human Behavior Altruism vs. Apathy人類行為：利他主義與冷漠]]
 # Introduction介紹
 
 In "Influence: The Psychology of Persuasion," Robert B. Cialdini explores the mechanisms of persuasion and compliance that shape human behavior. He shares insights from his research and personal experiences, revealing how individuals can both fall victim to manipulation and harness these principles for their own benefit. The book outlines six fundamental principles of persuasion that compliance professionals exploit to influence decisions and actions.在《影響力：說服心理學》一書中，羅伯特‧B‧西奧迪尼 (Robert B. Cialdini) 探討了影響人類行為的說服和順從機制。 他分享了他的研究和個人經驗的見解，揭示了個人如何既成為操縱的受害者，又如何利用這些原則為自己謀取利益。 本書概述了合規專業人士用來影響決策和行動的六項基本說服原則。

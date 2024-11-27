@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-social-contract/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.450+08:00","updated":"2024-11-27T18:15:38.405+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-social-contract/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.450+08:00","updated":"2024-11-28T01:21:55.076+08:00"}
 ---
 
+# 相關筆記
+#政治 #哲學 
+[[BookNotes/The Republic#Conclusion結論\|The Republic#Conclusion結論]]
+[[BookNotes/The Power of Habit#Social Movements and Habits社會運動和習慣\|The Power of Habit#Social Movements and Habits社會運動和習慣]]
+[[BookNotes/The Origins of Totalitarianism#Conclusion結論\|The Origins of Totalitarianism#Conclusion結論]]
+[[BookNotes/Influence#Conclusion結論\|Influence#Conclusion結論]]
 # Introduction to Political Engagement政治參與簡介
 
 The text discusses the importance of political engagement and direct democracy, referencing Jean-Jacques Rousseau's work, "The Social Contract." Although modern democracies have evolved from monarchies, many citizens remain disengaged from the political processes that shape their lives. The text emphasizes that civic engagement is crucial for maintaining a healthy state and preventing corruption.文本討論了政治參與和直接民主的重要性，並引用了讓-雅克·盧梭的著作《社會契約論》。 儘管現代民主國家是從君主制發展而來的，但許多公民仍然脫離了塑造他們生活的政治進程。 文本強調公民參與對於維持健康國家和防止腐敗至關重要。

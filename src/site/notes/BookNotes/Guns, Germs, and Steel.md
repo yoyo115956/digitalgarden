@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/guns-germs-and-steel/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.501+08:00","updated":"2024-11-27T18:15:38.442+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/guns-germs-and-steel/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.501+08:00","updated":"2024-11-28T01:02:27.247+08:00"}
 ---
 
+# 相關筆記
+#科學 #歷史 #自然與環境 #社會與文化 
+[[BookNotes/Sapiens#Introduction to Human Evolution人類演化概論\|Sapiens#Introduction to Human Evolution人類演化概論]]
+[[BookNotes/Cosmos#Chapter 5 Modern Science Isn’t So Modern第五章：現代科學沒那麼現代\|Cosmos#Chapter 5 Modern Science Isn’t So Modern第五章：現代科學沒那麼現代]]
 # Introduction介紹
 
 The exploration of human divergence is a central theme in Jared Diamond's "Guns, Germs, and Steel." Diamond examines the broad patterns of human history, arguing that to understand the fate of societies, one must look back to around 13,000 years ago. He contrasts the similarities among early human societies with the stark differences that emerged by 1492, particularly between Eurasian civilizations and those in Australia, Africa, and the Americas.對人類差異的探索是賈里德·戴蒙德的《槍砲、病菌與鋼鐵》的中心主題。 戴蒙德審視了人類歷史的廣泛模式，認為要了解社會的命運，我們必須回顧大約 13,000 年前。 他將早期人類社會之間的相似之處與 1492 年出現的明顯差異進行了對比，特別是歐亞文明與澳洲、非洲和美洲文明之間的差異。
