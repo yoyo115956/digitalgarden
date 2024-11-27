@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+歡迎來到我的圖書筆記！
 [[BookNotes/Zero to One\|Zero to One]]
 [[BookNotes/101 Questions to Ask Before You Get Engaged\|101 Questions to Ask Before You Get Engaged]]
 [[BookNotes/A Brief History of Time\|A Brief History of Time]]
