@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/book-notes/being-and-time/","dgPassFrontmatter":true}
+---
+
+# Introduction介紹
+
+Being and Time by Martin Heidegger presents a profound exploration of existence, challenging centuries of Western philosophical thought. The text is notoriously complex, often likened to navigating a dense jungle, yet it offers invaluable insights into the nature of being. Heidegger's work is essential for understanding modern philosophy, as it questions the very foundations of what it means to exist.馬丁‧海德格的《存在與時間》提出了對存在的深刻探索，挑戰了幾個世紀的西方哲學思想。 這篇文章非常複雜，通常被比作在茂密的叢林中航行，但它提供了對存在本質的寶貴見解。 海德格的著作對於理解現代哲學至關重要，因為它質疑存在意義的根本基礎。
+
+# A New Way to Think About Being一種思考存在的新方式
+
+Heidegger's revolutionary approach critiques the Cartesian dualism established by René Descartes, which separates the physical world from mental constructs. Descartes posited that knowledge of the external world comes through sensory perception, but he was skeptical of this information, suggesting that logic and reasoning were paramount. Heidegger countered this view by emphasizing that human beings are inherently intertwined with their environment. He introduced the concept of "ready-to-hand" versus "present-at-hand" to illustrate how we engage with objects in our daily lives. Rather than contemplating objects in an abstract manner, we primarily interact with them based on their practical uses. This perspective highlights that our existence is not isolated from the world; instead, we are "thrown" into it, and our understanding of being is rooted in our everyday experiences.海德格的革命性方法批評了笛卡爾建立的笛卡爾二元論，將物理世界與精神結構分開。 笛卡兒假設外在世界的知識來自感官知覺，但他對這個訊息持懷疑態度，認為邏輯和推理才是最重要的。 海德格反駁了這種觀點，強調人類本質上與環境交織在一起。 他引入了「現成的」與「現成的」的概念來說明我們如何在日常生活中與物體打交道。 我們不是以抽象的方式思考物體，而是主要根據它們的實際用途與它們互動。 這個觀點強調我們的存在並不是與世界隔絕的； 相反，我們被「扔」進去，我們對存在的理解植根於我們的日常經驗。
+
+# Living Authentically真實地生活
+
+Heidegger's notion of Dasein, meaning "being there," underscores the idea that human existence is fundamentally linked to our surroundings. Unlike other beings, humans possess the unique ability to reflect on their own existence, leading to a sense of care about our being. This capacity for self-reflection can also lead to feelings of anxiety when we confront the meaning of our lives. Heidegger viewed anxiety not as a negative force but as a catalyst for authentic living. To live authentically, individuals must confront their existence and resist the pull of societal norms, which he termed "das Mann" or "the they." Authenticity requires grappling with life's possibilities and making choices that reflect our true selves rather than conforming to external expectations.海德格的此在概念，意思是“在那裡”，強調了人類的存在與我們的周圍環境有著根本聯繫的觀點。 與其他生物不同，人類擁有反思自身存在的獨特能力，產生對自身存在的關懷感。 當我們面對生命的意義時，這種自我反省的能力也會導致焦慮感。 海德格認為焦慮不是消極力量，而是真正生活的催化劑。 為了真實地生活，個人必須面對自己的存在並抵制社會規範的牽引，他稱之為“das Mann”或“他們”。 真實性需要努力應對生活的可能性，並做出反映真實自我的選擇，而不是遵守外在期望。
+
+# Time and Death時間與死亡
+
+Heidegger's exploration of being is incomplete without considering time, which he argues is integral to our existence. He challenges the conventional view of time as linear and eternal, suggesting instead that our experience of time is deeply personal and finite, marked by the inevitability of death. This awareness of mortality, termed "being-toward-death," compels us to live authentically. By recognizing our limited time, we are motivated to make meaningful choices and pursue a life that reflects our individual values and aspirations. Heidegger posits that authentic living is driven by a future-oriented perspective, where the awareness of death shapes our decisions and actions.如果不考慮時間，海德格對存在的探索是不完整的，他認為時間是我們存在的組成部分。 他挑戰了傳統的時間觀，即時間是線性的和永恆的，相反，他認為我們對時間的體驗是非常個人化和有限的，其特徵是死亡的不可避免。 這種對死亡的認識，被稱為“向死而生”，迫使我們真實地生活。 透過認識到我們的時間有限，我們有動力做出有意義的選擇並追求反映我們個人價值觀和願望的生活。 海德格認為，真實的生活是由面向未來的視角所驅動的，其中對死亡的意識塑造了我們的決定和行動。
+
+# Conclusion結論
+
+In summary, Heidegger's Being and Time fundamentally redefines the concept of being by asserting that it is inseparable from our environment and temporal existence. He critiques the abstract philosophical traditions that have dominated Western thought, advocating for a more grounded understanding of human existence as Dasein. Anxiety and the awareness of death are not merely burdens but essential elements that propel us toward authenticity. By embracing our unique experiences and confronting the realities of our existence, we can lead rich, purposeful lives. Heidegger's work remains a cornerstone of modern philosophy, inviting us to reflect deeply on the nature of being and our place in the world.總而言之，海德格的《存在與時間》從根本上重新定義了存在的概念，斷言存在與我們的環境和時間有密不可分。 他批評主導西方思想的抽象哲學傳統，主張對人類存在作為此在有更紮實的理解。 焦慮和死亡意識不僅是負擔，也是推動我們走向真實的基本要素。 透過擁抱我們獨特的經驗並面對我們存在的現實，我們可以過著豐富、有目標的生活。 海德格的著作仍然是現代哲學的基石，邀請我們深入反思存在的本質以及我們在世界上的地位。
