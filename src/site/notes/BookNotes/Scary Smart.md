@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/scary-smart/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/scary-smart/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.036+08:00","updated":"2024-11-27T18:15:38.430+08:00"}
 ---
 
 # Introduction to AI's Future人工智慧的未來簡介

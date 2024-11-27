@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/critique-of-pure-reason/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/critique-of-pure-reason/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.656+08:00","updated":"2024-11-27T23:15:49.584+08:00"}
 ---
 
+# 相關筆記
+#哲學
+[[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]
+[[BookNotes/Fahrenheit 451#Analysis of Chapter 3第3章分析\|Fahrenheit 451#Analysis of Chapter 3第3章分析]]
+[[BookNotes/Meditations#The Role of Logic邏輯的作用\|Meditations#The Role of Logic邏輯的作用]]
+[[BookNotes/The Structure of Scientific Revolutions#Conclusion結論\|The Structure of Scientific Revolutions#Conclusion結論]]
 # Introduction介紹
 
 The discussion centers on Immanuel Kant's seminal work, "The Critique of Pure Reason," which interrogates the fundamental concepts of space, time, and causality. Kant's dense writing style has led to various interpretations among scholars, but the core message emphasizes the necessity for philosophers to evaluate the origins and nature of mental materials before constructing metaphysical systems. This approach is akin to a builder assessing the quality of materials before erecting a structure. Kant argues that metaphysics seeks to understand the ultimate nature of reality through abstract concepts and logical principles. Prior to his critique, many philosophers built metaphysical frameworks without considering the mental materials at their disposal, risking instability in their theories. Understanding the strengths and limitations of these mental materials is crucial for establishing the boundaries of knowledge and the relationship between scientific and religious understanding. A thorough inquiry into the origins of mental materials is essential to prevent the construction of flawed metaphysical systems.討論集中在伊曼努爾·康德的開創性著作《純粹理性批判》上，該著作質疑了空間、時間和因果關係的基本概念。 康德密集的寫作風格導致學者有不同的解釋，但核心訊息強調哲學家在建構形上學系統之前必須評估精神材料的起源和本質。 這種方法類似於建築商在建造結構之前評估材料的品質。 康德認為形上學試圖透過抽象概念和邏輯原理來理解現實的終極本質。 在他提出批評之前，許多哲學家在建立形而上學框架時沒有考慮他們可以使用的心理材料，從而冒著理論不穩定的風險。 了解這些心理材料的優點和限制對於確定知識的界限以及科學與宗教理解之間的關係至關重要。 對精神材料的起源進行徹底的探究對於防止建構有缺陷的形而上學系統至關重要。

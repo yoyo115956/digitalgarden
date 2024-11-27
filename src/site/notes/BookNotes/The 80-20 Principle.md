@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-80-20-principle/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-80-20-principle/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.617+08:00","updated":"2024-11-28T00:04:20.431+08:00"}
 ---
 
+# 相關筆記
+#生產力 #個人發展 #管理與領導 
+[[BookNotes/The Tipping Point#Understanding the Tipping Point了解臨界點\|The Tipping Point#Understanding the Tipping Point了解臨界點]]
+[[BookNotes/Nineteen Eighty-Four (1984)#Conclusion The Relevance of 1984結論：1984 年的現實意義\|Nineteen Eighty-Four (1984)#Conclusion The Relevance of 1984結論：1984 年的現實意義]]
+[[BookNotes/Atomic Habits#The Power of Small Habits小習慣的力量\|Atomic Habits#The Power of Small Habits小習慣的力量]]
+[[BookNotes/Thinking, Fast and Slow#Chapter 7 Mind Over Matter第7章：用心對待事物\|Thinking, Fast and Slow#Chapter 7 Mind Over Matter第7章：用心對待事物]]
 # Introduction介紹
 
 The 80-20 Principle, articulated by Richard Koch, emphasizes the importance of effectively managing time and resources in a world filled with overwhelming tasks and complexities. This principle suggests that a small portion of input often leads to the majority of output, allowing individuals and businesses to achieve more by focusing on what truly matters.理查德·科赫 (Richard Koch) 提出的 80-20 原則強調了在充滿艱鉅任務和複雜性的世界中有效管理時間和資源的重要性。 這項原則表明，一小部分投入往往會帶來大部分產出，讓個人和企業透過專注於真正重要的事情來取得更多成就。

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-warren-buffett-way/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-warren-buffett-way/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:51.947+08:00","updated":"2024-11-28T00:00:48.479+08:00"}
 ---
 
 # 相關筆記
+#金錢與投資 #傳記與回憶 
 [[BookNotes/The Next Millionaire Next Door#Investing in Simple, Sustainable Options投資簡單、永續的選擇\|The Next Millionaire Next Door#Investing in Simple, Sustainable Options投資簡單、永續的選擇]]
 [[BookNotes/Rich Dad, Poor Dad#Investing Wisely明智投資\|Rich Dad, Poor Dad#Investing Wisely明智投資]]
 # Introduction介紹

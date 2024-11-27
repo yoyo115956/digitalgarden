@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/death-of-a-salesman/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/death-of-a-salesman/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.145+08:00","updated":"2024-11-27T23:47:17.442+08:00"}
 ---
 
+# 相關筆記
+#經濟學 #政治 #社會與文化 
+[[BookNotes/Being and Time#Time and Death時間與死亡\|Being and Time#Time and Death時間與死亡]]
+[[BookNotes/Hamlet#Conclusion結論\|Hamlet#Conclusion結論]]
 # Introduction to Death of a Salesman商業交易。
 
 Arthur Miller's "Death of a Salesman" is a poignant exploration of the American Dream, focusing on the life of Willy Loman, a struggling salesman. The play's significance lies not in its extravagant sets or action but in its relatable characters and the profound themes of disillusionment and failure. Willy's ordinary life and the struggles of his family resonate with audiences, making the play a modern classic that has won accolades, including the Pulitzer Prize.阿瑟·米勒的《推銷員之死》是對美國夢的深刻探索，聚焦於苦苦掙扎的推銷員威利·洛曼的生活。 該劇的意義不在於其奢華的場景或動作，而在於其相關的人物以及幻滅和失敗的深刻主題。 威利平凡的生活和家庭的掙扎引起了觀眾的共鳴，使該劇成為現代經典，贏得了包括普立茲獎在內的讚譽。

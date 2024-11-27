@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/emotional-intelligence/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/emotional-intelligence/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.528+08:00","updated":"2024-11-27T18:15:38.446+08:00"}
 ---
 
 # 相關筆記

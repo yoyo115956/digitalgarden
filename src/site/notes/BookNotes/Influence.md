@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/influence/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/influence/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.178+08:00","updated":"2024-11-27T18:15:38.436+08:00"}
 ---
 
 # Introduction介紹

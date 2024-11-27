@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/outliers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/outliers/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.777+08:00","updated":"2024-11-28T00:00:03.830+08:00"}
 ---
 
+# 相關筆記
+#心理學 #動機與靈感 
+[[BookNotes/The Artist's Way#Building Confidence and Overcoming Self-Doubt建立信心並克服自我懷疑\|The Artist's Way#Building Confidence and Overcoming Self-Doubt建立信心並克服自我懷疑]]
+[[BookNotes/Self-Reliance#The Path to Self-Discovery自我發現之路\|Self-Reliance#The Path to Self-Discovery自我發現之路]]
+[[BookNotes/Zero to One#Conclusion結論\|Zero to One#Conclusion結論]]
+[[BookNotes/The Artist's Way#Avoiding Perfectionism and Fear避免完美主義和恐懼\|The Artist's Way#Avoiding Perfectionism and Fear避免完美主義和恐懼]]
+[[BookNotes/The 7 Habits of Highly Effective People#Habit 4 Think Win-Win習慣四：雙贏思維\|The 7 Habits of Highly Effective People#Habit 4 Think Win-Win習慣四：雙贏思維]]
 # Introduction介紹
-
 The concept of "self-made" success is often romanticized in our culture, but Malcolm Gladwell's "Outliers" challenges this notion by revealing that success is influenced by numerous external factors beyond individual talent and hard work. This summary explores the various elements that contribute to success, emphasizing that it is rarely achieved in isolation.「白手起家」的成功概念在我們的文化中經常被浪漫化，但馬爾科姆·格拉德威爾的《離群者》挑戰了這一概念，揭示了成功受到個人才能和努力工作之外的眾多外在因素的影響。 本摘要探討了有助於成功的各種要素，強調成功很少是孤立實現的。
 
 # The Myth of the Self-Made Man白手起家的神話

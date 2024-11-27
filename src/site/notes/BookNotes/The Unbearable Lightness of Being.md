@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-unbearable-lightness-of-being/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-unbearable-lightness-of-being/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.057+08:00","updated":"2024-11-27T23:51:45.621+08:00"}
 ---
 
 # 相關筆記
+#動機與靈感 #傳記與回憶 
 [[BookNotes/The Meaning of Life#Embracing Ambiguity擁抱歧義\|The Meaning of Life#Embracing Ambiguity擁抱歧義]]
+[[BookNotes/Being and Time#Conclusion結論\|Being and Time#Conclusion結論]]
 # Introduction介紹
 
 Milan Kundera's "The Unbearable Lightness of Being" delves into profound themes of love, politics, and existential questions, prompting readers to reflect on the weight of their choices and the nature of existence. Set against the backdrop of the Soviet occupation of Czechoslovakia, the novel explores the tension between personal freedom and political oppression, with characters embodying the struggle between lightness and weight in their lives.米蘭昆德拉的《生命中不能承受之輕》深入探討了愛情、政治和存在問題等深刻主題，促使讀者反思自己選擇的重量和存在的本質。 小說以蘇聯佔領捷克斯洛伐克為背景，探討了個人自由與政治壓迫之間的緊張關係，人物反映了生活中輕盈與沉重的鬥爭。

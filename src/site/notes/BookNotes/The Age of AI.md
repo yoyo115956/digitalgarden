@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-age-of-ai/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-age-of-ai/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.333+08:00","updated":"2024-11-27T19:15:36.065+08:00"}
 ---
 
 # Introduction to AI's Impact人工智慧影響簡介

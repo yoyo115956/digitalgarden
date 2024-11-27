@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/fahrenheit-451/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/fahrenheit-451/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.116+08:00","updated":"2024-11-28T00:08:11.248+08:00"}
 ---
 
+# 相關筆記
+#科學 #技術與未來 #社會與文化 
+[[BookNotes/Nineteen Eighty-Four (1984)#Introduction to 19841984年簡介\|Nineteen Eighty-Four (1984)#Introduction to 19841984年簡介]]
+[[BookNotes/Critique of Pure Reason#Introduction介紹\|Critique of Pure Reason#Introduction介紹]]
+[[BookNotes/To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介\|To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介]]
+[[BookNotes/SuperFreakonomics#Introduction介紹\|SuperFreakonomics#Introduction介紹]]
+[[BookNotes/Dune#Introduction to Dune沙丘簡介\|Dune#Introduction to Dune沙丘簡介]]
 # Introduction to Fahrenheit 451華氏451度簡介
 
 Fahrenheit 451, a short novel by Ray Bradbury, explores themes of censorship, the impact of technology on society, and the consequences of a dystopian future where books are banned. The title refers to the temperature at which paper ignites, symbolizing the destruction of literature and knowledge. The novel remains relevant due to its prophetic insights into issues like censorship and the rewriting of history, reflecting contemporary societal concerns.《華氏 451 度》是雷‧布萊伯利 (Ray Bradbury) 的短篇小說，探討了審查制度、科技對社會的影響，以及圖書被禁的反烏托邦未來的後果。 標題指的是紙被點燃的溫度，象徵文學和知識的毀滅。 這部小說因其對審查制度和歷史改寫等問題的預言性見解而仍然具有現實意義，反映了當代社會的擔憂。

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/nineteen-eighty-four-1984/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/nineteen-eighty-four-1984/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.789+08:00","updated":"2024-11-27T18:15:38.430+08:00"}
 ---
 
 # Introduction to 19841984年簡介

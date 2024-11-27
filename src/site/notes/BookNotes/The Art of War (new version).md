@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-art-of-war-new-version/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-art-of-war-new-version/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.985+08:00","updated":"2024-11-28T00:21:29.779+08:00"}
 ---
 
+# 相關筆記
+#管理與領導 
+[[BookNotes/Tao Te Ching#Introduction to Tao Te Ching道德經簡介\|Tao Te Ching#Introduction to Tao Te Ching道德經簡介]]
+[[BookNotes/Foundation#The Mayors市長們\|Foundation#The Mayors市長們]]
+[[BookNotes/A People’s History of the United States#Post-Vietnam Military Actions越戰後的軍事行動\|A People’s History of the United States#Post-Vietnam Military Actions越戰後的軍事行動]]
 # Introduction to The Art of War孫子兵法簡介
 
 The Art of War by Sun Tzu is a highly regarded leadership book that has influenced leaders across various fields for over 2,500 years. It offers timeless wisdom applicable in business, sports, parenting, and any situation involving conflict or competition. The central message of the book is to pick your battles wisely, a concept that resonates with many people today. This summary will explore the key ideas from the book and how they can be applied in modern leadership contexts.《孫子兵法》是一本備受推崇的領導力書籍，2500 多年來影響了各個領域的領導者。 它提供了適用於商業、體育、育兒以及任何涉及衝突或競爭的情況的永恆智慧。 這本書的中心思想是明智地選擇你的戰鬥，這一概念引起了當今許多人的共鳴。 本摘要將探討本書中的關鍵想法以及如何將它們應用到現代領導環境中。

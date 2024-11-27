@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-artist-s-way/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-artist-s-way/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.924+08:00","updated":"2024-11-27T19:17:51.019+08:00"}
 ---
 
 # Introduction to Creativity Recovery創造力恢復簡介

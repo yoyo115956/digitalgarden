@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-e-myth-revisited/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-e-myth-revisited/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.169+08:00","updated":"2024-11-27T18:15:38.416+08:00"}
 ---
 
 # Introduction to Small Business Success小型企業成功簡介

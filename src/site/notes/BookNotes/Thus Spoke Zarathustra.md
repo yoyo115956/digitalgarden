@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/thus-spoke-zarathustra/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/thus-spoke-zarathustra/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.969+08:00","updated":"2024-11-28T00:30:04.548+08:00"}
 ---
 
 # 相關筆記
+#哲學 #社會與文化 #小說 
 [[BookNotes/Beyond Good and Evil#The Rise of the Free Spirit自由精神的興起\|Beyond Good and Evil#The Rise of the Free Spirit自由精神的興起]]
 [[BookNotes/The Meaning of Life#Language and Meaning語言與意義\|The Meaning of Life#Language and Meaning語言與意義]]
 # Introduction to Nietzsche's Philosophy尼采哲學導論

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/blink/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/blink/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.314+08:00","updated":"2024-11-28T00:31:14.747+08:00"}
 ---
 
+# 相關筆記
+#心理學 #動機與靈感 
+[[BookNotes/Thinking, Fast and Slow#Chapter 3 Snap Judgments第3章：快速判斷\|Thinking, Fast and Slow#Chapter 3 Snap Judgments第3章：快速判斷]]
+[[BookNotes/The Black Swan#Understanding Limitations for Better Choices了解更好選擇的限制\|The Black Swan#Understanding Limitations for Better Choices了解更好選擇的限制]]
 # Introduction介紹
 
 Malcolm Gladwell's book "Blink: The Power of Thinking Without Thinking" explores the concept of intuition and the role of unconscious snap judgments in decision-making. The book emphasizes that while we often rely on rational analysis, our gut feelings can sometimes lead to better outcomes. However, it also warns that these intuitive judgments can be influenced by unconscious biases and prejudices. Understanding when to trust our intuition and when to be cautious is crucial for making sound decisions.馬爾科姆‧葛拉威爾的書《眨眼：不假思索地思考的力量》探討了直覺的概念以及無意識的快速判斷在決策中的作用。 這本書強調，雖然我們經常依賴理性分析，但我們的直覺有時可以帶來更好的結果。 然而，它也警告說，這些直覺判斷可能會受到無意識的偏見和成見的影響。 了解何時應該相信我們的直覺，何時應該謹慎，對於做出正確的決定至關重要。

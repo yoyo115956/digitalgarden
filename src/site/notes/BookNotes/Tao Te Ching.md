@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/tao-te-ching/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/tao-te-ching/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.436+08:00","updated":"2024-11-27T23:31:26.525+08:00"}
 ---
 
 # 相關筆記
+#動機與靈感 #哲學 #宗教與靈性
 [[BookNotes/The Meaning of Life#Conclusion結論\|The Meaning of Life#Conclusion結論]]
+[[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]
 # Introduction to Tao Te Ching道德經簡介
 
 Tao Te Ching, attributed to Lao Tzu, offers timeless wisdom that resonates with those who find life challenging. It presents an alternative approach to existence, emphasizing harmony with one's surroundings and the concept of "doing by not doing." This philosophy contrasts sharply with the aggressive pursuit of success often celebrated in modern culture, advocating instead for a life free from struggle.老子的《道德經》提供了永恆的智慧，與那些發現生活充滿挑戰的人產生共鳴。 它提出了另一種存在方式，強調與周圍環境的和諧以及「不做而做」的概念。 這種哲學與現代文化中經常頌揚的對成功的積極追求形成鮮明對比，相反，它提倡一種沒有鬥爭的生活。

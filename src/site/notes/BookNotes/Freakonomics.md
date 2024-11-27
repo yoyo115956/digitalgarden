@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/freakonomics/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/freakonomics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.307+08:00","updated":"2024-11-27T18:15:38.443+08:00"}
 ---
 
 # 相關筆記

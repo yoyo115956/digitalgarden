@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-devil-in-the-white-city/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-devil-in-the-white-city/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.050+08:00","updated":"2024-11-27T18:15:38.417+08:00"}
 ---
 
 # Introduction 介紹

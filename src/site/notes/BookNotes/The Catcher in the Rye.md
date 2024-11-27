@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-catcher-in-the-rye/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-catcher-in-the-rye/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.181+08:00","updated":"2024-11-27T23:53:28.543+08:00"}
 ---
 
+# 相關筆記
+#心理學 #健康與營養 #養育 #歷史 #社會與文化 
+[[BookNotes/To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介\|To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介]]
+[[BookNotes/Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒\|Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒]]
+[[BookNotes/The Great Gatsby#Introduction介紹\|The Great Gatsby#Introduction介紹]]
+[[BookNotes/The Meaning of Life#Embracing Ambiguity擁抱歧義\|The Meaning of Life#Embracing Ambiguity擁抱歧義]]
 # Introduction to Holden Caulfield霍頓考菲爾德簡介
 
 J.D. Salinger's "The Catcher in the Rye" introduces readers to Holden Caulfield, a complex character who embodies the struggles of adolescence. At 17 years old, Holden stands tall but feels emotionally stunted, often reflecting on his experiences with a mix of maturity and childishness. The narrative unfolds from his perspective, revealing a young man grappling with the challenges of growing up, including feelings of alienation and loss.J.D. 塞林格的《麥田裡的守望者》向讀者介紹了霍爾頓·考菲爾德，一個複雜的人物，體現了青春期的掙扎。 17歲的霍爾頓身材高大，但在情感上卻感到發育遲緩，常常帶著成熟與幼稚的情緒反思自己的經歷。 故事從他的角度展開，揭示了一個年輕人如何應對成長中的挑戰，包括疏離感和失落感。

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-social-contract/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-social-contract/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.450+08:00","updated":"2024-11-27T18:15:38.405+08:00"}
 ---
 
 # Introduction to Political Engagement政治參與簡介

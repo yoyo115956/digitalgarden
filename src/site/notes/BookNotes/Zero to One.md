@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/zero-to-one/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/zero-to-one/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.261+08:00","updated":"2024-11-27T23:29:13.400+08:00"}
 ---
 
 # 相關筆記
+#創業 #管理與領導
 [[BookNotes/The Lean Startup#Focusing on One Engine of Growth專注於一個成長引擎\|The Lean Startup#Focusing on One Engine of Growth專注於一個成長引擎]]
 [[BookNotes/The Next Millionaire Next Door#Introduction to Wealth Building財富累積簡介\|The Next Millionaire Next Door#Introduction to Wealth Building財富累積簡介]]
+[[BookNotes/Good to Great#Finding Your “Hedgehog Concept”找到你的“刺蝟理念”\|Good to Great#Finding Your “Hedgehog Concept”找到你的“刺蝟理念”]]
 # Introduction介紹
 
 The essence of startup success lies in achieving a monopoly, a concept championed by Peter Thiel, a leading venture capitalist and co-founder of PayPal. In his book "Zero to One," Thiel emphasizes that true innovation requires creating something entirely new rather than merely improving existing products. This summary outlines Thiel's philosophy and provides actionable insights for aspiring entrepreneurs.新創公司成功的本質在於實現壟斷，這是領先創投家、PayPal 聯合創辦人 Peter Thiel 所倡導的概念。 蒂爾在他的著作《從零到一》中強調，真正的創新需要創造全新的東西，而不僅僅是改進現有產品。 本摘要概述了泰爾的理念，並為有抱負的企業家提供了可行的見解。

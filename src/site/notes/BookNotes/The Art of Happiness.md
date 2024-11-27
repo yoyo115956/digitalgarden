@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-art-of-happiness/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-art-of-happiness/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.953+08:00","updated":"2024-11-28T00:09:46.007+08:00"}
 ---
 
+# 相關筆記
+#正念與快樂
+[[BookNotes/Sapiens#Subjective Happiness and Historical Progress主觀幸福與歷史進步\|Sapiens#Subjective Happiness and Historical Progress主觀幸福與歷史進步]]
+[[BookNotes/Essentialism#Introduction to Essentialism本質主義簡介\|Essentialism#Introduction to Essentialism本質主義簡介]]
+[[BookNotes/Tao Te Ching#The Sage as an Ideal Leader聖人是理想的領導者\|Tao Te Ching#The Sage as an Ideal Leader聖人是理想的領導者]]
+[[BookNotes/AI 2041#AI and Happiness人工智慧與幸福\|AI 2041#AI and Happiness人工智慧與幸福]]
+[[BookNotes/Meditations#The Role of Logic邏輯的作用\|Meditations#The Role of Logic邏輯的作用]]
 # Introduction介紹
 
 The pursuit of happiness is a universal goal, yet many struggle to understand its true nature. His Holiness the Dalai Lama, in collaboration with Howard C. Cutler, emphasizes that lasting happiness is not derived from external circumstances but rather from cultivating the right state of mind. This perspective suggests that while external events may temporarily influence our happiness, our mental state ultimately determines our overall well-being.簡介 追求幸福是一個普遍的目標，但許多人很難理解其真正本質。 達賴喇嘛尊者與霍華德·C·卡特勒合作強調，持久的幸福不是來自外在環境，而是來自於培養正確的心態。 這種觀點表明，雖然外在事件可能會暫時影響我們的幸福感，但我們的精神狀態最終決定我們的整體幸福感。

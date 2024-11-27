@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/nice-girls-don-t-get-the-corner-office/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/nice-girls-don-t-get-the-corner-office/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.077+08:00","updated":"2024-11-27T18:15:38.433+08:00"}
 ---
 
 # Introduction 介紹

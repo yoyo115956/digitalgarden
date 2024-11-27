@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/good-to-great/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/good-to-great/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.032+08:00","updated":"2024-11-27T18:15:38.442+08:00"}
 ---
 
 # 相關筆記

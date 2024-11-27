@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/discipline-and-punishment/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/discipline-and-punishment/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.751+08:00","updated":"2024-11-28T00:28:42.115+08:00"}
 ---
 
+# 相關筆記
+#心理學 #哲學 #社會與文化 
+[[BookNotes/Crime and Punishment#Conclusion結論\|Crime and Punishment#Conclusion結論]]
 # Introduction介紹
 
 The significance of prisons in society is often overlooked, yet they serve as a crucial lens through which to understand broader social dynamics. Michel Foucault's "Discipline & Punish" explores the evolution of punishment from public spectacles of torture to the modern prison system, revealing deeper societal transformations influenced by Enlightenment ideas and industrialization.監獄在社會中的重要性經常被忽視，但它們是了解更廣泛的社會動態的重要鏡頭。 米歇爾·福柯的《規訓與懲罰》探討了懲罰從公開酷刑到現代監獄系統的演變，揭示了受啟蒙思想和工業化影響的更深層次的社會變革。

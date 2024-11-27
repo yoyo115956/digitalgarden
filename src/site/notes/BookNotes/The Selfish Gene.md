@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-selfish-gene/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-selfish-gene/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.217+08:00","updated":"2024-11-27T22:56:45.844+08:00"}
 ---
 
 # 相關筆記
+#科學
 [[BookNotes/A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫\|A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫]]
 [[BookNotes/On the Origin of Species#Natural Selection and Survival自然選擇與生存\|On the Origin of Species#Natural Selection and Survival自然選擇與生存]]
 [[BookNotes/Sapiens#Introduction to Human Evolution人類演化概論\|Sapiens#Introduction to Human Evolution人類演化概論]]

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/a-room-of-one-s-own/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/a-room-of-one-s-own/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.764+08:00","updated":"2024-11-28T00:22:34.826+08:00"}
 ---
 
+# 相關筆記
+#哲學 #創造力 #社會與文化 
+[[BookNotes/The Second Sex#The Path to Equality平等之路\|The Second Sex#The Path to Equality平等之路]]
+[[BookNotes/Lean In#Conclusion結論\|Lean In#Conclusion結論]]
 # Introduction to Feminist Ideals著增強對自然世界的理解。
 
 Virginia Woolf's "A Room of One's Own" is a seminal work in feminist literature that explores the necessary conditions for women to create art. Woolf examines the interplay between gender, society, and individual achievement, highlighting how social, economic, and political forces hinder female artists from realizing their full potential. The essay also discusses how women have historically overcome these barriers and suggests ways society can empower women in the future.維吉尼亞·伍爾夫的《一間自己的房間》是女性主義文學中的一部開創性作品，探討了女性創作藝術的必要條件。 伍爾夫審視了性別、社會和個人成就之間的相互作用，並強調社會、經濟和政治力量如何阻礙女性藝術家充分發揮潛力。 本文也討論了女性在歷史上如何克服這些障礙，並提出了社會未來如何賦予女性權力的建議。

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-story-of-my-life/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-story-of-my-life/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.803+08:00","updated":"2024-11-28T00:34:24.397+08:00"}
 ---
 
+# 相關筆記
+#傳記與回憶 
+[[BookNotes/Educated#Chapter 12 A Difficult Choice for Independence第12章：獨立的艱難選擇\|Educated#Chapter 12 A Difficult Choice for Independence第12章：獨立的艱難選擇]]
+[[BookNotes/The Diary of a Young Girl#Conclusion結論\|The Diary of a Young Girl#Conclusion結論]]
+[[BookNotes/A Room of One’s Own#The Struggles of Successful Women Writers成功女作家的奮鬥\|A Room of One’s Own#The Struggles of Successful Women Writers成功女作家的奮鬥]]
 # Introduction to Helen Keller海倫凱勒簡介
 
 Helen Keller is a well-known figure who symbolizes overcoming challenges. Born in 1880 in Tuscumbia, Alabama, she became famous for her remarkable achievements despite being both blind and deaf. Many people recognize her name, but few know the details of her inspiring journey. Keller faced significant difficulties growing up, but her story is one of resilience and determination that can motivate others to pursue their own goals.海倫凱勒是一位象徵著克服挑戰的著名人物。 她於 1880 年出生於阿拉巴馬州塔斯坎比亞，儘管雙眼失明，但還是聾啞人，但仍因其非凡的成就而聞名。 很多人都知道她的名字，但很少人知道她鼓舞人心的旅程的細節。 凱勒在成長過程中面臨著巨大的困難，但她的故事講述了一種堅韌和決心，可以激勵他人追求自己的目標。

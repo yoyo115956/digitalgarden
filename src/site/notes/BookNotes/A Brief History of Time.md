@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/a-brief-history-of-time/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/a-brief-history-of-time/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.076+08:00","updated":"2024-11-27T23:58:30.964+08:00"}
 ---
 
 # 相關筆記
+#科學
 [[BookNotes/A Short History of Nearly Everything#Einstein's Theories of Relativity愛因斯坦的相對論\|A Short History of Nearly Everything#Einstein's Theories of Relativity愛因斯坦的相對論]]
-
+[[BookNotes/Cosmos#Chapter 6 Light Holds a Special Place in Our Universe第 6 章：光在我們的宇宙中佔有特殊的地位\|Cosmos#Chapter 6 Light Holds a Special Place in Our Universe第 6 章：光在我們的宇宙中佔有特殊的地位]]
+[[BookNotes/Critique of Pure Reason#Chapter 9 Space and Time as Pure Forms of Sensibility第9章：空間和時間作為純粹的感性形式\|Critique of Pure Reason#Chapter 9 Space and Time as Pure Forms of Sensibility第9章：空間和時間作為純粹的感性形式]]
 # Introduction to Cosmology宇宙學導論
 
 Stephen Hawking's "A Brief History of Time" serves as an accessible guide to understanding the cosmos, addressing fundamental questions about the universe's existence, its origins, and its future. The book invites readers to explore complex concepts such as black holes and the nature of time, ultimately transforming how we perceive the night sky.史蒂芬霍金的《時間簡史》是理解宇宙的簡單指南，解決了有關宇宙存在、起源和未來的基本問題。 這本書邀請讀者探索黑洞和時間本質等複雜概念，最終改變我們感知夜空的方式。

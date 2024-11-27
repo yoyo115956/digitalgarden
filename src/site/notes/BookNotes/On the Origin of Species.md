@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/on-the-origin-of-species/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/on-the-origin-of-species/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.203+08:00","updated":"2024-11-27T18:15:38.432+08:00"}
 ---
 
 # Introduction to Darwin's Work達爾文的工作簡介

@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-nicomachean-ethics/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-nicomachean-ethics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.133+08:00","updated":"2024-11-28T00:20:00.544+08:00"}
 ---
 
 # 相關筆記
+#正念與快樂 #個人發展 #哲學 
 [[BookNotes/Meditations#Conclusion結論\|Meditations#Conclusion結論]]
+[[BookNotes/Zen and the Art of Motorcycle Maintenance#Introduction介紹\|Zen and the Art of Motorcycle Maintenance#Introduction介紹]]
+[[BookNotes/Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性\|Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性]]
+[[BookNotes/Tao Te Ching#**The Essence of Daoist Leadership and Philosophy道教領導與哲學的本質**\|Tao Te Ching#**The Essence of Daoist Leadership and Philosophy道教領導與哲學的本質**]]
 # Introduction to Balance in Life生活平衡簡介
 
 The central idea presented in this summary is the importance of pursuing a balanced life, as articulated by Aristotle in his work, The Nicomachean Ethics. This ancient wisdom emphasizes that achieving fulfillment requires finding equilibrium between extremes in our actions and relationships.本摘要所提出的中心思想是追求平衡生活的重要性，正如亞里斯多德在其著作《尼各馬可倫理學》中所闡述的那樣。 這種古老的智慧強調，實現成就需要在我們的行為和關係的極端之間找到平衡。

@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/mindset/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/mindset/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.463+08:00","updated":"2024-11-28T00:33:07.431+08:00"}
 ---
 
 # 相關筆記
+#心理學 #溝通技巧 #個人發展 
 [[BookNotes/The Power of Habit#Conclusion The Path to Change結論：變革之路\|The Power of Habit#Conclusion The Path to Change結論：變革之路]]
 [[BookNotes/The Artist's Way#Building Confidence and Overcoming Self-Doubt建立信心並克服自我懷疑\|The Artist's Way#Building Confidence and Overcoming Self-Doubt建立信心並克服自我懷疑]]
-[[BookNotes/Blink#Chapter 5 Stress and Decision-Making第 5 章：壓力與決策\|Blink#Chapter 5 Stress and Decision-Making第 5 章：壓力與決策]]
+[[BookNotes/The 7 Habits of Highly Effective People#Habit 4 Think Win-Win習慣四：雙贏思維\|The 7 Habits of Highly Effective People#Habit 4 Think Win-Win習慣四：雙贏思維]]
 [[BookNotes/Outliers#Threshold of Abilities能力門檻\|Outliers#Threshold of Abilities能力門檻]]
 # Introduction to Mindset心態簡介
 

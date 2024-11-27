@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/long-walk-to-freedom/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/long-walk-to-freedom/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.476+08:00","updated":"2024-11-27T18:15:38.435+08:00"}
 ---
 
 # Introduction to Nelson Mandela納爾遜曼德拉簡介

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/super-freakonomics/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/super-freakonomics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.372+08:00","updated":"2024-11-27T19:13:40.372+08:00"}
 ---
 
 # Introduction介紹

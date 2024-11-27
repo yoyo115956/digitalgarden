@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/how-will-you-measure-your-life/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/how-will-you-measure-your-life/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.272+08:00","updated":"2024-11-27T23:40:53.954+08:00"}
 ---
 
+# 相關筆記
+#職業與成功
+[[BookNotes/The E-Myth Revisited#Aligning Business with Personal Goals使業務與個人目標一致\|The E-Myth Revisited#Aligning Business with Personal Goals使業務與個人目標一致]]
+[[BookNotes/Self-Reliance#The Path to Self-Discovery自我發現之路\|Self-Reliance#The Path to Self-Discovery自我發現之路]]
+[[BookNotes/Lean In#Focusing on What Matters專注於重要的事情\|Lean In#Focusing on What Matters專注於重要的事情]]
+[[BookNotes/Sapiens#Subjective Happiness and Historical Progress主觀幸福與歷史進步\|Sapiens#Subjective Happiness and Historical Progress主觀幸福與歷史進步]]
 # Introduction介紹
 
 In "How Will You Measure Your Life?", authors Clayton M. Christensen, James Allworth, and Karen Dillon explore the intersection of professional success and personal fulfillment. Christensen, a seasoned business innovator and cancer survivor, emphasizes that true happiness stems from relationships and personal integrity rather than mere professional achievements or financial rewards. This guide aims to help readers find balance, purpose, and integrity in their lives.在《你將如何衡量你的生活？ 》一書中，作者克萊頓·M·克里斯滕森、詹姆斯·奧爾沃斯和凱倫·狄龍探討了職業成功與個人成就感的交叉點。 克里斯滕森是一位經驗豐富的商業創新者和癌症倖存者，他強調真正的幸福源於人際關係和個人誠信，而不僅僅是職業成就或財務回報。 本指南旨在幫助讀者找到生活中的平衡、目標和完整性。

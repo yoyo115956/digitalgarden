@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/guns-germs-and-steel/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/guns-germs-and-steel/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.501+08:00","updated":"2024-11-27T18:15:38.442+08:00"}
 ---
 
 # Introduction介紹

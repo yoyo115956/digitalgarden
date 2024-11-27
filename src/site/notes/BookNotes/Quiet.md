@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/quiet/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/quiet/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.354+08:00","updated":"2024-11-27T23:26:11.050+08:00"}
 ---
 
+# 相關筆記
+#心理學 #溝通技巧 
+[[BookNotes/How to Talk to Anyone#The Importance of First Impressions第一印象的重要性\|How to Talk to Anyone#The Importance of First Impressions第一印象的重要性]]
+[[BookNotes/The 7 Habits of Highly Effective People#Habit 5 Seek First to Understand, Then to Be Understood習慣五：先尋求理解，再尋求被理解\|The 7 Habits of Highly Effective People#Habit 5 Seek First to Understand, Then to Be Understood習慣五：先尋求理解，再尋求被理解]]
+[[BookNotes/How to Win Friends and Influence People#Encouraging Conversation and Active Listening鼓勵對話和積極傾聽\|How to Win Friends and Influence People#Encouraging Conversation and Active Listening鼓勵對話和積極傾聽]]
 # Introduction to Personality Types人格類型簡介
 
 The book "Quiet" by Susan Cain explores the dynamics between introverts and extroverts, highlighting their differing preferences for social interaction and stimuli. Extroverts thrive in noisy environments and seek constant social engagement, often measuring their success by the number of connections they maintain. In contrast, introverts prefer solitude or small gatherings, valuing deep connections over superficial acquaintances. This distinction is crucial in understanding how personality traits influence behavior and decision-making.蘇珊凱恩（Susan Cain）的《安靜》一書探討了內向者和外向者之間的動態，強調了他們對社交互動和刺激的不同偏好。 外向的人在吵雜的環境中茁壯成長，尋求持續的社交參與，通常透過維持的聯繫數量來衡量他們的成功。 相較之下，內向的人喜歡獨處或小型聚會，重視深厚的聯繫而不是膚淺的熟人。 這種區別對於理解人格特質如何影響行為和決策至關重要。

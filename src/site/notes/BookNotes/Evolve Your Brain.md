@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/evolve-your-brain/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/evolve-your-brain/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.568+08:00","updated":"2024-11-27T23:41:38.677+08:00"}
 ---
 
 # 相關筆記
+#科學 #健康與營養
 [[BookNotes/Sapiens#Introduction to Human Evolution人類演化概論\|Sapiens#Introduction to Human Evolution人類演化概論]]
 [[BookNotes/On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響\|On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響]]
+[[BookNotes/The Selfish Gene#Introduction to Evolution進化論簡介\|The Selfish Gene#Introduction to Evolution進化論簡介]]
 # Introduction介紹
 
 The human brain is a powerful organ that can significantly influence our lives. Joe Dispenza's "Evolve Your Brain" explores the science behind how our thoughts and habits shape our brain's structure and functioning. Historically, the brain was viewed as a static entity, but modern neuroscience reveals that it is adaptable and can change based on our experiences and behaviors. Understanding this can empower individuals to harness their brain's potential for personal transformation.人腦是一個強大的器官，可以顯著影響我們的生活。 喬·迪彭薩的《進化你的大腦》探索了我們的思想和習慣如何塑造大腦結構和功能背後的科學。 從歷史上看，大腦被視為靜態實體，但現代神經科學表明，它具有適應性，可以根據我們的經驗和行為而改變。 了解這一點可以使個人能夠利用大腦的潛力來實現個人轉變。

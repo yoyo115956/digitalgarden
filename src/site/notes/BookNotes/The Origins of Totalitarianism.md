@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-origins-of-totalitarianism/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-origins-of-totalitarianism/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.912+08:00","updated":"2024-11-28T00:24:19.190+08:00"}
 ---
 
+# 相關筆記
+#歷史 #政治 #哲學 
+[[BookNotes/Fahrenheit 451#Analysis of Chapter 1第一章分析\|Fahrenheit 451#Analysis of Chapter 1第一章分析]]
+[[BookNotes/Self-Reliance#Historical Examples of Individualism個人主義的歷史例子\|Self-Reliance#Historical Examples of Individualism個人主義的歷史例子]]
+[[BookNotes/The Book of Why#Chapter 1 The Disparagement of Causation第一章：對因果關係的貶低\|The Book of Why#Chapter 1 The Disparagement of Causation第一章：對因果關係的貶低]]
+[[BookNotes/Sapiens#Capitalism and Globalization資本主義與全球化\|Sapiens#Capitalism and Globalization資本主義與全球化]]
 # Introduction介紹
 
 Hannah Arendt's "The Origins of Totalitarianism" is a profound exploration of how totalitarian regimes can emerge from societal discontent and the failures of democratic systems. Written in the aftermath of World War II, Arendt's work examines the historical context that allowed totalitarianism to take root in Europe, particularly in Germany and the Soviet Union. She emphasizes the importance of maintaining free discourse and addressing societal inequalities to prevent the rise of such oppressive regimes.漢娜·阿倫特的《極權主義的起源》深刻探討了極權主義政權如何從社會不滿和民主制度的失敗中崛起。 阿倫特的著作寫於二戰後，探討了極權主義在歐洲紮根的歷史背景，特別是在德國和蘇聯。 她強調維持言論自由和解決社會不平等以防止此類壓迫政權崛起的重要性。

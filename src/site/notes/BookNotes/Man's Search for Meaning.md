@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/man-s-search-for-meaning/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/man-s-search-for-meaning/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.148+08:00","updated":"2024-11-27T23:50:44.993+08:00"}
 ---
 
+# 相關筆記
+#心理學 #傳記與回憶
+[[BookNotes/Being and Time#Living Authentically真實地生活\|Being and Time#Living Authentically真實地生活]]
+[[BookNotes/The Meaning of Life#Letting Go of a Singular Meaning放棄單一意義\|The Meaning of Life#Letting Go of a Singular Meaning放棄單一意義]]
+[[BookNotes/The Unbearable Lightness of Being#Chapter 4 Choices and Consequences - The Inevitability of Life第四章：選擇與後果－生命的必然性\|The Unbearable Lightness of Being#Chapter 4 Choices and Consequences - The Inevitability of Life第四章：選擇與後果－生命的必然性]]
+[[BookNotes/Brave New World#Conclusion結論\|Brave New World#Conclusion結論]]
 # Introduction介紹
 
 Viktor Frankl's "Man's Search for Meaning" provides a profound exploration of human resilience in the face of unimaginable suffering. Drawing from his experiences as a prisoner in Nazi concentration camps, Frankl articulates how individuals can find meaning even in the most dire circumstances. His insights led to the development of logotherapy, a psychological approach centered on the search for meaning as a fundamental human motivation.對集中營的初步反應維克多·弗蘭克爾的《人類尋找意義》深入探討了人類面對難以想像的苦難時的恢復能力。 弗蘭克爾根據自己在納粹集中營的囚犯經歷，闡述了個人如何在最嚴峻的情況下找到意義。 他的見解導致了意義療法的發展，這是一種以尋找人類基本動機意義為中心的心理學方法。

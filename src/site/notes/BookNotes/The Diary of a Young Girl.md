@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-diary-of-a-young-girl/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-diary-of-a-young-girl/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.396+08:00","updated":"2024-11-27T18:15:38.417+08:00"}
 ---
 
 # Introduction介紹

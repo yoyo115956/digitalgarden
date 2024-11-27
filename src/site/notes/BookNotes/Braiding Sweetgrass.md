@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/braiding-sweetgrass/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/braiding-sweetgrass/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.890+08:00","updated":"2024-11-28T00:27:49.365+08:00"}
 ---
 
+# 相關筆記
+#宗教與靈性 #自然與環境 
+[[BookNotes/Silent Spring#Introduction to Environmental Awareness環境意識簡介\|Silent Spring#Introduction to Environmental Awareness環境意識簡介]]
+[[BookNotes/A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫\|A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫]]
+[[BookNotes/The Art of Happiness#Cultivating Universal Compassion培養普遍的慈悲心\|The Art of Happiness#Cultivating Universal Compassion培養普遍的慈悲心]]
+[[BookNotes/A Walk in the Woods#Conclusion結論\|A Walk in the Woods#Conclusion結論]]
+[[BookNotes/On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響\|On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響]]
 # Introduction介紹
 
 In "Braiding Sweetgrass," Robin Wall Kimmerer intertwines indigenous wisdom with scientific knowledge, emphasizing the urgent need to address environmental crises. The book highlights the interconnectedness of humanity and nature, urging readers to recognize the importance of gratitude and reciprocity in our relationship with the environment.在《編織甜草》中，羅賓‧沃爾‧基默勒 (Robin Wall Kimmerer) 將原住民智慧與科學知識結合在一起，強調解決環境危機的迫切需求。 這本書強調了人類與自然的相互聯繫，敦促讀者認識到感恩和互惠在我們與環境的關係中的重要性。

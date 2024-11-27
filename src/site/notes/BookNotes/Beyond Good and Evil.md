@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/beyond-good-and-evil/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/beyond-good-and-evil/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.093+08:00","updated":"2024-11-28T00:17:57.799+08:00"}
 ---
 
+# 相關筆記
+#哲學 
+[[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]
+[[BookNotes/Thus Spoke Zarathustra#Conclusion結論\|Thus Spoke Zarathustra#Conclusion結論]]
+[[BookNotes/Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性\|Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性]]
 # Introduction介紹
-
 Friedrich Nietzsche's work, particularly "Beyond Good and Evil," challenges the prevailing philosophical and moral dogmas of Western society. He argues that many people are trapped in dogmatic thinking, which obscures their understanding of the world as a place marked by violence and inequality. Nietzsche's philosophy encourages individuals to break free from these constraints and assert their own values.弗里德里希·尼采的作品，特別是《善惡的彼岸》，挑戰了西方社會盛行的哲學和道德教條。 他認為，許多人陷入教條思維，這模糊了他們對這個充滿暴力和不平等的世界的理解。 尼采的哲學鼓勵個人擺脫這些限制並維護自己的價值。
 
 # Philosophy and Assumptions理念和假設

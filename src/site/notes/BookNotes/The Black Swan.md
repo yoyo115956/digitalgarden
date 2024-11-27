@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-black-swan/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-black-swan/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.188+08:00","updated":"2024-11-27T23:38:47.936+08:00"}
 ---
 
+# 相關筆記
+#科學 #經濟學 
+[[BookNotes/The Unbearable Lightness of Being#Chapter 4 Choices and Consequences - The Inevitability of Life第四章：選擇與後果－生命的必然性\|The Unbearable Lightness of Being#Chapter 4 Choices and Consequences - The Inevitability of Life第四章：選擇與後果－生命的必然性]]
+[[BookNotes/The Book of Why#Introduction 介紹\|The Book of Why#Introduction 介紹]]
+[[BookNotes/Foundation#Conclusion結論\|Foundation#Conclusion結論]]
 # Introduction介紹
 
 The exploration of beliefs and their potential pitfalls is crucial for understanding how we navigate the world. Nassim Nicholas Taleb's "The Black Swan" delves into the concept of black swan events—unexpected occurrences that can have profound impacts on our lives and society. This summary highlights the key insights from the book, emphasizing the dangers of dogmatic thinking and the importance of recognizing our limitations.探索信念及其潛在陷阱對於理解我們如何駕馭世界至關重要。 納西姆·尼古拉斯·塔勒布的《黑天鵝》深入探討了黑天鵝事件的概念——可能對我們的生活和社會產生深遠影響的意外事件。 本摘要突顯了本書的主要見解，強調教條式思維的危險性以及認識我們的限制的重要性。

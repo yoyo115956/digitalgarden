@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-tipping-point/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-tipping-point/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.296+08:00","updated":"2024-11-27T18:15:38.404+08:00"}
 ---
 
 # Introduction to Epidemics of Ideas思想流行病導論

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/rich-dad-poor-dad/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/rich-dad-poor-dad/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:51.989+08:00","updated":"2024-11-27T23:43:11.561+08:00"}
 ---
 
+# 相關筆記
+#金錢與投資
+[[BookNotes/Outliers#Influence of Upbringing教養的影響\|Outliers#Influence of Upbringing教養的影響]]
+[[BookNotes/The Next Millionaire Next Door#Busting Wealth-Related Myths打破與財富相關的神話\|The Next Millionaire Next Door#Busting Wealth-Related Myths打破與財富相關的神話]]
+[[BookNotes/The Warren Buffett Way#Introduction介紹\|The Warren Buffett Way#Introduction介紹]]
 # Introduction介紹
 
 The quest for financial education is often overlooked in traditional upbringing and schooling. Many parents advise their children to pursue academic excellence and secure employment, but this advice may not lead to financial success. Instead, the knowledge necessary to achieve wealth is often passed down through wealthy families. In "Rich Dad, Poor Dad," Robert Kiyosaki shares valuable lessons about money and wealth accumulation, emphasizing the importance of financial education.在傳統的教育和教育中，對金融教育的追求常常被忽略。 許多父母建議他們的孩子追求卓越的學業並找到工作，但這種建議可能不會帶來經濟上的成功。 相反，實現財富所需的知識往往是透過富裕家庭傳承下來的。 在《富爸爸，窮爸爸》中，羅伯特清崎分享了有關金錢和財富累積的寶貴經驗，強調了金融教育的重要性。

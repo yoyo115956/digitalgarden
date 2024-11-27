@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/to-kill-a-mockingbird/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/to-kill-a-mockingbird/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.829+08:00","updated":"2024-11-27T18:15:38.397+08:00"}
 ---
 
 # Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/persuasion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/persuasion/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:13.940+08:00","updated":"2024-11-27T18:15:38.428+08:00"}
 ---
 
 # Introduction to Persuasion說服簡介

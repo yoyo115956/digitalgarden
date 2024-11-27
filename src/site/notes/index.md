@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-11-27T18:07:43.869+08:00","updated":"2024-11-27T23:37:48.232+08:00"}
 ---
 
 歡迎來到我的圖書筆記！
@@ -74,7 +74,7 @@
 [[BookNotes/The Autobiography of Malcolm X\|The Autobiography of Malcolm X]]
 [[BookNotes/The Black Swan\|The Black Swan]]
 [[BookNotes/The Body Keeps the Score\|The Body Keeps the Score]]
-[[BookNotes/The Book of W\|The Book of W]]
+[[BookNotes/The Book of Why\|The Book of Why]]
 [[BookNotes/The Catcher in the Rye\|The Catcher in the Rye]]
 [[BookNotes/The Cherry Orchard\|The Cherry Orchard]]
 [[BookNotes/The Devil in the White City\|The Devil in the White City]]

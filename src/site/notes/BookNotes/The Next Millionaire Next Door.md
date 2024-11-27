@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-next-millionaire-next-door/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-next-millionaire-next-door/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.027+08:00","updated":"2024-11-27T23:45:03.340+08:00"}
 ---
 
+# 相關筆記
+#金錢與投資 #個人發展 #職業與成功 
+[[BookNotes/Zero to One#Chapter 2 Stop Relying on Luck第 2 章：停止依賴運氣\|Zero to One#Chapter 2 Stop Relying on Luck第 2 章：停止依賴運氣]]
+[[BookNotes/The Warren Buffett Way#Conclusion結論\|The Warren Buffett Way#Conclusion結論]]
+[[BookNotes/Zero to One#Conclusion結論\|Zero to One#Conclusion結論]]
+[[BookNotes/The E-Myth Revisited#Planning for Growth規劃成長\|The E-Myth Revisited#Planning for Growth規劃成長]]
 # Introduction to Wealth Building財富累積簡介
 
 The journey to building and sustaining wealth is often misunderstood. Contrary to popular belief, wealthy individuals do not fit the stereotype of extravagant lifestyles and elite education. Instead, many millionaires live in modest neighborhoods, prioritize financial security, and accumulate wealth through hard work, frugality, and prudent investing. This book, "The Next Millionaire Next Door" by Thomas J. Stanley and Sarah Stanley Fallaw, aims to reveal the strategies that can help anyone achieve financial independence.累積和維持財富的過程經常被誤解。 與普遍看法相反，富有的人並不符合奢侈生活方式和精英教育的刻板印象。 相反，許多百萬富翁生活在簡陋的社區，優先考慮財務安全，透過努力工作、節儉和謹慎投資來累積財富。 由托馬斯·J·史丹利和莎拉·史丹利·法洛合著的《隔壁的下一個百萬富翁》一書旨在揭示可以幫助任何人實現財務獨立的策略。

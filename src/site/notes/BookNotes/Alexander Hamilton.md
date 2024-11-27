@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/alexander-hamilton/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/alexander-hamilton/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.406+08:00","updated":"2024-11-28T00:29:30.587+08:00"}
 ---
 
+# 相關筆記
+#傳記與回憶 
+[[BookNotes/Genghis Khan and the Making of the Modern World#Conclusion結論\|Genghis Khan and the Making of the Modern World#Conclusion結論]]
+[[BookNotes/A People’s History of the United States#Introduction to American History美國歷史概論\|A People’s History of the United States#Introduction to American History美國歷史概論]]
 # Introduction介紹
 
 Ron Chernow's biography "Alexander Hamilton" presents a comprehensive exploration of Hamilton's vital role in American history, emphasizing his contributions to independence and the establishment of the United States. Often overshadowed by figures like Thomas Jefferson, Hamilton's legacy as a soldier, aide to George Washington, author of the Federalist Papers, and founder of the first central bank is pivotal in shaping the nation. Chernow examines Hamilton's challenging upbringing in the Caribbean, his political and military career, tumultuous love life, and enduring influence on modern America, portraying him as a complex and significant figure.羅恩·切爾諾的傳記《亞歷山大·漢密爾頓》全面探討了漢密爾頓在美國歷史上的重要作用，強調了他對美國獨立和建立的貢獻。 漢密爾頓作為一名軍人、喬治華盛頓的助手、《聯邦黨人文集》的作者以及第一家中央銀行的創始人，常常被托馬斯·傑斐遜等人物所掩蓋，但他的遺產對於塑造國家至關重要。 切爾諾審視了漢密爾頓在加勒比海充滿挑戰的成長經歷、他的政治和軍事生涯、動蕩的愛情生活以及對現代美國的持久影響，將他描繪成一個複雜而重要的人物。

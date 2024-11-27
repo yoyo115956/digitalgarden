@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/building-your-money-machine-with-chat-gpt/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/building-your-money-machine-with-chat-gpt/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.330+08:00","updated":"2024-11-27T23:33:05.042+08:00"}
 ---
 
+# 相關筆記
+#市場與營銷 #技術與未來 #創業 #創造力
+[[BookNotes/The Age of AI#The Role of Global Networks全球網路的作用\|The Age of AI#The Role of Global Networks全球網路的作用]]
+[[BookNotes/How to Talk to Anyone#共同點\|How to Talk to Anyone#共同點]]
+[[BookNotes/AI 2041#The Threat of Deepfakes深度假貨的威脅\|AI 2041#The Threat of Deepfakes深度假貨的威脅]]
+[[BookNotes/The Lean Startup#Focusing on One Engine of Growth專注於一個成長引擎\|The Lean Startup#Focusing on One Engine of Growth專注於一個成長引擎]]
 # Introduction介紹
 
 The landscape of business is rapidly evolving with the advent of new technologies, particularly artificial intelligence (AI). ChatGPT is a transformative tool that can enhance productivity, creativity, and income generation. This summary explores how ChatGPT can be integrated into business practices to achieve goals, streamline processes, and foster growth.隨著新技術，特別是人工智慧（AI）的出現，商業格局正在迅速發展。 ChatGPT 是一種變革性工具，可提高生產力、創造力和創造收入能力。 本摘要探討如何將 ChatGPT 整合到業務實踐中以實現目標、簡化流程並促進成長。

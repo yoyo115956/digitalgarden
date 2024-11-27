@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/foundation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/foundation/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.245+08:00","updated":"2024-11-27T23:49:09.637+08:00"}
 ---
 
+# 相關筆記
+#科學 #技術與未來 #歷史 #社會與文化 
+[[BookNotes/A Short History of Nearly Everything#Introduction to the Universe宇宙簡介\|A Short History of Nearly Everything#Introduction to the Universe宇宙簡介]]
+[[BookNotes/Dune#The Complex Universe of Dune沙丘的複雜宇宙\|Dune#The Complex Universe of Dune沙丘的複雜宇宙]] 
+[[BookNotes/Cosmos#Introduction介紹\|Cosmos#Introduction介紹]]
 # Introduction to Foundation基金會簡介
 
 Isaac Asimov's Foundation series is a cornerstone of science fiction literature, beginning with the first novel that spans over 150 years and introduces readers to a vast universe. The series not only explores the intricacies of a futuristic society but also delves into themes of politics, power, and the cyclical nature of history. The narrative unfolds through five distinct parts, each highlighting different aspects of the Foundation's journey and its interactions with the Galactic Empire and neighboring planets.艾薩克·阿西莫夫的《基地》系列是科幻文學的基石，從第一部小說開始，橫跨 150 多年，向讀者介紹了一個廣闊的宇宙。 該系列不僅探討了未來社會的錯綜複雜，也深入探討了政治、權力和歷史循環性等主題。 故事透過五個不同的部分展開，每個部分都強調了基金會旅程的不同面向及其與銀河帝國和鄰近行星的互動。

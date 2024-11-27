@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/i-know-why-the-caged-bird-sings/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/i-know-why-the-caged-bird-sings/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.815+08:00","updated":"2024-11-28T00:13:12.637+08:00"}
 ---
 
+# 相關筆記
+#歷史 #傳記與回憶 #社會與文化 
+[[BookNotes/To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介\|To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介]]
+[[BookNotes/The Diary of a Young Girl#A Noise in the Night夜間的噪音\|The Diary of a Young Girl#A Noise in the Night夜間的噪音]]
+[[BookNotes/The Story of My Life#Joy and Struggles in Childhood童年的歡樂與掙扎\|The Story of My Life#Joy and Struggles in Childhood童年的歡樂與掙扎]]
 # Introduction介紹
-
 Maya Angelou's memoir, "I Know Why the Caged Bird Sings," is a powerful story of overcoming trauma and prejudice. The title is inspired by a poem by Paul Lawrence Dunbar, reflecting themes of hope and resilience. The memoir chronicles Angelou's childhood, beginning in 1931 when she and her brother, Bailey, are sent to live with their grandmother in Stamps, Arkansas. Despite facing significant hardships, including a traumatic assault at a young age, Angelou ultimately finds strength and freedom by the age of 16.瑪雅安吉盧的回憶錄《我知道籠中鳥為何歌唱》是一個克服創傷和偏見的強大故事。 標題的靈感來自保羅·勞倫斯·鄧巴的一首詩，反映了希望和堅韌的主題。 這本回憶錄記錄了安傑盧的童年，從 1931 年開始，當時她和弟弟貝利被送到阿肯色州斯坦普斯與祖母一起生活。 儘管面臨巨大的困難，包括年輕時遭受的創傷性攻擊，安傑盧最終在 16 歲時找到了力量和自由。
 
 # Chapter 1: Stamps, Arkansas第一章：郵票，阿肯色州

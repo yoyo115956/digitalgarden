@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/steal-like-an-artist/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/steal-like-an-artist/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.713+08:00","updated":"2024-11-28T00:18:28.925+08:00"}
 ---
 
 # 相關筆記
+#創造力
 [[BookNotes/The Artist's Way#Introduction to Creativity Recovery創造力恢復簡介\|The Artist's Way#Introduction to Creativity Recovery創造力恢復簡介]]
 # Introduction to Creativity and Influence創造力和影響力簡介
 

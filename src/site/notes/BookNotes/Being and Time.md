@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/being-and-time/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/being-and-time/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.645+08:00","updated":"2024-11-27T23:18:11.579+08:00"}
 ---
 
+# 相關筆記
+#科學 
+[[BookNotes/A Brief History of Time#Introduction to Cosmology宇宙學導論\|A Brief History of Time#Introduction to Cosmology宇宙學導論]]
+[[BookNotes/Critique of Pure Reason#Chapter 9 Space and Time as Pure Forms of Sensibility第9章：空間和時間作為純粹的感性形式\|Critique of Pure Reason#Chapter 9 Space and Time as Pure Forms of Sensibility第9章：空間和時間作為純粹的感性形式]]
 # Introduction介紹
 
 Being and Time by Martin Heidegger presents a profound exploration of existence, challenging centuries of Western philosophical thought. The text is notoriously complex, often likened to navigating a dense jungle, yet it offers invaluable insights into the nature of being. Heidegger's work is essential for understanding modern philosophy, as it questions the very foundations of what it means to exist.馬丁‧海德格的《存在與時間》提出了對存在的深刻探索，挑戰了幾個世紀的西方哲學思想。 這篇文章非常複雜，通常被比作在茂密的叢林中航行，但它提供了對存在本質的寶貴見解。 海德格的著作對於理解現代哲學至關重要，因為它質疑存在意義的根本基礎。

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/sapiens/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/sapiens/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.514+08:00","updated":"2024-11-27T18:15:38.426+08:00"}
 ---
 
 # Introduction to Human Evolution人類演化概論

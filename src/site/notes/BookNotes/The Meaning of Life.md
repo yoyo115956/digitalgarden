@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-meaning-of-life/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-meaning-of-life/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.006+08:00","updated":"2024-11-27T23:57:34.495+08:00"}
 ---
 
+# 相關筆記
+#社會與文化 #個人發展 
+[[BookNotes/Man's Search for Meaning#Individual Meaning and Life Choices個人意義與人生選擇\|Man's Search for Meaning#Individual Meaning and Life Choices個人意義與人生選擇]]
+[[BookNotes/How Will You Measure Your Life#Introduction介紹\|How Will You Measure Your Life#Introduction介紹]]
+[[BookNotes/Being and Time#Living Authentically真實地生活\|Being and Time#Living Authentically真實地生活]]
+[[BookNotes/A Short History of Nearly Everything#Introduction to the Universe宇宙簡介\|A Short History of Nearly Everything#Introduction to the Universe宇宙簡介]]
+[[BookNotes/The Unbearable Lightness of Being#Chapter 4 Choices and Consequences - The Inevitability of Life第四章：選擇與後果－生命的必然性\|The Unbearable Lightness of Being#Chapter 4 Choices and Consequences - The Inevitability of Life第四章：選擇與後果－生命的必然性]]
 # Introduction to Life's Meaning生命意義簡介
 
 The quest for understanding life's meaning is a profound and complex inquiry that has intrigued thinkers throughout history. Terry Eagleton's "The Meaning of Life" explores this topic, suggesting that the way we frame our questions about meaning significantly influences our understanding. Rather than seeking a definitive answer, Eagleton posits that meaning may be shaped by language and the ideas we bring into our discussions. This perspective encourages a more thoughtful approach to life's big questions.尋求理解生命的意義是一項深刻而複雜的探究，一直吸引著歷史上的思想家。 特里·伊格爾頓（Terry Eagleton）的《生命的意義》探討了這個主題，表明我們提出關於意義的問題的方式極大地影響了我們的理解。 伊格頓沒有尋求明確的答案，而是認為意義可能是由語言和我們帶入討論的想法所塑造的。 這種觀點鼓勵人們對生活中的重大問題採取更深思熟慮的方法。

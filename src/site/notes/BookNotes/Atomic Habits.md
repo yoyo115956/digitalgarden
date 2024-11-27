@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/atomic-habits/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/atomic-habits/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:51.976+08:00","updated":"2024-11-27T23:46:17.247+08:00"}
 ---
 
+# 相關筆記
+#生產力 #個人發展 
+[[BookNotes/The Power of Habit#Conclusion The Path to Change結論：變革之路\|The Power of Habit#Conclusion The Path to Change結論：變革之路]]
+[[BookNotes/The 7 Habits of Highly Effective People#Habit 2 Begin with the End in Mind習慣2：以終為始\|The 7 Habits of Highly Effective People#Habit 2 Begin with the End in Mind習慣2：以終為始]]
 # Introduction介紹
 
 The concept of small habits leading to significant life changes is explored in James Clear's bestseller, "Atomic Habits." Many people desire to make positive changes in their lives, such as eating healthier, reading more, or learning new skills. However, the challenge lies in the execution and consistency of these changes. This summary delves into how tiny behavioral adjustments can compound over time to yield substantial results, emphasizing that transformation does not require drastic measures.詹姆斯·克利爾的暢銷書《原子習慣》探討了小習慣導致重大生活變化的概念。 許多人渴望在生活中做出積極的改變，例如飲食更健康、閱讀更多或學習新技能。 然而，挑戰在於這些變革的執行和一致性。 本摘要深入探討了微小的行為調整如何隨著時間的推移而復合以產生實質成果，強調轉型並不需要採取嚴厲措施。

@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/meditations/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/meditations/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.287+08:00","updated":"2024-11-27T23:23:08.144+08:00"}
 ---
 
+# 相關筆記
+#哲學 
+[[BookNotes/Cosmos#Introduction介紹\|Cosmos#Introduction介紹]]
+[[BookNotes/Tao Te Ching#**The Essence of Daoist Leadership and Philosophy道教領導與哲學的本質**\|Tao Te Ching#**The Essence of Daoist Leadership and Philosophy道教領導與哲學的本質**]]
+[[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]
+[[BookNotes/The Nicomachean Ethics#Living Virtuously and Acting Reasonably生活有道德，行為合理\|The Nicomachean Ethics#Living Virtuously and Acting Reasonably生活有道德，行為合理]]
 # Introduction介紹
 
 The text discusses the philosophical insights of Marcus Aurelius, a Roman Emperor and Stoic philosopher, particularly through his work "Meditations." It highlights how Aurelius's Stoic beliefs shaped his understanding of life, death, and the universe, influencing many thinkers and leaders throughout history.文本討論了羅馬皇帝和斯多葛派哲學家馬可·奧勒留的哲學見解，特別是透過他的著作《沉思錄》。 它強調了奧勒留的斯多葛主義信仰如何塑造了他對生命、死亡和宇宙的理解，影響了歷史上許多的思想家和領導人。

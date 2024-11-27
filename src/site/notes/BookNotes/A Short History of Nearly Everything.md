@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/a-short-history-of-nearly-everything/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/a-short-history-of-nearly-everything/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.258+08:00","updated":"2024-11-27T18:15:38.472+08:00"}
 ---
 
 # Introduction to the Universe宇宙簡介

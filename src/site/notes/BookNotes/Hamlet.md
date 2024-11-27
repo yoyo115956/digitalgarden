@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/hamlet/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/hamlet/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.233+08:00","updated":"2024-11-28T00:01:46.407+08:00"}
 ---
 
+# 相關筆記
+#歷史 #哲學 #創造力 #社會與文化 #小說 
+[[BookNotes/Death of a Salesman#The Tragic Conclusion悲劇性的結論\|Death of a Salesman#The Tragic Conclusion悲劇性的結論]]
 # Introduction to Hamlet哈姆雷特簡介
 
 Shakespeare's "Hamlet" is a profound tragedy that explores themes of treachery, justice, and the human condition. As Shakespeare's longest and most popular play, it captivates audiences with its gripping plot, memorable characters, and philosophical depth. The play delves into human fragility, particularly in the face of death, and has significantly influenced culture and language. This summary encapsulates the essence of "Hamlet," highlighting key elements of the narrative and its characters.莎士比亞的《哈姆雷特》是一部深刻的悲劇，探討了背叛、正義和人類處境的主題。 作為莎士比亞最長、最受歡迎的戲劇，它以其扣人心弦的情節、令人難忘的人物和深刻的哲學思想吸引觀眾。 該劇深入探討了人類的脆弱性，特別是面對死亡時的脆弱性，並對文化和語言產生了重大影響。 這篇摘要概括了《哈姆雷特》的精髓，突顯了敘事的關鍵要素及其人物。

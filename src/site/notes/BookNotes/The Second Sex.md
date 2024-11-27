@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-second-sex/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-second-sex/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.860+08:00","updated":"2024-11-28T00:26:11.242+08:00"}
 ---
 
+# 相關筆記
+#哲學 #社會與文化 
+[[BookNotes/A Room of One’s Own#Men's Power and Gender Disparities男性權力和性別差異\|A Room of One’s Own#Men's Power and Gender Disparities男性權力和性別差異]]
+[[BookNotes/Fahrenheit 451#Chapter 2 The Search for Knowledge第 2 章：尋找知識\|Fahrenheit 451#Chapter 2 The Search for Knowledge第 2 章：尋找知識]]
+[[BookNotes/Nice Girls Don’t Get the Corner Office#Chapter 1 Women are Still Underprivileged in the Business World第一章：女性在商界仍處於弱勢地位\|Nice Girls Don’t Get the Corner Office#Chapter 1 Women are Still Underprivileged in the Business World第一章：女性在商界仍處於弱勢地位]]
+[[BookNotes/Lean In#Introduction介紹\|Lean In#Introduction介紹]]
 # Introduction to The Second Sex第二性簡介
 
 Simone de Beauvoir's "The Second Sex," published in 1949, is a foundational text in modern feminism. De Beauvoir argues that womanhood is not an innate quality but rather a construct shaped by cultural forces. This perspective was revolutionary at the time and remains relevant today. The book explores the historical evolution of women's roles in society, emphasizing how women have been relegated to a position of "the Other" in relation to men.西蒙娜‧德‧波伏娃於 1949 年出版的《第二性》是現代女性主義的基礎著作。 德波伏娃認為，女性氣質不是一種與生俱來的特質，而是一種由文化力量塑造的建構。 這種觀點在當時是革命性的，並且在今天仍然具有現實意義。 書中探討了女性在社會中角色的歷史演變，強調女性如何被降級到與男性相比的「他者」地位。

@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/self-reliance/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/self-reliance/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.737+08:00","updated":"2024-11-28T00:16:23.852+08:00"}
 ---
 
+# 相關筆記
+#動機與靈感 #個人發展 #哲學 
+[[BookNotes/The Nicomachean Ethics#Conclusion The Ripple Effect of Balanced Living結論：平衡生活的連鎖反應\|The Nicomachean Ethics#Conclusion The Ripple Effect of Balanced Living結論：平衡生活的連鎖反應]]
+[[BookNotes/Atomic Habits#Conclusion結論\|Atomic Habits#Conclusion結論]]
+[[BookNotes/The Origins of Totalitarianism#The Vulnerability of Isolated Individuals孤立個體的脆弱性\|The Origins of Totalitarianism#The Vulnerability of Isolated Individuals孤立個體的脆弱性]]
+[[BookNotes/Beyond Good and Evil#The Illusion of the Unified Self統一自我的幻覺\|Beyond Good and Evil#The Illusion of the Unified Self統一自我的幻覺]]
+[[BookNotes/Outliers#Introduction介紹\|Outliers#Introduction介紹]]
 # Introduction to Individuality個性簡介
 
 The central theme of this exploration is the virtue of individuality, as articulated by Ralph Waldo Emerson in his essay "Self-Reliance." Emerson's radical advocacy for individual judgment and self-reliance during the 19th century stands out in a time when societal conformity was the norm.這項探索的中心主題是個性的美德，正如拉爾夫·沃爾多·愛默生在他的文章《自力更生》中所闡述的那樣。 艾默生在 19 世紀對個人判斷和自力更生的激進主張在社會從眾成為常態的時代尤為突出。

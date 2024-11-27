@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/moby-dick/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/moby-dick/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.687+08:00","updated":"2024-11-27T23:36:20.308+08:00"}
 ---
 
+# 相關筆記
+#自然與環境 #社會與文化 #小說
+[[BookNotes/Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒\|Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒]]
 # Introduction to Moby Dick《莫比迪克》簡介
 
 Moby Dick, written by Herman Melville and published in 1851, is a classic tale that explores themes of revenge and its tragic consequences. Despite its initial lack of success, the novel has since gained recognition as one of the great American novels, praised by authors such as D. H. Lawrence and William Faulkner. The narrative is characterized by its unique style, which includes a mix of prose, stage play, and detailed digressions about whaling and marine biology. The story is narrated by Ishmael, who provides a philosophical and humorous perspective on his adventures aboard the whaling ship Pequod.《白鯨》由赫爾曼·梅爾維爾 (Herman Melville) 撰寫，於 1851 年出版，是一部探討復仇主題及其悲劇後果的經典故事。 儘管最初並未取得成功，這部小說後來被公認為美國最偉大的小說之一，並受到 D. H. 勞倫斯和威廉·福克納等作家的稱讚。 敘事風格獨特，融合了散文、舞台劇以及有關捕鯨和海洋生物學的詳細題外話。 這個故事由以實瑪利講述，他以哲學和幽默的視角講述了他在佩闊德號捕鯨船上的冒險經歷。

@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-structure-of-scientific-revolutions/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-structure-of-scientific-revolutions/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.873+08:00","updated":"2024-11-28T00:11:46.353+08:00"}
 ---
 
 # 相關筆記
+#科學 
 [[BookNotes/Sapiens#Scientific Revolution科學革命\|Sapiens#Scientific Revolution科學革命]]
 [[BookNotes/A Brief History of Time#The Role of Theories in Science理論在科學中的作用\|A Brief History of Time#The Role of Theories in Science理論在科學中的作用]]
+[[BookNotes/Cosmos#Chapter 5 Modern Science Isn’t So Modern第五章：現代科學沒那麼現代\|Cosmos#Chapter 5 Modern Science Isn’t So Modern第五章：現代科學沒那麼現代]]
 # Introduction to Scientific Progress科學進度簡介
 
 The common perception of scientific progress is that it occurs through gradual, incremental changes, where each scientist builds upon the work of their predecessors. However, Thomas Kuhn's "The Structure of Scientific Revolutions" challenges this notion, arguing that science advances through revolutionary shifts rather than continuous development. These revolutions occur when new ideas completely replace existing paradigms, leading to significant changes in scientific understanding.人們對科學進步的普遍看法是，科學進步是透過漸進的、漸進的變化而發生的，每個科學家都以前人的工作為基礎。 然而，托馬斯·庫恩的《科學革命的結構》挑戰了這個觀點，認為科學的進步是透過革命性的轉變而不是持續的發展。 當新思想完全取代現有範式時，這些革命就會發生，導致科學理解發生重大變化。

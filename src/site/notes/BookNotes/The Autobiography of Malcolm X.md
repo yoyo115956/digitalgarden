@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-autobiography-of-malcolm-x/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/the-autobiography-of-malcolm-x/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.120+08:00","updated":"2024-11-27T19:17:58.552+08:00"}
 ---
 
 # Introduction to Malcolm X馬爾科姆·X 簡介

@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/a-people-s-history-of-the-united-states/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-notes/a-people-s-history-of-the-united-states/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.603+08:00","updated":"2024-11-27T23:19:50.052+08:00"}
 ---
 
+# 相關筆記
+#歷史
 [[BookNotes/The Souls of Black Folk#Introduction介紹\|The Souls of Black Folk#Introduction介紹]]
+[[BookNotes/The Souls of Black Folk#Internal Conflict and Identity內部衝突與身份\|The Souls of Black Folk#Internal Conflict and Identity內部衝突與身份]]
+[[BookNotes/The Origins of Totalitarianism#Historical Context of European Jews歐洲猶太人的歷史背景\|The Origins of Totalitarianism#Historical Context of European Jews歐洲猶太人的歷史背景]]
 # Introduction to American History美國歷史概論
 
 Howard Zinn's "A People's History of the United States" challenges the traditional narratives of American history, arguing that the story is often told from the perspective of the victors—namely, the wealthy and powerful. Zinn posits that the United States is built on exploitation, racism, and oppression, highlighting the struggles of marginalized groups throughout history. This summary explores key themes and chapters from Zinn's work, emphasizing the importance of understanding the true history of America.霍華德·津恩的《美國人民的歷史》挑戰了美國歷史的傳統敘事，認為這個故事通常是從勝利者——即富有和有權勢的人——的角度來講述的。 津恩認為，美國是建立在剝削、種族主義和壓迫之上的，強調了歷史上邊緣群體的鬥爭。 本摘要探討了津恩作品中的關鍵主題和章節，並強調了解美國真實歷史的重要性。
