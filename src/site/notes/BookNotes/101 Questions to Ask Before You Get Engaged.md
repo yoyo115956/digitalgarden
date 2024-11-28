@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["溝通技巧","個人發展","性與關係"],"permalink":"/book-notes/101-questions-to-ask-before-you-get-engaged/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.061+08:00","updated":"2024-11-28T12:28:18.060+08:00"}
+{"dg-publish":true,"tags":["溝通技巧","個人發展","性與關係"],"permalink":"/book-notes/101-questions-to-ask-before-you-get-engaged/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.061+08:00","updated":"2024-11-28T19:46:39.364+08:00"}
 ---
 
 # 相關筆記
@@ -32,4 +32,13 @@ The final phase of discussions focuses on the emotional and spiritual intricacie
 
 # Conclusion結論
 
-In summary, "101 Questions to Ask Before You Get Engaged" highlights the importance of thorough preparation before entering marriage. By exploring each other's values, aspirations, and personalities, couples can build a resilient bond rooted in mutual understanding and respect. These discussions pave the way for a fulfilling partnership, ready to face life's challenges and embrace its joys together. This journey promises a future where love deepens and dreams converge, creating a harmonious life shared with a partner.總而言之，《訂婚前要問的101個問題》強調了結婚前做好充分準備的重要性。 透過探索彼此的價值觀、願望和個性，夫妻可以建立一種植根於相互理解和尊重的堅韌紐帶。 這些討論為建立充實的夥伴關係鋪平了道路，準備好共同面對生活的挑戰並擁抱生活的樂趣。 這段旅程，預示著愛加深、夢想交會的未來，與伴侶共創和諧生活。
+In summary, "101 Questions to Ask Before You Get Engaged" highlights the importance of thorough preparation before entering marriage. By exploring each other's values, aspirations, and personalities, couples can build a resilient bond rooted in mutual understanding and respect. These discussions pave the way for a fulfilling partnership, ready to face life's challenges and embrace its joys together. This journey promises a future where love deepens and dreams converge, creating a harmonious life shared with a partner.總而言之，《訂婚前要問的101個問題》強調了結婚前做好充分準備的重要性。透過探索彼此的價值觀、願望和個性，夫妻可以建立一種植根於相互理解和尊重的堅韌紐帶。這些討論為建立充實的夥伴關係鋪平了道路，準備好共同面對生活的挑戰並擁抱生活的樂趣。這段旅程，預示著愛加深、夢想交會的未來，與伴侶共創和諧生活。
+
+
+
+
+
+
+
+
+
