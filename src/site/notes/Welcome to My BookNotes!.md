@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/welcome-to-my-book-notes/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-11-27T18:07:43.869+08:00","updated":"2024-11-28T21:23:59.267+08:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/welcome-to-my-book-notes/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-11-27T18:07:43.869+08:00","updated":"2024-11-28T21:32:41.205+08:00"}
 ---
 
 Welcome to My BookNotes! 歡迎來到 My BookNotes！
 
-Here, you'll find my notes and insights collected from books on a variety of topics that may be inspiring, thought-provoking, or simply charming.  This growing library reflects my interests and personal growth, as well as my efforts to make knowledge more accessible to everyone.us books spanning across different topics that I find inspiring, thought-provoking, or simply fascinating. This ever-growing library reflects my interests and personal growth journey, as well as my endeavor to make knowledge more accessible to everyone. 在這裡，您可以找到我從不同主題的書籍中所蒐集的筆記與心得，這些書籍或富啟發性、或發人深省、或簡單迷人。這個不斷成長的圖書館反映了我的興趣和個人成長歷程，也反映了我努力讓每個人都能更容易獲得知識。
+Here, you'll find my notes and insights collected from books on a variety of topics that may be inspiring, thought-provoking, or simply charming.  This growing library reflects my interests and personal growth, as well as my efforts to make knowledge more accessible to everyone. 在這裡，您可以找到我從不同主題的書籍中所蒐集的筆記與心得，這些書籍或富啟發性、或發人深省、或簡單迷人。這個不斷成長的圖書館反映了我的興趣和個人成長歷程，也反映了我努力讓每個人都能更容易獲得知識。
 
 Choose the insights that resonate with you and carry them with you as you navigate the currents of life. 選擇能引起您共鳴的見解，帶著它們在生活中遨遊。
 
-Categorized for your convenience: 已分類，方便您使用：
+Categorized for your convenience: 已分類方便您使用：
  - [[Category/Society and Culture\|Society and Culture]], [[Category/Science\|Science]], [[Category/History\|History]], [[Category/Philosophy\|Philosophy]], [[Category/Psychology\|Psychology]]
  - 社會與文化，科學，歷史，哲學，心理學 
 - [[Category/Memoirs and Memory\|Memoirs and Memory]], [[Category/Personal Development\|Personal Development]], [[Category/Politics\|Politics]], [[Category/Technology and Future\|Technology and Future]], [[Category/Management and Leadership\|Management and Leadership]]
