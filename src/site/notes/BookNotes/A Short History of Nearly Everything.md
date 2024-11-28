@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/a-short-history-of-nearly-everything/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.258+08:00","updated":"2024-11-27T18:15:38.472+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/a-short-history-of-nearly-everything/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.258+08:00","updated":"2024-11-28T12:04:06.201+08:00"}
 ---
 
+# 相關筆記
+#科學 #歷史 #教育
+[[BookNotes/Cosmos#Introduction介紹\|Cosmos#Introduction介紹]]
 # Introduction to the Universe宇宙簡介
 
 The quest to understand life, the universe, and everything has been a long-standing endeavor for great thinkers and scientists. This exploration has led to significant discoveries about the formation of the universe, the emergence of life, and the groundbreaking ideas that have shaped our understanding of existence. Despite the progress made, many mysteries remain, particularly regarding the depths of the oceans and the universe itself.對生命、宇宙和一切事物的理解一直是偉大思想家和科學家的長期努力。 這次探索帶來了關於宇宙形成、生命出現的重大發現，以及塑造我們對存在的理解的開創性想法。 儘管取得了進展，但許多謎團仍然存在，特別是關於海洋深度和宇宙本身。

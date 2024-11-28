@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/freakonomics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.307+08:00","updated":"2024-11-27T18:15:38.443+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/freakonomics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.307+08:00","updated":"2024-11-28T12:05:27.083+08:00"}
 ---
 
 # 相關筆記
+#經濟學 
 [[BookNotes/SuperFreakonomics#Statistics and Insights統計數據和見解\|SuperFreakonomics#Statistics and Insights統計數據和見解]]
 [[BookNotes/Atomic Habits#Motivation and Rewards動機和獎勵\|Atomic Habits#Motivation and Rewards動機和獎勵]]
 [[BookNotes/How Will You Measure Your Life#Motivation vs. Money動機與金錢\|How Will You Measure Your Life#Motivation vs. Money動機與金錢]]
+[[BookNotes/Influence#Scarcity and Desire稀缺與慾望\|Influence#Scarcity and Desire稀缺與慾望]]
 # Introduction to Incentives激勵措施簡介
 
 Incentives play a significant role in influencing human behavior. They can impact various aspects of life, such as financial decisions, personal pride, and moral choices. Politicians, employers, and even family members often use incentives to encourage desired behaviors. Incentives can be categorized into three types: economic, social, and moral. The most effective incentives usually combine these three elements. For example, in the context of crime, economic factors like the risk of imprisonment, moral considerations about right and wrong, and social pressures to conform all work together to deter criminal behavior.激勵在影響人類行為方面發揮著重要作用。 它們可以影響生活的各個方面，例如財務決策、個人自豪感和道德選擇。 政治家、雇主，甚至家人經常使用激勵措施來鼓勵期望的行為。 激勵可以分為三種：經濟激勵、社會激勵和道德激勵。 最有效的激勵措施通常結合這三個要素。 例如，在犯罪背景下，入獄風險等經濟因素、對是非的道德考慮以及要求遵守的社會壓力共同作用，以阻止犯罪行為。

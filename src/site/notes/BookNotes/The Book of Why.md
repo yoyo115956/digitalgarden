@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-book-of-why/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.003+08:00","updated":"2024-11-27T18:15:38.420+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-book-of-why/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.003+08:00","updated":"2024-11-28T11:32:41.202+08:00"}
 ---
 
+# 相關筆記
+#科學 
+[[BookNotes/On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響\|On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響]]
+[[BookNotes/Critique of Pure Reason#Chapter 14 The Role of Reason in Metaphysical Speculation第14章：理性在形上學思辨中的作用\|Critique of Pure Reason#Chapter 14 The Role of Reason in Metaphysical Speculation第14章：理性在形上學思辨中的作用]]
+[[BookNotes/Freakonomics#Causality vs. Correlation因果關係與相關關係\|Freakonomics#Causality vs. Correlation因果關係與相關關係]]
+[[BookNotes/The Black Swan#Introduction介紹\|The Black Swan#Introduction介紹]]
 # Introduction 介紹
 
 The exploration of causation and its implications is a fundamental aspect of understanding the world around us. Judea Pearl and Dana MacKenzie, in "The Book of Why," challenge long-held assumptions about data, particularly the distinction between correlation and causation. They argue that understanding causation is essential for answering critical questions in various fields, from personal experiences to scientific research.探索因果關係及其意義是理解我們周圍世界的一個基本面向。 Judea Pearl 和 Dana MacKenzie 在《The Book of Why》中挑戰了長期以來對數據的假設，特別是相關性和因果關係之間的區別。他們認為，理解因果關係對於回答從個人經驗到科學研究等各個領域的關鍵問題至關重要。

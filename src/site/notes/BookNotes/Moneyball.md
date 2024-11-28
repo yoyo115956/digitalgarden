@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/moneyball/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.385+08:00","updated":"2024-11-27T18:15:38.433+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/moneyball/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.385+08:00","updated":"2024-11-28T11:57:08.686+08:00"}
 ---
 
+# 相關筆記
+#創業 #社會與文化 
+[[BookNotes/Influence#Effort and Value努力與價值\|Influence#Effort and Value努力與價值]]
+[[BookNotes/The Next Millionaire Next Door#Busting Wealth-Related Myths打破與財富相關的神話\|The Next Millionaire Next Door#Busting Wealth-Related Myths打破與財富相關的神話]]
+[[BookNotes/Good to Great#Finding Your “Hedgehog Concept”找到你的“刺蝟理念”\|Good to Great#Finding Your “Hedgehog Concept”找到你的“刺蝟理念”]]
+[[BookNotes/The Warren Buffett Way#Introduction介紹\|The Warren Buffett Way#Introduction介紹]]
 # Introduction to Moneyball點球成金簡介
 
 The book "Moneyball" by Michael Lewis explores how the Oakland Athletics, a low-budget baseball team, managed to compete against wealthier teams in Major League Baseball. The story centers around Billy Bean, the team's general manager, who realized that traditional scouting methods were ineffective. He sought innovative approaches to build a competitive team despite financial limitations.邁克爾·劉易斯(Michael Lewis) 所著的《點球成金》(Moneyball) 一書探討了奧克蘭運動隊(Oakland Athletics) 這支低成本棒球隊如何成功與美國職業棒球大聯盟(Major League Baseball) 中較富有的球隊競爭。 故事圍繞著球隊總經理比利·比恩展開，他意識到傳統的球探方法是無效的。 儘管資金有限，他仍尋求創新方法來建立一支有競爭力的團隊。

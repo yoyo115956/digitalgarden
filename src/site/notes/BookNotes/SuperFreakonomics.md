@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/super-freakonomics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.372+08:00","updated":"2024-11-27T19:13:40.372+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/super-freakonomics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.372+08:00","updated":"2024-11-28T11:53:22.163+08:00"}
 ---
 
+# 相關筆記
+#經濟學 
+[[BookNotes/Freakonomics#Overlooking Remote Causes忽視遙遠的原因\|Freakonomics#Overlooking Remote Causes忽視遙遠的原因]]
+[[BookNotes/Blink#Chapter 6 Market Research Limitations第 6 章：市場研究的局限性\|Blink#Chapter 6 Market Research Limitations第 6 章：市場研究的局限性]]
+[[BookNotes/The Book of Why#Chapter 5 The Third Rung Counterfactuals第五章：第三級：反事實\|The Book of Why#Chapter 5 The Third Rung Counterfactuals第五章：第三級：反事實]]
+[[BookNotes/The Tipping Point#Introduction to Epidemics of Ideas思想流行病導論\|The Tipping Point#Introduction to Epidemics of Ideas思想流行病導論]]
 # Introduction介紹
 
 The book "SuperFreakonomics" by Steven D. Levitt and Stephen J. Dubner explores how data can provide insights into societal issues. The authors argue that many experts fail to find solutions because they rely on personal experiences rather than cold, hard data. By using statistics, we can better understand human behavior and find effective solutions to problems like global warming, terrorism, and disease.Steven D. Levitt 和 Stephen J. Dubner 所寫的《SuperFreakonomics》一書探討了數據如何提供對社會問題的見解。 作者認為，許多專家未能找到解決方案，因為他們依賴的是個人經驗而不是冷酷的數據。 透過使用統計數據，我們可以更了解人類行為，並找到解決全球暖化、恐怖主義和疾病等問題的有效解決方案。

@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/crime-and-punishment/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.131+08:00","updated":"2024-11-27T18:15:38.449+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/crime-and-punishment/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.131+08:00","updated":"2024-11-28T12:10:07.103+08:00"}
 ---
 
+# 相關筆記
+#心理學 #哲學 #社會與文化 #小說 
+[[BookNotes/Discipline & Punishment#Introduction介紹\|Discipline & Punishment#Introduction介紹]]
 # Introduction介紹
 
 "Crime and Punishment," a novel by Fyodor Dostoyevsky, delves into the psychological and spiritual ramifications of crime through the story of Rodion Raskolnikov, a young man living in St. Petersburg. The narrative begins with Raskolnikov in a state of hypochondria, contemplating a grave act that will alter the course of his life. The novel is not merely a mystery but an exploration of the motivations behind Raskolnikov's actions, focusing on the internal conflict he faces as he grapples with his conscience.費奧多爾·陀思妥耶夫斯基的小說《罪與罰》透過居住在聖彼得堡的年輕人羅迪昂·拉斯科爾尼科夫的故事，深入探討了犯罪對心理和精神造成的影響。 故事開始於拉斯柯爾尼科夫處於疑病症狀態，思考著一個將改變他人生軌跡的嚴重行為。 這部小說不僅僅是一個懸疑小說，而且探索了拉斯科爾尼科夫行為背後的動機，重點關注他在與良心作鬥爭時所面臨的內部衝突。

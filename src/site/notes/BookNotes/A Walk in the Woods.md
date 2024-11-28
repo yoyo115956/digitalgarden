@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/a-walk-in-the-woods/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.348+08:00","updated":"2024-11-27T18:15:38.470+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/a-walk-in-the-woods/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.348+08:00","updated":"2024-11-28T12:02:51.701+08:00"}
 ---
 
+# 相關筆記
+#動機與靈感 #歷史 
+[[BookNotes/Braiding Sweetgrass#Introduction介紹\|Braiding Sweetgrass#Introduction介紹]]
 # Introduction介紹
 
 Bill Bryson's "A Walk in the Woods" chronicles his unexpected adventure on the Appalachian Trail, a journey that begins with a spontaneous decision rather than years of planning. After moving to New Hampshire, Bryson discovers he is near one of the world's most famous hiking routes and decides to embark on the trek, inviting his old school friend Stephen Katz to join him. The book explores not only the beauty and challenges of the trail but also the cultural and ecological aspects of America.比爾布萊森的《林中漫步》記錄了他在阿巴拉契亞小徑上的意外冒險，這段旅程始於一個自發性的決定，而不是多年的計劃。 搬到新罕布夏州後，布賴森發現他靠近世界上最著名的徒步旅行路線之一，並決定開始徒步旅行，並邀請他的老同學史蒂芬·卡茨加入他的行列。 這本書不僅探討了這條步道的美麗和挑戰，也探討了美國的文化和生態面向。

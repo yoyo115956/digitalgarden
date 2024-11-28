@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-republic/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.382+08:00","updated":"2024-11-27T18:15:38.407+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-republic/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.382+08:00","updated":"2024-11-28T11:48:19.453+08:00"}
 ---
 
 # 相關筆記
+#政治 #哲學 
 [[BookNotes/The Social Contract#The General Will and Sovereignty公意與主權\|The Social Contract#The General Will and Sovereignty公意與主權]]
+[[BookNotes/Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性\|Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性]]
 # Introduction to Justice in Plato's The Republic柏拉圖《理想國》中的正義概論
 
 Plato's "The Republic" is a foundational text in Western philosophy and political theory, primarily exploring the nature of justice and the ideal city. Through the character of Socrates, Plato delves into profound questions about what it means to be just, both as individuals and as a society. The dialogue remains relevant today, prompting readers to reflect on justice's role in personal and communal life.柏拉圖的《理想國》是西方哲學和政治理論的基礎文本，主要探討正義的本質和理想城市。 透過蘇格拉底這個人物，柏拉圖深入探討了關於正義對個人和社會意義的深刻問題。 這段對話至今仍具有現實意義，促使讀者反思正義在個人和公共生活中的作用。

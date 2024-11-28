@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/educated/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.728+08:00","updated":"2024-11-27T18:15:38.446+08:00"}
+{"dg-publish":true,"tags":["教育","傳記與回憶"],"permalink":"/book-notes/educated/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.728+08:00","updated":"2024-11-28T12:25:59.262+08:00"}
 ---
 
+# 相關筆記
+#教育 #傳記與回憶 
+[[BookNotes/Outliers#Influence of Upbringing教養的影響\|Outliers#Influence of Upbringing教養的影響]]
+[[BookNotes/The Story of My Life#Achieving Her Dream of College實現她的大學夢想\|The Story of My Life#Achieving Her Dream of College實現她的大學夢想]]
+[[BookNotes/Becoming#Learning Confidence學習信心\|Becoming#Learning Confidence學習信心]]
+[[BookNotes/Braiding Sweetgrass#Traditional Knowledge and Education傳統知識與教育\|Braiding Sweetgrass#Traditional Knowledge and Education傳統知識與教育]]
+[[BookNotes/Rich Dad, Poor Dad#The Lack of Financial Education缺乏理財教育\|Rich Dad, Poor Dad#The Lack of Financial Education缺乏理財教育]]
 # Introduction介紹
 
 Tara Westover's memoir, "Educated," chronicles her remarkable journey from a life of religious fanaticism and isolation to one of educated empowerment. Growing up in a strict Mormon family in rural Idaho, Tara's upbringing was marked by her father's belief that formal education was a tool for government brainwashing. This memoir details her struggle for education, her experiences in college, and her eventual attainment of a doctoral degree from Cambridge University.塔拉·韋斯托弗的回憶錄《受過教育》記錄了她從宗教狂熱和孤立的生活到受教育賦權的非凡旅程。 塔拉在愛達荷州鄉村的一個嚴格的摩門教家庭長大，她的父親相信正規教育是政府洗腦的工具，她的成長過程就是這樣。 這本回憶錄詳細介紹了她的教育奮鬥、大學經歷以及最終獲得劍橋大學博士學位。

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/born-to-run/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:13.986+08:00","updated":"2024-11-27T18:15:38.449+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/born-to-run/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:13.986+08:00","updated":"2024-11-28T11:35:03.568+08:00"}
 ---
 
+# 相關筆記
+#科學 #健康與營養 
+[[BookNotes/The Book of Why#Chapter 5 The Third Rung Counterfactuals第五章：第三級：反事實\|The Book of Why#Chapter 5 The Third Rung Counterfactuals第五章：第三級：反事實]]
+[[BookNotes/The Black Swan#Introduction介紹\|The Black Swan#Introduction介紹]]
 # Introduction 介紹
 
 Christopher McDougall's "Born to Run" explores the world of running through the lens of the Tarahumara people, an indigenous tribe in Mexico known for their extraordinary long-distance running abilities. McDougall's journey begins with a simple question: why does his foot hurt? This inquiry leads him to discover the secrets of the Tarahumara, who can run for hundreds of miles with apparent ease and joy. The book delves into the science of running, the cultural significance of the sport, and the potential for humans to reconnect with their innate ability to run.克里斯多福·麥克杜格爾的《天生就會跑》透過塔拉烏馬拉人的鏡頭探索了跑步的世界，塔拉烏馬拉人是墨西哥的一個土著部落，以其非凡的長跑能力而聞名。麥克杜格爾的旅程始於一個簡單的問題：為什麼他的腳會受傷？這次調查讓他發現了塔拉烏馬拉人的秘密，塔拉烏馬拉人可以輕鬆愉快地奔跑數百英里。這本書深入探討了跑步的科學、這項運動的文化意義，以及人類與生俱來的跑步能力重新連結的潛力。

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-souls-of-black-folk/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.018+08:00","updated":"2024-11-27T18:15:38.405+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-souls-of-black-folk/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.018+08:00","updated":"2024-11-28T12:15:50.593+08:00"}
 ---
 
+# 相關筆記
+#歷史 #社會與文化 
+[[BookNotes/A People’s History of the United States#Native American Resistance and African Slavery美洲原住民的反抗與非洲奴隸制\|A People’s History of the United States#Native American Resistance and African Slavery美洲原住民的反抗與非洲奴隸制]]
+[[BookNotes/The Autobiography of Malcolm X#New Initiatives and Organizations新措施和組織\|The Autobiography of Malcolm X#New Initiatives and Organizations新措施和組織]]
 # Introduction介紹
 
 The aftermath of slavery in America was a complex and challenging period for African Americans. Although emancipation was hoped to bring an end to suffering, it instead introduced new adversities. W.E.B. Du Bois, a prominent African American activist, provides critical insights into the struggles faced by Black Americans during this time, highlighting the deep scars left by slavery and the difficulties of integration into society.對非裔美國人來說，美國奴隸制的餘波是一個複雜且充滿挑戰的時期。 儘管人們希望解放能結束痛苦，但它卻帶來了新的逆境。 W.E.B. 著名的非裔美國活動家杜波依斯對美國黑人在這段時期所面臨的鬥爭提供了批判性的見解，強調了奴隸制留下的深刻傷痕和融入社會的困難。

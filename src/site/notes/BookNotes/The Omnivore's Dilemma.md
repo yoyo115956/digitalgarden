@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-omnivore-s-dilemma/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.999+08:00","updated":"2024-11-27T18:15:38.411+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-omnivore-s-dilemma/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.999+08:00","updated":"2024-11-28T12:20:15.126+08:00"}
 ---
 
 # 相關筆記
+#健康與營養 #自然與環境 #社會與文化 
 [[BookNotes/The Uninhabitable Earth#Runaway Warming Will Cause Mass Hunger and Malnourishment失控的暖化將導致大規模飢餓和營養不良\|The Uninhabitable Earth#Runaway Warming Will Cause Mass Hunger and Malnourishment失控的暖化將導致大規模飢餓和營養不良]]
-
+[[BookNotes/Fast Food Nation#Conclusion結論\|Fast Food Nation#Conclusion結論]]
+[[BookNotes/Born to Run#The Benefits of a Plant-Based Diet植物性飲食的好處\|Born to Run#The Benefits of a Plant-Based Diet植物性飲食的好處]]
+[[BookNotes/SuperFreakonomics#Challenges of Global Warming全球暖化的挑戰\|SuperFreakonomics#Challenges of Global Warming全球暖化的挑戰]]
+[[BookNotes/Sapiens#Agricultural Revolution農業革命\|Sapiens#Agricultural Revolution農業革命]]
 # Introduction to The Omnivore's Dilemma雜食動物的困境簡介
 
 The omnivore's dilemma refers to the challenge of choosing what to eat in a world filled with diverse food options. While early humans had straightforward diets based on seasonal and local availability, modern advancements in food preservation and transportation have created a vast array of choices. This abundance complicates our decision-making process regarding food, as we must navigate between health, taste, cost, and environmental impact.雜食者的困境是指在一個充滿多樣化食物選擇的世界中選擇吃什麼的挑戰。 雖然早期人類的飲食是基於季節和當地供應情況的簡單飲食，但現代食品保存和運輸的進步創造了廣泛的選擇。 這種豐富性使我們關於食品的決策過程變得複雜，因為我們必須在健康、口味、成本和環境影響之間進行權衡。

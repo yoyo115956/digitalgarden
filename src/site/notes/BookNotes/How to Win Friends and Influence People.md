@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/how-to-win-friends-and-influence-people/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.580+08:00","updated":"2024-11-27T18:15:38.438+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/how-to-win-friends-and-influence-people/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.580+08:00","updated":"2024-11-28T11:45:12.895+08:00"}
 ---
 
+# 相關筆記
+#溝通技巧 #職業與成功 
+[[BookNotes/The 7 Habits of Highly Effective People#Habit 4 Think Win-Win習慣四：雙贏思維\|The 7 Habits of Highly Effective People#Habit 4 Think Win-Win習慣四：雙贏思維]]
+[[BookNotes/How to Talk to Anyone#The Art of Giving Praise讚美的藝術\|How to Talk to Anyone#The Art of Giving Praise讚美的藝術]]
+[[BookNotes/Influence#Conclusion結論\|Influence#Conclusion結論]]
 # Introduction介紹
 
 Dale Carnegie's "How to Win Friends & Influence People" is a timeless self-help book that has been guiding individuals in improving their interpersonal skills since its publication in 1936. Narrated by Amanda Mar from Blinkist, the book offers practical advice on enhancing relationships and communication, making it relevant even today. The insights provided aim to help readers navigate social situations more effectively, fostering friendships and influence in both personal and professional realms.戴爾·卡內基 (Dale Carnegie) 的《如何贏得朋友並影響別人》是一本永恆的自助書籍，自 1936 年出版以來一直指導個人提高人際交往能力。 。 所提供的見解旨在幫助讀者更有效地應對社交場合，在個人和職業領域培養友誼和影響力。

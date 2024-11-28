@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/zen-and-the-art-of-motorcycle-maintenance/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.247+08:00","updated":"2024-11-27T18:15:38.396+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/zen-and-the-art-of-motorcycle-maintenance/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.247+08:00","updated":"2024-11-28T11:47:18.740+08:00"}
 ---
 
+# 相關筆記
+#哲學 
+[[BookNotes/The Nicomachean Ethics#Introduction to Balance in Life生活平衡簡介\|The Nicomachean Ethics#Introduction to Balance in Life生活平衡簡介]]
+[[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]
+[[BookNotes/Critique of Pure Reason#Introduction介紹\|Critique of Pure Reason#Introduction介紹]]
+[[BookNotes/Meditations#The Role of Logic邏輯的作用\|Meditations#The Role of Logic邏輯的作用]]
 # Introduction介紹
 
 The exploration of balancing classical and romantic mindsets is central to achieving harmony in life and work. Robert Pirsig's "Zen and the Art of Motorcycle Maintenance" serves as a philosophical inquiry into values, illustrating how these two modes of thought can coexist. The classical mind is rooted in rationality and order, while the romantic mind embraces emotion and chaos. Understanding how to navigate the tension between these perspectives can lead to a more balanced existence.探索平衡古典與浪漫的心態是實現生活和工作和諧的核心。 羅伯特·波西格（Robert Pirsig）的《禪與摩托車維修藝術》是對價值觀的哲學探究，說明了這兩種思維模式如何共存。 古典思想植根於理性和秩序，而浪漫思想則擁抱情感和混亂。 了解如何處理這些觀點之間的緊張關係可以帶來更平衡的存在。

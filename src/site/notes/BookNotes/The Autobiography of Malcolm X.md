@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-autobiography-of-malcolm-x/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.120+08:00","updated":"2024-11-27T19:17:58.552+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-autobiography-of-malcolm-x/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.120+08:00","updated":"2024-11-28T11:43:56.498+08:00"}
 ---
 
+# 相關筆記
+#傳記與回憶 
+[[BookNotes/The Immortal Life Of Henrietta Lacks#The Forgotten Legacy of Henrietta Lacks亨利埃塔被遺忘的遺產缺乏\|The Immortal Life Of Henrietta Lacks#The Forgotten Legacy of Henrietta Lacks亨利埃塔被遺忘的遺產缺乏]]
+[[BookNotes/Long Walk to Freedom#Childhood Influences童年的影響\|Long Walk to Freedom#Childhood Influences童年的影響]]
+[[BookNotes/Persuasion#Anne's Early Life and Loss安妮的早年生活和損失\|Persuasion#Anne's Early Life and Loss安妮的早年生活和損失]]
 # Introduction to Malcolm X馬爾科姆·X 簡介
 
 Malcolm X, born Malcolm Little on May 19, 1925, is one of the most significant figures in the American Civil Rights Movement, second only to Martin Luther King Jr. His life story, as recounted in "The Autobiography of Malcolm X" by Alex Haley, provides a deep insight into his experiences, beliefs, and the evolution of his identity. This summary explores key aspects of Malcolm's life, including his early years, struggles with racism, criminal activities, spiritual awakening, and eventual assassination.馬爾科姆·X（Malcolm X），原名馬爾科姆·利特爾（Malcolm Little），1925年5月19日出生，是美國民權運動中最重要的人物之一，僅次於馬丁·路德·金。 本摘要探討了馬爾科姆生活的關鍵方面，包括他的早年、與種族主義的鬥爭、犯罪活動、精神覺醒和最終的暗殺。

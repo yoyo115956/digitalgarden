@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-devil-in-the-white-city/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.050+08:00","updated":"2024-11-27T18:15:38.417+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-devil-in-the-white-city/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.050+08:00","updated":"2024-11-28T11:37:03.463+08:00"}
 ---
 
+# 相關筆記
+#傳記與回憶 
+[[BookNotes/The Autobiography of Malcolm X#Introduction to Urban Black Culture城市黑人文化簡介\|The Autobiography of Malcolm X#Introduction to Urban Black Culture城市黑人文化簡介]]
+[[BookNotes/I Know why the Caged Bird Sings#Chapter 4 California第 4 章：加利福尼亞\|I Know why the Caged Bird Sings#Chapter 4 California第 4 章：加利福尼亞]]
 # Introduction 介紹
 
 The narrative of "The Devil in the White City" by Erik Larson transports readers to turn-of-the-century Chicago, a city that transformed from a quiet Midwest town into a bustling metropolis known for its vibrant culture and dark underbelly. The book intertwines the story of the World's Columbian Exposition, a monumental fair that showcased American innovation and ambition, with the chilling tale of Henry Howard Holmes, one of the first known serial killers in the United States.拉森（Erik Larson）的《白城惡魔》的敘述將讀者帶到了世紀之交的芝加哥，這座城市從一個安靜的中西部小鎮轉變為一個以其充滿活力的文化和黑暗的弱點而聞名的繁華大都市。這本書將世界哥倫布博覽會的故事與美國最早的連環殺手之一亨利·霍華德·福爾摩斯的令人毛骨悚然的故事交織在一起，哥倫布博覽會是一個展示美國創新和雄心的紀念性博覽會。

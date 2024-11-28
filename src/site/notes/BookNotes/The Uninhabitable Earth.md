@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-uninhabitable-earth/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.938+08:00","updated":"2024-11-27T18:15:38.400+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-uninhabitable-earth/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.938+08:00","updated":"2024-11-28T12:22:21.918+08:00"}
 ---
 
+# 相關筆記
+#自然與環境 
+[[BookNotes/A Short History of Nearly Everything#Conditions for Life on Earth地球上生命的條件\|A Short History of Nearly Everything#Conditions for Life on Earth地球上生命的條件]]
+[[BookNotes/SuperFreakonomics#Innovative Approaches to Climate Change應對氣候變遷的創新方法\|SuperFreakonomics#Innovative Approaches to Climate Change應對氣候變遷的創新方法]]
+[[BookNotes/Cosmos#Chapter 3 Venus is Hellish and Inhospitable, but Mars Could Be Habitable第三章：金星是地獄般的、不適合居住的，但火星可能適合居住\|Cosmos#Chapter 3 Venus is Hellish and Inhospitable, but Mars Could Be Habitable第三章：金星是地獄般的、不適合居住的，但火星可能適合居住]]
+[[BookNotes/Sapiens#Future of Homo Sapiens智人的未來\|Sapiens#Future of Homo Sapiens智人的未來]]
+[[BookNotes/Braiding Sweetgrass#Conclusion結論\|Braiding Sweetgrass#Conclusion結論]]
 # Introduction介紹
 
 David Wallace-Wells' book, "The Uninhabitable Earth: A Story of the Future," presents a stark and alarming vision of the future of our planet as it faces the consequences of climate change. The author argues that humanity has pushed the Earth’s climate to a breaking point, and the repercussions of our negligence are imminent. The book outlines various catastrophic scenarios that could unfold in the coming century, including freshwater scarcity, extreme weather events, and the resurgence of diseases long thought extinct. The urgency of the situation calls for immediate action to mitigate these dire predictions.大衛華萊士威爾斯的書《不適宜居住的地球：未來的故事》呈現了我們星球面臨氣候變遷後果時的嚴峻而令人震驚的未來願景。 作者認為，人類已經將地球氣候推向了臨界點，我們的疏忽所帶來的後果迫在眉睫。 這本書概述了下個世紀可能出現的各種災難性情景，包括淡水短缺、極端天氣事件以及長期被認為已經滅絕的疾病捲土重來。 情況緊迫，需要立即採取行動，以減輕這些可怕的預測。

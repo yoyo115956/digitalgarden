@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/nice-girls-don-t-get-the-corner-office/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.077+08:00","updated":"2024-11-27T18:15:38.433+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/nice-girls-don-t-get-the-corner-office/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.077+08:00","updated":"2024-11-28T11:35:49.674+08:00"}
 ---
 
+# 相關筆記
+#職業與成功 
+[[BookNotes/Lean In#Introduction介紹\|Lean In#Introduction介紹]]
+[[BookNotes/The Second Sex#The Path to Equality平等之路\|The Second Sex#The Path to Equality平等之路]]
 # Introduction 介紹
 
 The business world continues to present significant challenges for women, despite advancements in gender equality. Lois P. Frankel's book, "Nice Girls Don’t Get the Corner Office," highlights the unconscious mistakes women make that hinder their career progression. The book aims to raise awareness of these issues and provide strategies for women to overcome them, ultimately leading to greater success in their professional lives.儘管性別平等取得了進步，但商業世界仍然為女性帶來重大挑戰。路易斯·P·弗蘭克爾(Lois P. Frankel) 的書《好女孩得不到角落辦公室》(Nice Girls Don't Get the Corner Office) 強調了女性無意識地犯下的錯誤，這些錯誤阻礙了她們的職業發展。這本書旨在提高人們對這些問題的認識，並為女性提供克服這些問題的策略，最終在她們的職業生涯中取得更大的成功。

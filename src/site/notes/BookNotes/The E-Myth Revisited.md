@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-e-myth-revisited/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.169+08:00","updated":"2024-11-27T18:15:38.416+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-e-myth-revisited/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.169+08:00","updated":"2024-11-28T12:13:25.913+08:00"}
 ---
 
+# 相關筆記
+#創業 
+[[BookNotes/Zero to One#Chapter 2 Stop Relying on Luck第 2 章：停止依賴運氣\|Zero to One#Chapter 2 Stop Relying on Luck第 2 章：停止依賴運氣]]
+[[BookNotes/The Lean Startup#Conclusion結論\|The Lean Startup#Conclusion結論]]
+[[BookNotes/Outliers#Introduction介紹\|Outliers#Introduction介紹]]
 # Introduction to Small Business Success小型企業成功簡介
 
 The E-Myth Revisited by Michael E. Gerber explores the reasons behind the high failure rates of small businesses and offers insights into achieving lasting success. Many entrepreneurs mistakenly believe that having a great idea and technical skills is enough to succeed. However, the reality is that a significant number of small businesses fail within their first few years. This guide aims to provide a roadmap for building a successful business that can thrive beyond the initial stages.Michael E. Gerber 的《E-Myth Revisited》探討了小型企業高失敗率背後的原因，並提供了持久成功的見解。 許多企業家錯誤地認為擁有好點子和技術技能就足以成功。 然而，現實情況是，大量小企業在最初幾年內就倒閉了。 本指南旨在提供路線圖，幫助您建立一個能夠超越初始階段並蓬勃發展的成功企業。

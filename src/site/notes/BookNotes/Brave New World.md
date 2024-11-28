@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/brave-new-world/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.196+08:00","updated":"2024-11-27T18:15:38.449+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/brave-new-world/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.196+08:00","updated":"2024-11-28T12:08:07.983+08:00"}
 ---
 
+# 相關筆記
+#技術與未來 #政治 #社會與文化 
+[[BookNotes/The Origins of Totalitarianism#The Rise of the Classless Masses無階級群眾的崛起\|The Origins of Totalitarianism#The Rise of the Classless Masses無階級群眾的崛起]]
+[[BookNotes/A Short History of Nearly Everything#The Origin of Life生命的起源\|A Short History of Nearly Everything#The Origin of Life生命的起源]]
+[[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]
+[[BookNotes/Nineteen Eighty-Four (1984)#Introduction to 19841984年簡介\|Nineteen Eighty-Four (1984)#Introduction to 19841984年簡介]]
 # Introduction介紹
 
 Aldous Huxley's "Brave New World," published in 1932, presents a dystopian society known as the World State, which is built on the principles of efficiency, consumption, and collectivism. The society worships Henry Ford and his assembly line philosophy, leading to the mass production of human beings, who are biologically engineered for their social roles. Unlike the oppressive regime depicted in George Orwell's "1984," Huxley's world is characterized by a population that willingly submits to control, finding pleasure in their subjugation. This summary explores key locations and events in the novel, starting with the Central London Hatchery and Conditioning Centre.奧爾德斯·赫胥黎(Aldous Huxley) 於1932 年出版的《美麗新世界》描繪了一個被稱為「世界國家」的反烏托邦社會，它建立在效率、消費和集體主義的原則之上。 這個社會崇拜亨利·福特和他的裝配線哲學，導致人類的大規模生產，而人類是根據其社會角色進行生物設計的。 與喬治·奧威爾的《1984》中描繪的壓迫政權不同，赫胥黎的世界的特徵是人民心甘情願地服從控制，並在征服中尋找樂趣。 本摘要探討了小說中的關鍵地點和事件，從倫敦市中心孵化場和調節中心開始。

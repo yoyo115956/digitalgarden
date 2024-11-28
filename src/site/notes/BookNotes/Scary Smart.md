@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/scary-smart/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.036+08:00","updated":"2024-11-27T18:15:38.430+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/scary-smart/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.036+08:00","updated":"2024-11-28T11:33:31.723+08:00"}
 ---
 
+# 相關筆記
+#科學 #技術與未來 #社會與文化 
+[[BookNotes/AI 2041#Introduction to AI's Future人工智慧的未來簡介\|AI 2041#Introduction to AI's Future人工智慧的未來簡介]]
+[[BookNotes/The Age of AI#The Future of AI人工智慧的未來\|The Age of AI#The Future of AI人工智慧的未來]]
 # Introduction to AI's Future人工智慧的未來簡介
 
 Artificial Intelligence (AI) is often seen as a powerful force that can either help or harm humanity. The choices we make today will shape AI's future, making it essential for everyone, not just experts, to engage in its development. The goal is to ensure that AI aligns with our values and ethical standards while avoiding potential risks.人工智慧（AI）通常被視為一種強大的力量，可以幫助人類，也可以傷害人類。我們今天所做的選擇將塑造人工智慧的未來，使每個人（而不僅僅是專家）都必須參與人工智慧的發展。目標是確保人工智慧符合我們的價值觀和道德標準，同時避免潛在風險。

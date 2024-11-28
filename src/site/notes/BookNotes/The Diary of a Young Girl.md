@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-diary-of-a-young-girl/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.396+08:00","updated":"2024-11-27T18:15:38.417+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-diary-of-a-young-girl/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.396+08:00","updated":"2024-11-28T11:41:57.156+08:00"}
 ---
 
+# 相關筆記
+#歷史 #傳記與回憶 
+[[BookNotes/A Room of One’s Own#Contemporary Women's Fiction當代女性小說\|A Room of One’s Own#Contemporary Women's Fiction當代女性小說]]
+[[BookNotes/Persuasion#Anne's Early Life and Loss安妮的早年生活和損失\|Persuasion#Anne's Early Life and Loss安妮的早年生活和損失]]
+[[BookNotes/The Story of My Life#Joy and Struggles in Childhood童年的歡樂與掙扎\|The Story of My Life#Joy and Struggles in Childhood童年的歡樂與掙扎]]
+[[BookNotes/Nice Girls Don’t Get the Corner Office#Chapter 5 Leaving Childhood Thinking Behind第五章：拋棄童年思維\|Nice Girls Don’t Get the Corner Office#Chapter 5 Leaving Childhood Thinking Behind第五章：拋棄童年思維]]
 # Introduction介紹
 
 The story of Anne Frank, as chronicled in "The Diary of a Young Girl," is one of the most poignant narratives to emerge from World War II. Anne's diary, written during her family's time in hiding from the Nazis in Amsterdam, captures the essence of her youthful spirit, her aspirations, and the harsh realities of life during a time of persecution. Millions visit the Anne Frank House each year, drawn by the profound impact of her words, which resonate with themes of hope, loss, and the resilience of the human spirit.《少女日記》中記載的安妮法蘭克的故事是二戰中最令人心酸的故事之一。 安妮的日記是在她的家人在阿姆斯特丹躲避納粹的時候寫的，捕捉到了她年輕的精神、她的抱負以及在迫害時期生活的嚴酷現實的精髓。 每年都有數百萬人參觀安妮法蘭克之家，他們被她話語的深刻影響所吸引，這些話語與希望、失落和人類精神的韌性等主題產生了共鳴。

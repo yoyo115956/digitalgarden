@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-silk-roads/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.232+08:00","updated":"2024-11-27T18:15:38.407+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-silk-roads/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.232+08:00","updated":"2024-11-28T11:39:56.190+08:00"}
 ---
 
+# 相關筆記
+#歷史 
+[[BookNotes/Sapiens#Peace in Modern Times現代和平\|Sapiens#Peace in Modern Times現代和平]]
+[[BookNotes/Genghis Khan and the Making of the Modern World#Conclusion結論\|Genghis Khan and the Making of the Modern World#Conclusion結論]]
+[[BookNotes/Guns, Germs, and Steel#Geographical Barriers and Agricultural Diffusion地理障礙和農業擴散\|Guns, Germs, and Steel#Geographical Barriers and Agricultural Diffusion地理障礙和農業擴散]]
+[[BookNotes/Foundation#The Traders and The Merchant Princes商人和商業王子\|Foundation#The Traders and The Merchant Princes商人和商業王子]]
 # Introduction to the Silk Roads絲路簡介
 
 The Silk Roads represent a significant chapter in the history of global trade and cultural exchange. Peter Frankopan's "The Silk Roads: A New History of the World" emphasizes that history is not merely a collection of events involving prominent figures but a complex tapestry woven from trade, economy, and the movement of ideas. The Silk Roads, which evolved from ancient trade routes in Mesopotamia, served as a crucial network connecting East and West, facilitating the exchange of goods, ideas, and cultures. This interconnectedness has shaped the course of history, suggesting that control over these routes equates to control over global influence.絲路是全球貿易和文化交流史上的重要篇章。 彼得·弗蘭科潘的《絲綢之路：一部新的世界史》強調，歷史不僅僅是涉及傑出人物的事件的集合，而且是由貿易、經濟和思想運動編織而成的複雜的掛毯。 絲綢之路由美索不達米亞古代貿易路線演變而來，是連結東西方的重要網絡，促進了商品、思想和文化的交流。 這種相互連結塑造了歷史的進程，顯示對這些路線的控制就等於對全球影響力的控制。

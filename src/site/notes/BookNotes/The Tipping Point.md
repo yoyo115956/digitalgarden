@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-tipping-point/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.296+08:00","updated":"2024-11-27T18:15:38.404+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-tipping-point/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.296+08:00","updated":"2024-11-28T11:59:46.897+08:00"}
 ---
 
+# 相關筆記
+#心理學 #市場與營銷 #動機與靈感 
+[[BookNotes/The Lean Startup#Focusing on One Engine of Growth專注於一個成長引擎\|The Lean Startup#Focusing on One Engine of Growth專注於一個成長引擎]]
+[[BookNotes/The Book of Why#Chapter 3 The First Rung of the Ladder of Causation第三章：因果之梯的第一級\|The Book of Why#Chapter 3 The First Rung of the Ladder of Causation第三章：因果之梯的第一級]]
+[[BookNotes/The E-Myth Revisited#The Turnkey Revolution統包革命\|The E-Myth Revisited#The Turnkey Revolution統包革命]]
+[[BookNotes/SuperFreakonomics#Introduction介紹\|SuperFreakonomics#Introduction介紹]]
+[[BookNotes/Outliers#Introduction介紹\|Outliers#Introduction介紹]]
 # Introduction to Epidemics of Ideas思想流行病導論
 
 Malcolm Gladwell's book, "The Tipping Point," explores how ideas, products, and behaviors spread similarly to viral infections. Initially, only a few people adopt an idea, but once it reaches a tipping point, it can spread rapidly and widely. A notable example is the resurgence of Hush Puppies shoes in the 1990s, where sales skyrocketed after a few trendsetters began wearing them. This phenomenon illustrates how social epidemics can mirror the spread of diseases, with certain conditions facilitating their growth.馬爾科姆‧葛拉威爾的書《引爆點》探討了思想、產品和行為如何像病毒感染一樣傳播。 最初，只有少數人採納一個想法，但一旦達到臨界點，它就會迅速廣泛傳播。 一個顯著的例子是 Hush Puppies 鞋子在 20 世紀 90 年代的復興，在一些潮流引領者開始穿著它們後，銷量猛增。 這現象說明了社會流行病如何反映疾病的傳播，在某些條件下會促進疾病的傳播。

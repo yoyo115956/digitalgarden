@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-artist-s-way/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.924+08:00","updated":"2024-11-27T19:17:51.019+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-artist-s-way/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.924+08:00","updated":"2024-11-28T12:17:25.781+08:00"}
 ---
 
+# 相關筆記
+#創造力 
+[[BookNotes/Steal Like an Artist#Maintaining Hobbies and Side Projects保持愛好和副業\|Steal Like an Artist#Maintaining Hobbies and Side Projects保持愛好和副業]]
+[[BookNotes/The Power of Habit#The Habit Loop Cue, Routine, Reward習慣循環：提示、例行公事、獎勵\|The Power of Habit#The Habit Loop Cue, Routine, Reward習慣循環：提示、例行公事、獎勵]]
 # Introduction to Creativity Recovery創造力恢復簡介
 
 The journey to rediscovering your creative self is essential for anyone who feels stifled in their artistic expression. Julia Cameron's book, "The Artist's Way," serves as a guide to help individuals reconnect with their inner artist. Many people, as children, experienced pure joy in creative activities like drawing or writing. However, as adults, they often find themselves trapped in mundane jobs or struggling with creative blocks. This guide offers practical tips based on a 12-week program to help individuals reclaim their creativity.對於任何在藝術表達中感到窒息的人來說，重新發現創造性自我的旅程至關重要。 茱莉亞·卡梅倫的書《藝術家之路》可以作為幫助個人與內在藝術家重新建立聯繫的指南。 許多人在孩童時期就在繪畫或寫作等創意活動中體驗到純粹的快樂。 然而，作為成年人，他們經常發現自己陷入平凡的工作或與創意障礙作鬥爭。 本指南根據為期 12 週的計畫提供實用技巧，幫助個人重新發揮創造力。

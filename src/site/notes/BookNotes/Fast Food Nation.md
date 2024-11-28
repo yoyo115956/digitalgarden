@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/fast-food-nation/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.321+08:00","updated":"2024-11-27T18:15:38.444+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/fast-food-nation/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.321+08:00","updated":"2024-11-28T12:01:05.121+08:00"}
 ---
 
 # 相關筆記
+#健康與營養 #政治 #社會與文化 
 [[BookNotes/The Omnivore's Dilemma#The Role of Corn in the Food System玉米在食品系統中的作用\|The Omnivore's Dilemma#The Role of Corn in the Food System玉米在食品系統中的作用]]
+[[BookNotes/The Omnivore's Dilemma#Conclusion結論\|The Omnivore's Dilemma#Conclusion結論]]
 # Introduction to Fast Food Nation速食國度簡介
 
 Fast food is a convenient option when hunger strikes, but there are hidden truths behind the appealing advertisements and low prices. Eric Schlosser's "Fast Food Nation" reveals the darker aspects of the fast food industry, including its impact on food production, health, and society. The book explores how the industry's quest for profit leads to poor meat quality, exploitation of workers, and negative consequences for communities.速食之國簡介 速食是飢餓時的便捷選擇，但誘人的廣告和低廉的價格背後卻隱藏著不為人知的真相。 艾瑞克‧施洛瑟（Eric Schlosser）的《快餐國度》揭示了快餐業的陰暗面，包括其對食品生產、健康和社會的影響。 該書探討了該行業對利潤的追求如何導致肉類品質不佳、工人受到剝削以及對社區造成負面影響。

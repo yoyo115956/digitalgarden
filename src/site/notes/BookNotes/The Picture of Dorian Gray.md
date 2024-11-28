@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-picture-of-dorian-gray/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.086+08:00","updated":"2024-11-27T18:15:38.410+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/the-picture-of-dorian-gray/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.086+08:00","updated":"2024-11-28T12:11:58.411+08:00"}
 ---
 
+# 相關筆記
+#社會與文化 
+[[BookNotes/Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒\|Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒]]
 # Introduction介紹
 
 Oscar Wilde's "The Picture of Dorian Gray" is a gothic novel that explores themes of beauty, morality, and the consequences of hedonism. First published in 1891, the story follows Dorian Gray, a young aristocrat who becomes enamored with his own beauty and the pursuit of pleasure, leading to a scandalous and tragic downfall. The novel's provocative themes, including a secretive affair and allusions to homosexuality, shocked contemporary readers and continue to resonate with modern audiences.奧斯卡王爾德的《道林格雷的畫像》是一部哥德式小說，探討了美、道德和享樂主義後果的主題。 該故事首次出版於 1891 年，講述了年輕貴族多里安·格雷 (Dorian Gray) 迷戀自己的美貌和追求享樂，最終導致醜聞和悲劇性垮台的故事。 這部小說的挑釁性主題，包括秘密戀情和同性戀暗示，震驚了當代讀者，並繼續引起現代觀眾的共鳴。

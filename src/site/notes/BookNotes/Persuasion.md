@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/persuasion/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:13.940+08:00","updated":"2024-11-27T18:15:38.428+08:00"}
+{"dg-publish":true,"permalink":"/book-notes/persuasion/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:13.940+08:00","updated":"2024-11-28T11:30:51.810+08:00"}
 ---
 
+# 相關筆記
+#社會與文化 #性與關係 
+[[BookNotes/Influence#Introduction介紹\|Influence#Introduction介紹]]
+[[BookNotes/The Catcher in the Rye#Final Reflections最後的思考\|The Catcher in the Rye#Final Reflections最後的思考]]
+[[BookNotes/To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介\|To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介]]
+[[BookNotes/The Catcher in the Rye#Holden's Relationships and Memories霍爾頓的關係與記憶\|The Catcher in the Rye#Holden's Relationships and Memories霍爾頓的關係與記憶]]
 # Introduction to Persuasion說服簡介
 
 Jane Austen's novel "Persuasion" is her last completed work, published posthumously in 1817. The story revolves around Anne Elliot, a woman navigating the complexities of love and societal expectations during Britain's Regency period. While it is a romantic tale, it also serves as a critique of social norms and the pressures women face regarding marriage.珍奧斯汀的小說《勸說》是她最後完成的作品，於1817 年死後出版。性中掙扎。雖然這是一個浪漫的故事，但它也批評了社會規範和女性在婚姻方面面臨的壓力。
