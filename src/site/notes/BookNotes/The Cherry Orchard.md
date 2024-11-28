@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-cherry-orchard/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.156+08:00","updated":"2024-11-27T23:56:07.966+08:00"}
+{"dg-publish":true,"tags":["歷史","個人發展","社會與文化"],"permalink":"/book-notes/the-cherry-orchard/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.156+08:00","updated":"2024-11-28T13:25:25.638+08:00"}
 ---
 
-
 # 相關筆記
-#歷史 #個人發展 #社會與文化 
 [[BookNotes/The Meaning of Life#Embracing Ambiguity擁抱歧義\|The Meaning of Life#Embracing Ambiguity擁抱歧義]]
 # Introduction to Chekhov's The Cherry Orchard契訶夫的《櫻桃園》簡介
 

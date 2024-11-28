@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/tao-te-ching/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.436+08:00","updated":"2024-11-27T23:31:26.525+08:00"}
+{"dg-publish":true,"tags":["動機與靈感","哲學","宗教與靈性"],"permalink":"/book-notes/tao-te-ching/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.436+08:00","updated":"2024-11-28T13:21:06.861+08:00"}
 ---
 
 # 相關筆記
-#動機與靈感 #哲學 #宗教與靈性
 [[BookNotes/The Meaning of Life#Conclusion結論\|The Meaning of Life#Conclusion結論]]
 [[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]
 # Introduction to Tao Te Ching道德經簡介

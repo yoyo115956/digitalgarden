@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/genghis-khan-and-the-making-of-the-modern-world/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.591+08:00","updated":"2024-11-28T01:01:26.330+08:00"}
+{"dg-publish":true,"tags":["歷史"],"permalink":"/book-notes/genghis-khan-and-the-making-of-the-modern-world/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.591+08:00","updated":"2024-11-28T13:08:45.085+08:00"}
 ---
 
 # 相關筆記
-#歷史 
 [[BookNotes/The Silk Roads#Chapter 4 The Mongol Conquests and the Plague第四章：蒙古的征服與瘟疫\|The Silk Roads#Chapter 4 The Mongol Conquests and the Plague第四章：蒙古的征服與瘟疫]]
 [[BookNotes/The Art of War (new version)#Historical Context歷史背景\|The Art of War (new version)#Historical Context歷史背景]]
 [[BookNotes/Tao Te Ching#Introduction to Tao Te Ching道德經簡介\|Tao Te Ching#Introduction to Tao Te Ching道德經簡介]]

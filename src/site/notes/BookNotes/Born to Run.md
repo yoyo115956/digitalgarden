@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/born-to-run/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:13.986+08:00","updated":"2024-11-28T11:35:03.568+08:00"}
+{"dg-publish":true,"tags":["科學","健康與營養"],"permalink":"/book-notes/born-to-run/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:13.986+08:00","updated":"2024-11-28T12:32:47.486+08:00"}
 ---
 
 # 相關筆記
-#科學 #健康與營養 
 [[BookNotes/The Book of Why#Chapter 5 The Third Rung Counterfactuals第五章：第三級：反事實\|The Book of Why#Chapter 5 The Third Rung Counterfactuals第五章：第三級：反事實]]
 [[BookNotes/The Black Swan#Introduction介紹\|The Black Swan#Introduction介紹]]
 # Introduction 介紹

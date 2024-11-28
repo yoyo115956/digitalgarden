@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-republic/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.382+08:00","updated":"2024-11-28T11:48:19.453+08:00"}
+{"dg-publish":true,"tags":["政治","哲學"],"permalink":"/book-notes/the-republic/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.382+08:00","updated":"2024-11-28T13:30:13.504+08:00"}
 ---
 
 # 相關筆記
-#政治 #哲學 
 [[BookNotes/The Social Contract#The General Will and Sovereignty公意與主權\|The Social Contract#The General Will and Sovereignty公意與主權]]
 [[BookNotes/Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性\|Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性]]
 # Introduction to Justice in Plato's The Republic柏拉圖《理想國》中的正義概論

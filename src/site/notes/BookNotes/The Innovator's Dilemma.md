@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-innovator-s-dilemma/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.301+08:00","updated":"2024-11-28T00:59:54.916+08:00"}
+{"dg-publish":true,"tags":["技術與未來","生產力","創業","管理與領導","創造力"],"permalink":"/book-notes/the-innovator-s-dilemma/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.301+08:00","updated":"2024-11-28T13:27:18.265+08:00"}
 ---
 
 # 相關筆記
-#技術與未來 #生產力 #創業 #管理與領導 #創造力 
 [[BookNotes/The Structure of Scientific Revolutions#The Revolutionary Nature of Scientific Change科學變革的革命性本質\|The Structure of Scientific Revolutions#The Revolutionary Nature of Scientific Change科學變革的革命性本質]]
 [[BookNotes/Zero to One#Chapter 3 Stop Making Copycat Products第 3 章：停止製造山寨產品\|Zero to One#Chapter 3 Stop Making Copycat Products第 3 章：停止製造山寨產品]]
 [[BookNotes/The Uninhabitable Earth#New Technologies Give Us Ways of Softening These Disasters, but They Are Currently Impractical新技術為我們提供了減輕這些災難的方法，但目前還不切實際\|The Uninhabitable Earth#New Technologies Give Us Ways of Softening These Disasters, but They Are Currently Impractical新技術為我們提供了減輕這些災難的方法，但目前還不切實際]]

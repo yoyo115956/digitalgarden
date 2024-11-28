@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/building-your-money-machine-with-chat-gpt/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.330+08:00","updated":"2024-11-27T23:33:05.042+08:00"}
+{"dg-publish":true,"tags":["市場與營銷","技術與未來","創業","創造力"],"permalink":"/book-notes/building-your-money-machine-with-chat-gpt/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.330+08:00","updated":"2024-11-28T12:34:10.163+08:00"}
 ---
 
 # 相關筆記
-#市場與營銷 #技術與未來 #創業 #創造力
 [[BookNotes/The Age of AI#The Role of Global Networks全球網路的作用\|The Age of AI#The Role of Global Networks全球網路的作用]]
 [[BookNotes/How to Talk to Anyone#共同點\|How to Talk to Anyone#共同點]]
 [[BookNotes/AI 2041#The Threat of Deepfakes深度假貨的威脅\|AI 2041#The Threat of Deepfakes深度假貨的威脅]]

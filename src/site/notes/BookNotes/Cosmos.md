@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/cosmos/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.104+08:00","updated":"2024-11-28T00:58:35.544+08:00"}
+{"dg-publish":true,"tags":["科學"],"permalink":"/book-notes/cosmos/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.104+08:00","updated":"2024-11-28T12:34:19.388+08:00"}
 ---
 
 # 相關筆記
-#科學 
 [[BookNotes/A Short History of Nearly Everything#Introduction to the Universe宇宙簡介\|A Short History of Nearly Everything#Introduction to the Universe宇宙簡介]]
 [[BookNotes/A Brief History of Time#Conclusion Understanding the Universe結論：理解宇宙\|A Brief History of Time#Conclusion Understanding the Universe結論：理解宇宙]]
 # Introduction介紹

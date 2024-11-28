@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/fast-food-nation/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.321+08:00","updated":"2024-11-28T12:01:05.121+08:00"}
+{"dg-publish":true,"tags":["健康與營養","政治","社會與文化"],"permalink":"/book-notes/fast-food-nation/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.321+08:00","updated":"2024-11-28T13:07:31.189+08:00"}
 ---
 
 # 相關筆記
-#健康與營養 #政治 #社會與文化 
 [[BookNotes/The Omnivore's Dilemma#The Role of Corn in the Food System玉米在食品系統中的作用\|The Omnivore's Dilemma#The Role of Corn in the Food System玉米在食品系統中的作用]]
 [[BookNotes/The Omnivore's Dilemma#Conclusion結論\|The Omnivore's Dilemma#Conclusion結論]]
 # Introduction to Fast Food Nation速食國度簡介

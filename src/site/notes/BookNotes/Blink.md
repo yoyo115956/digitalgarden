@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/blink/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.314+08:00","updated":"2024-11-28T00:31:14.747+08:00"}
+{"dg-publish":true,"tags":["心理學","動機與靈感"],"permalink":"/book-notes/blink/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.314+08:00","updated":"2024-11-28T12:32:23.946+08:00"}
 ---
 
 # 相關筆記
-#心理學 #動機與靈感 
 [[BookNotes/Thinking, Fast and Slow#Chapter 3 Snap Judgments第3章：快速判斷\|Thinking, Fast and Slow#Chapter 3 Snap Judgments第3章：快速判斷]]
 [[BookNotes/The Black Swan#Understanding Limitations for Better Choices了解更好選擇的限制\|The Black Swan#Understanding Limitations for Better Choices了解更好選擇的限制]]
 # Introduction介紹

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-picture-of-dorian-gray/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.086+08:00","updated":"2024-11-28T12:11:58.411+08:00"}
+{"dg-publish":true,"tags":["社會與文化"],"permalink":"/book-notes/the-picture-of-dorian-gray/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.086+08:00","updated":"2024-11-28T13:29:38.917+08:00"}
 ---
 
 # 相關筆記
-#社會與文化 
 [[BookNotes/Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒\|Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒]]
 # Introduction介紹
 

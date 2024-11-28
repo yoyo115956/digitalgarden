@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/braiding-sweetgrass/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.890+08:00","updated":"2024-11-28T00:27:49.365+08:00"}
+{"dg-publish":true,"tags":["宗教與靈性","自然與環境"],"permalink":"/book-notes/braiding-sweetgrass/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.890+08:00","updated":"2024-11-28T12:33:09.261+08:00"}
 ---
 
 # 相關筆記
-#宗教與靈性 #自然與環境 
 [[BookNotes/Silent Spring#Introduction to Environmental Awareness環境意識簡介\|Silent Spring#Introduction to Environmental Awareness環境意識簡介]]
 [[BookNotes/A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫\|A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫]]
 [[BookNotes/The Art of Happiness#Cultivating Universal Compassion培養普遍的慈悲心\|The Art of Happiness#Cultivating Universal Compassion培養普遍的慈悲心]]

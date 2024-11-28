@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/i-know-why-the-caged-bird-sings/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.815+08:00","updated":"2024-11-28T00:13:12.637+08:00"}
+{"dg-publish":true,"tags":["歷史","傳記與回憶","社會與文化"],"permalink":"/book-notes/i-know-why-the-caged-bird-sings/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.815+08:00","updated":"2024-11-28T13:11:49.987+08:00"}
 ---
 
 # 相關筆記
-#歷史 #傳記與回憶 #社會與文化 
 [[BookNotes/To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介\|To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介]]
 [[BookNotes/The Diary of a Young Girl#A Noise in the Night夜間的噪音\|The Diary of a Young Girl#A Noise in the Night夜間的噪音]]
 [[BookNotes/The Story of My Life#Joy and Struggles in Childhood童年的歡樂與掙扎\|The Story of My Life#Joy and Struggles in Childhood童年的歡樂與掙扎]]

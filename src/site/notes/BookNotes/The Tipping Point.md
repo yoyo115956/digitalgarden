@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-tipping-point/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.296+08:00","updated":"2024-11-28T11:59:46.897+08:00"}
+{"dg-publish":true,"tags":["心理學","市場與營銷","動機與靈感"],"permalink":"/book-notes/the-tipping-point/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.296+08:00","updated":"2024-11-28T13:31:58.788+08:00"}
 ---
 
 # 相關筆記
-#心理學 #市場與營銷 #動機與靈感 
 [[BookNotes/The Lean Startup#Focusing on One Engine of Growth專注於一個成長引擎\|The Lean Startup#Focusing on One Engine of Growth專注於一個成長引擎]]
 [[BookNotes/The Book of Why#Chapter 3 The First Rung of the Ladder of Causation第三章：因果之梯的第一級\|The Book of Why#Chapter 3 The First Rung of the Ladder of Causation第三章：因果之梯的第一級]]
 [[BookNotes/The E-Myth Revisited#The Turnkey Revolution統包革命\|The E-Myth Revisited#The Turnkey Revolution統包革命]]

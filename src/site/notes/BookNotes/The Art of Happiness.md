@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-art-of-happiness/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.953+08:00","updated":"2024-11-28T00:09:46.007+08:00"}
+{"dg-publish":true,"tags":["正念與快樂"],"permalink":"/book-notes/the-art-of-happiness/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.953+08:00","updated":"2024-11-28T13:23:21.159+08:00"}
 ---
 
 # 相關筆記
-#正念與快樂
 [[BookNotes/Sapiens#Subjective Happiness and Historical Progress主觀幸福與歷史進步\|Sapiens#Subjective Happiness and Historical Progress主觀幸福與歷史進步]]
 [[BookNotes/Essentialism#Introduction to Essentialism本質主義簡介\|Essentialism#Introduction to Essentialism本質主義簡介]]
 [[BookNotes/Tao Te Ching#The Sage as an Ideal Leader聖人是理想的領導者\|Tao Te Ching#The Sage as an Ideal Leader聖人是理想的領導者]]

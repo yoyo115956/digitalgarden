@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/101-questions-to-ask-before-you-get-engaged/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.061+08:00","updated":"2024-11-28T01:03:08.105+08:00"}
+{"dg-publish":true,"tags":["溝通技巧","個人發展","性與關係"],"permalink":"/book-notes/101-questions-to-ask-before-you-get-engaged/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.061+08:00","updated":"2024-11-28T12:28:18.060+08:00"}
 ---
 
 # 相關筆記
-#溝通技巧 #個人發展 #性與關係 
 [[BookNotes/How to Talk to Anyone#Consideration in Relationships關係中的考慮\|How to Talk to Anyone#Consideration in Relationships關係中的考慮]]
 [[BookNotes/The Art of Happiness#The Limitations of Romantic Love浪漫愛的局限性\|The Art of Happiness#The Limitations of Romantic Love浪漫愛的局限性]]
 [[BookNotes/How Will You Measure Your Life#The Importance of Relationships人際關係的重要性\|How Will You Measure Your Life#The Importance of Relationships人際關係的重要性]]

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/super-freakonomics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.372+08:00","updated":"2024-11-28T11:53:22.163+08:00"}
+{"dg-publish":true,"tags":["經濟學"],"permalink":"/book-notes/super-freakonomics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.372+08:00","updated":"2024-11-28T13:20:44.077+08:00"}
 ---
 
 # 相關筆記
-#經濟學 
 [[BookNotes/Freakonomics#Overlooking Remote Causes忽視遙遠的原因\|Freakonomics#Overlooking Remote Causes忽視遙遠的原因]]
 [[BookNotes/Blink#Chapter 6 Market Research Limitations第 6 章：市場研究的局限性\|Blink#Chapter 6 Market Research Limitations第 6 章：市場研究的局限性]]
 [[BookNotes/The Book of Why#Chapter 5 The Third Rung Counterfactuals第五章：第三級：反事實\|The Book of Why#Chapter 5 The Third Rung Counterfactuals第五章：第三級：反事實]]

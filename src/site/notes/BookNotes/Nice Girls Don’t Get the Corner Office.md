@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/nice-girls-don-t-get-the-corner-office/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.077+08:00","updated":"2024-11-28T11:35:49.674+08:00"}
+{"dg-publish":true,"tags":["職業與成功"],"permalink":"/book-notes/nice-girls-don-t-get-the-corner-office/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.077+08:00","updated":"2024-11-28T13:17:33.126+08:00"}
 ---
 
 # 相關筆記
-#職業與成功 
 [[BookNotes/Lean In#Introduction介紹\|Lean In#Introduction介紹]]
 [[BookNotes/The Second Sex#The Path to Equality平等之路\|The Second Sex#The Path to Equality平等之路]]
 # Introduction 介紹

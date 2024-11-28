@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/atomic-habits/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:51.976+08:00","updated":"2024-11-27T23:46:17.247+08:00"}
+{"dg-publish":true,"tags":["生產力","個人發展"],"permalink":"/book-notes/atomic-habits/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:51.976+08:00","updated":"2024-11-28T12:31:25.174+08:00"}
 ---
 
 # 相關筆記
-#生產力 #個人發展 
 [[BookNotes/The Power of Habit#Conclusion The Path to Change結論：變革之路\|The Power of Habit#Conclusion The Path to Change結論：變革之路]]
 [[BookNotes/The 7 Habits of Highly Effective People#Habit 2 Begin with the End in Mind習慣2：以終為始\|The 7 Habits of Highly Effective People#Habit 2 Begin with the End in Mind習慣2：以終為始]]
 # Introduction介紹

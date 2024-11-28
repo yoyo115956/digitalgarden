@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/a-room-of-one-s-own/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.764+08:00","updated":"2024-11-28T00:22:34.826+08:00"}
+{"dg-publish":true,"tags":["哲學","創造力","社會與文化"],"permalink":"/book-notes/a-room-of-one-s-own/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.764+08:00","updated":"2024-11-28T12:29:32.283+08:00"}
 ---
 
 # 相關筆記
-#哲學 #創造力 #社會與文化 
 [[BookNotes/The Second Sex#The Path to Equality平等之路\|The Second Sex#The Path to Equality平等之路]]
 [[BookNotes/Lean In#Conclusion結論\|Lean In#Conclusion結論]]
 # Introduction to Feminist Ideals著增強對自然世界的理解。

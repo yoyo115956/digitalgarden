@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/a-people-s-history-of-the-united-states/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.603+08:00","updated":"2024-11-27T23:19:50.052+08:00"}
+{"dg-publish":true,"tags":["歷史"],"permalink":"/book-notes/a-people-s-history-of-the-united-states/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.603+08:00","updated":"2024-11-28T12:28:42.873+08:00"}
 ---
 
 # 相關筆記
-#歷史
 [[BookNotes/The Souls of Black Folk#Introduction介紹\|The Souls of Black Folk#Introduction介紹]]
 [[BookNotes/The Souls of Black Folk#Internal Conflict and Identity內部衝突與身份\|The Souls of Black Folk#Internal Conflict and Identity內部衝突與身份]]
 [[BookNotes/The Origins of Totalitarianism#Historical Context of European Jews歐洲猶太人的歷史背景\|The Origins of Totalitarianism#Historical Context of European Jews歐洲猶太人的歷史背景]]

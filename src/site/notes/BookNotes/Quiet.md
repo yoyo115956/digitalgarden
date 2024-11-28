@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/quiet/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.354+08:00","updated":"2024-11-27T23:26:11.050+08:00"}
+{"dg-publish":true,"tags":["心理學","溝通技巧"],"permalink":"/book-notes/quiet/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.354+08:00","updated":"2024-11-28T13:19:16.029+08:00"}
 ---
 
 # 相關筆記
-#心理學 #溝通技巧 
 [[BookNotes/How to Talk to Anyone#The Importance of First Impressions第一印象的重要性\|How to Talk to Anyone#The Importance of First Impressions第一印象的重要性]]
 [[BookNotes/The 7 Habits of Highly Effective People#Habit 5 Seek First to Understand, Then to Be Understood習慣五：先尋求理解，再尋求被理解\|The 7 Habits of Highly Effective People#Habit 5 Seek First to Understand, Then to Be Understood習慣五：先尋求理解，再尋求被理解]]
 [[BookNotes/How to Win Friends and Influence People#Encouraging Conversation and Active Listening鼓勵對話和積極傾聽\|How to Win Friends and Influence People#Encouraging Conversation and Active Listening鼓勵對話和積極傾聽]]

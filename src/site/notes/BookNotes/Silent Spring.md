@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/silent-spring/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.845+08:00","updated":"2024-11-28T00:24:42.597+08:00"}
+{"dg-publish":true,"tags":["政治","自然與環境"],"permalink":"/book-notes/silent-spring/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.845+08:00","updated":"2024-11-28T13:20:23.258+08:00"}
 ---
 
 # 相關筆記
-#政治 #自然與環境 
 [[BookNotes/The Uninhabitable Earth#The Destructive Effects of Climate Change Act as Chain Reactions氣候變遷的破壞性影響是連鎖反應\|The Uninhabitable Earth#The Destructive Effects of Climate Change Act as Chain Reactions氣候變遷的破壞性影響是連鎖反應]]
 [[BookNotes/The Omnivore's Dilemma#The Organic Food Movement有機食品運動\|The Omnivore's Dilemma#The Organic Food Movement有機食品運動]]
 # Introduction to Environmental Awareness環境意識簡介

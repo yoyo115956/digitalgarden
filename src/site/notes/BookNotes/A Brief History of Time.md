@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/a-brief-history-of-time/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.076+08:00","updated":"2024-11-27T23:58:30.964+08:00"}
+{"dg-publish":true,"tags":["科學"],"permalink":"/book-notes/a-brief-history-of-time/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.076+08:00","updated":"2024-11-28T12:28:30.519+08:00"}
 ---
 
 # 相關筆記
-#科學
 [[BookNotes/A Short History of Nearly Everything#Einstein's Theories of Relativity愛因斯坦的相對論\|A Short History of Nearly Everything#Einstein's Theories of Relativity愛因斯坦的相對論]]
 [[BookNotes/Cosmos#Chapter 6 Light Holds a Special Place in Our Universe第 6 章：光在我們的宇宙中佔有特殊的地位\|Cosmos#Chapter 6 Light Holds a Special Place in Our Universe第 6 章：光在我們的宇宙中佔有特殊的地位]]
 [[BookNotes/Critique of Pure Reason#Chapter 9 Space and Time as Pure Forms of Sensibility第9章：空間和時間作為純粹的感性形式\|Critique of Pure Reason#Chapter 9 Space and Time as Pure Forms of Sensibility第9章：空間和時間作為純粹的感性形式]]

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-devil-in-the-white-city/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.050+08:00","updated":"2024-11-28T11:37:03.463+08:00"}
+{"dg-publish":true,"tags":["傳記與回憶"],"permalink":"/book-notes/the-devil-in-the-white-city/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.050+08:00","updated":"2024-11-28T13:25:43.001+08:00"}
 ---
 
 # 相關筆記
-#傳記與回憶 
 [[BookNotes/The Autobiography of Malcolm X#Introduction to Urban Black Culture城市黑人文化簡介\|The Autobiography of Malcolm X#Introduction to Urban Black Culture城市黑人文化簡介]]
 [[BookNotes/I Know why the Caged Bird Sings#Chapter 4 California第 4 章：加利福尼亞\|I Know why the Caged Bird Sings#Chapter 4 California第 4 章：加利福尼亞]]
 # Introduction 介紹

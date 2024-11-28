@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/thinking-fast-and-slow/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.487+08:00","updated":"2024-11-28T01:05:30.496+08:00"}
+{"dg-publish":true,"tags":["心理學"],"permalink":"/book-notes/thinking-fast-and-slow/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.487+08:00","updated":"2024-11-28T13:32:48.212+08:00"}
 ---
 
 # 相關筆記
-#心理學 
 [[BookNotes/Blink#Chapter 1 Trusting Intuition第一章：相信直覺\|Blink#Chapter 1 Trusting Intuition第一章：相信直覺]]
 [[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]
 [[BookNotes/Critique of Pure Reason#Chapter 11 Acquiring A Priori Knowledge第11章：獲得先驗知識\|Critique of Pure Reason#Chapter 11 Acquiring A Priori Knowledge第11章：獲得先驗知識]]

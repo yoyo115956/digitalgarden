@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/zero-to-one/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.261+08:00","updated":"2024-11-27T23:29:13.400+08:00"}
+{"dg-publish":true,"tags":["創業","管理與領導"],"permalink":"/book-notes/zero-to-one/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.261+08:00","updated":"2024-11-28T13:33:53.324+08:00"}
 ---
 
 # 相關筆記
-#創業 #管理與領導
 [[BookNotes/The Lean Startup#Focusing on One Engine of Growth專注於一個成長引擎\|The Lean Startup#Focusing on One Engine of Growth專注於一個成長引擎]]
 [[BookNotes/The Next Millionaire Next Door#Introduction to Wealth Building財富累積簡介\|The Next Millionaire Next Door#Introduction to Wealth Building財富累積簡介]]
 [[BookNotes/Good to Great#Finding Your “Hedgehog Concept”找到你的“刺蝟理念”\|Good to Great#Finding Your “Hedgehog Concept”找到你的“刺蝟理念”]]

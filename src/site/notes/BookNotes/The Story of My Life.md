@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-story-of-my-life/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.803+08:00","updated":"2024-11-28T00:34:24.397+08:00"}
+{"dg-publish":true,"tags":["傳記與回憶"],"permalink":"/book-notes/the-story-of-my-life/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.803+08:00","updated":"2024-11-28T13:31:28.434+08:00"}
 ---
 
 # 相關筆記
-#傳記與回憶 
 [[BookNotes/Educated#Chapter 12 A Difficult Choice for Independence第12章：獨立的艱難選擇\|Educated#Chapter 12 A Difficult Choice for Independence第12章：獨立的艱難選擇]]
 [[BookNotes/The Diary of a Young Girl#Conclusion結論\|The Diary of a Young Girl#Conclusion結論]]
 [[BookNotes/A Room of One’s Own#The Struggles of Successful Women Writers成功女作家的奮鬥\|A Room of One’s Own#The Struggles of Successful Women Writers成功女作家的奮鬥]]

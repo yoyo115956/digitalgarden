@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/death-of-a-salesman/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.145+08:00","updated":"2024-11-27T23:47:17.442+08:00"}
+{"dg-publish":true,"tags":["經濟學","政治","社會與文化"],"permalink":"/book-notes/death-of-a-salesman/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.145+08:00","updated":"2024-11-28T12:41:54.869+08:00"}
 ---
 
 # 相關筆記
-#經濟學 #政治 #社會與文化 
 [[BookNotes/Being and Time#Time and Death時間與死亡\|Being and Time#Time and Death時間與死亡]]
 [[BookNotes/Hamlet#Conclusion結論\|Hamlet#Conclusion結論]]
 # Introduction to Death of a Salesman商業交易。

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/how-to-win-friends-and-influence-people/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.580+08:00","updated":"2024-11-28T11:45:12.895+08:00"}
+{"dg-publish":true,"tags":["溝通技巧","職業與成功"],"permalink":"/book-notes/how-to-win-friends-and-influence-people/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.580+08:00","updated":"2024-11-28T13:11:07.769+08:00"}
 ---
 
 # 相關筆記
-#溝通技巧 #職業與成功 
 [[BookNotes/The 7 Habits of Highly Effective People#Habit 4 Think Win-Win習慣四：雙贏思維\|The 7 Habits of Highly Effective People#Habit 4 Think Win-Win習慣四：雙贏思維]]
 [[BookNotes/How to Talk to Anyone#The Art of Giving Praise讚美的藝術\|How to Talk to Anyone#The Art of Giving Praise讚美的藝術]]
 [[BookNotes/Influence#Conclusion結論\|Influence#Conclusion結論]]

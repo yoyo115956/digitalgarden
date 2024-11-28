@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-second-sex/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.860+08:00","updated":"2024-11-28T00:26:11.242+08:00"}
+{"dg-publish":true,"tags":["哲學","社會與文化"],"permalink":"/book-notes/the-second-sex/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.860+08:00","updated":"2024-11-28T13:30:29.334+08:00"}
 ---
 
 # 相關筆記
-#哲學 #社會與文化 
 [[BookNotes/A Room of One’s Own#Men's Power and Gender Disparities男性權力和性別差異\|A Room of One’s Own#Men's Power and Gender Disparities男性權力和性別差異]]
 [[BookNotes/Fahrenheit 451#Chapter 2 The Search for Knowledge第 2 章：尋找知識\|Fahrenheit 451#Chapter 2 The Search for Knowledge第 2 章：尋找知識]]
 [[BookNotes/Nice Girls Don’t Get the Corner Office#Chapter 1 Women are Still Underprivileged in the Business World第一章：女性在商界仍處於弱勢地位\|Nice Girls Don’t Get the Corner Office#Chapter 1 Women are Still Underprivileged in the Business World第一章：女性在商界仍處於弱勢地位]]

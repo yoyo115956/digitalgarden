@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-catcher-in-the-rye/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.181+08:00","updated":"2024-11-27T23:53:28.543+08:00"}
+{"dg-publish":true,"tags":["心理學","健康與營養","養育","歷史","社會與文化"],"permalink":"/book-notes/the-catcher-in-the-rye/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.181+08:00","updated":"2024-11-28T13:25:00.567+08:00"}
 ---
 
 # 相關筆記
-#心理學 #健康與營養 #養育 #歷史 #社會與文化 
 [[BookNotes/To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介\|To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介]]
 [[BookNotes/Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒\|Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒]]
 [[BookNotes/The Great Gatsby#Introduction介紹\|The Great Gatsby#Introduction介紹]]

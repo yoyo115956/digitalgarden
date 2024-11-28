@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-e-myth-revisited/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.169+08:00","updated":"2024-11-28T12:13:25.913+08:00"}
+{"dg-publish":true,"tags":["創業"],"permalink":"/book-notes/the-e-myth-revisited/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.169+08:00","updated":"2024-11-28T13:26:09.790+08:00"}
 ---
 
 # 相關筆記
-#創業 
 [[BookNotes/Zero to One#Chapter 2 Stop Relying on Luck第 2 章：停止依賴運氣\|Zero to One#Chapter 2 Stop Relying on Luck第 2 章：停止依賴運氣]]
 [[BookNotes/The Lean Startup#Conclusion結論\|The Lean Startup#Conclusion結論]]
 [[BookNotes/Outliers#Introduction介紹\|Outliers#Introduction介紹]]

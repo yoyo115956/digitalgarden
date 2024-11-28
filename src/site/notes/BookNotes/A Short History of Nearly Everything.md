@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/a-short-history-of-nearly-everything/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.258+08:00","updated":"2024-11-28T12:04:06.201+08:00"}
+{"dg-publish":true,"tags":["科學","歷史","教育"],"permalink":"/book-notes/a-short-history-of-nearly-everything/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.258+08:00","updated":"2024-11-28T12:30:04.120+08:00"}
 ---
 
 # 相關筆記
-#科學 #歷史 #教育
+
 [[BookNotes/Cosmos#Introduction介紹\|Cosmos#Introduction介紹]]
 # Introduction to the Universe宇宙簡介
 

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/long-walk-to-freedom/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.476+08:00","updated":"2024-11-28T01:07:37.422+08:00"}
+{"dg-publish":true,"tags":["政治","傳記與回憶"],"permalink":"/book-notes/long-walk-to-freedom/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.476+08:00","updated":"2024-11-28T13:15:31.431+08:00"}
 ---
 
 # 相關筆記
-#政治 #傳記與回憶 
 [[BookNotes/The Power of Habit#Social Movements and Habits社會運動和習慣\|The Power of Habit#Social Movements and Habits社會運動和習慣]]
 [[BookNotes/The Unbearable Lightness of Being#Chapter 3 Prague Spring - Politics and Fate第三章：布拉格之春－政治與命運\|The Unbearable Lightness of Being#Chapter 3 Prague Spring - Politics and Fate第三章：布拉格之春－政治與命運]]
 [[BookNotes/The Autobiography of Malcolm X#Introduction to Malcolm X馬爾科姆·X 簡介\|The Autobiography of Malcolm X#Introduction to Malcolm X馬爾科姆·X 簡介]]

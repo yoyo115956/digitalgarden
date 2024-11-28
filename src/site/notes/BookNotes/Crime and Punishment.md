@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/crime-and-punishment/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.131+08:00","updated":"2024-11-28T12:10:07.103+08:00"}
+{"dg-publish":true,"tags":["心理學","哲學","社會與文化","小說"],"permalink":"/book-notes/crime-and-punishment/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.131+08:00","updated":"2024-11-28T12:34:54.374+08:00"}
 ---
 
 # 相關筆記
-#心理學 #哲學 #社會與文化 #小說 
 [[BookNotes/Discipline & Punishment#Introduction介紹\|Discipline & Punishment#Introduction介紹]]
 # Introduction介紹
 

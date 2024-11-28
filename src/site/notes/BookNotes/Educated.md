@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"tags":["教育","傳記與回憶"],"permalink":"/book-notes/educated/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.728+08:00","updated":"2024-11-28T12:25:59.262+08:00"}
+{"dg-publish":true,"tags":["教育","傳記與回憶"],"permalink":"/book-notes/educated/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.728+08:00","updated":"2024-11-28T12:27:37.124+08:00"}
 ---
 
 # 相關筆記
-#教育 #傳記與回憶 
 [[BookNotes/Outliers#Influence of Upbringing教養的影響\|Outliers#Influence of Upbringing教養的影響]]
 [[BookNotes/The Story of My Life#Achieving Her Dream of College實現她的大學夢想\|The Story of My Life#Achieving Her Dream of College實現她的大學夢想]]
 [[BookNotes/Becoming#Learning Confidence學習信心\|Becoming#Learning Confidence學習信心]]

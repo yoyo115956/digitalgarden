@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-artist-s-way/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.924+08:00","updated":"2024-11-28T12:17:25.781+08:00"}
+{"dg-publish":true,"tags":["創造力"],"permalink":"/book-notes/the-artist-s-way/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.924+08:00","updated":"2024-11-28T13:23:38.113+08:00"}
 ---
 
 # 相關筆記
-#創造力 
 [[BookNotes/Steal Like an Artist#Maintaining Hobbies and Side Projects保持愛好和副業\|Steal Like an Artist#Maintaining Hobbies and Side Projects保持愛好和副業]]
 [[BookNotes/The Power of Habit#The Habit Loop Cue, Routine, Reward習慣循環：提示、例行公事、獎勵\|The Power of Habit#The Habit Loop Cue, Routine, Reward習慣循環：提示、例行公事、獎勵]]
 # Introduction to Creativity Recovery創造力恢復簡介

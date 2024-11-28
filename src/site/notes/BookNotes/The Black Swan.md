@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-black-swan/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.188+08:00","updated":"2024-11-27T23:38:47.936+08:00"}
+{"dg-publish":true,"tags":["科學","經濟學"],"permalink":"/book-notes/the-black-swan/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.188+08:00","updated":"2024-11-28T13:23:59.815+08:00"}
 ---
 
 # 相關筆記
-#科學 #經濟學 
 [[BookNotes/The Unbearable Lightness of Being#Chapter 4 Choices and Consequences - The Inevitability of Life第四章：選擇與後果－生命的必然性\|The Unbearable Lightness of Being#Chapter 4 Choices and Consequences - The Inevitability of Life第四章：選擇與後果－生命的必然性]]
 [[BookNotes/The Book of Why#Introduction 介紹\|The Book of Why#Introduction 介紹]]
 [[BookNotes/Foundation#Conclusion結論\|Foundation#Conclusion結論]]

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-lean-startup/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.073+08:00","updated":"2024-11-27T23:54:24.149+08:00"}
+{"dg-publish":true,"tags":["創業","管理與領導"],"permalink":"/book-notes/the-lean-startup/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.073+08:00","updated":"2024-11-28T13:27:43.258+08:00"}
 ---
 
 # 相關筆記
-#創業 #管理與領導 
 [[BookNotes/The E-Myth Revisited#Continuous Improvement持續改進\|The E-Myth Revisited#Continuous Improvement持續改進]]
 [[BookNotes/Zero to One#Conclusion結論\|Zero to One#Conclusion結論]]
 # Introduction to Start-up Management新創企業管理簡介

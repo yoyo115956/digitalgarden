@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-omnivore-s-dilemma/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.999+08:00","updated":"2024-11-28T12:20:15.126+08:00"}
+{"dg-publish":true,"tags":["健康與營養","自然與環境","社會與文化"],"permalink":"/book-notes/the-omnivore-s-dilemma/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.999+08:00","updated":"2024-11-28T13:29:05.049+08:00"}
 ---
 
 # 相關筆記
-#健康與營養 #自然與環境 #社會與文化 
 [[BookNotes/The Uninhabitable Earth#Runaway Warming Will Cause Mass Hunger and Malnourishment失控的暖化將導致大規模飢餓和營養不良\|The Uninhabitable Earth#Runaway Warming Will Cause Mass Hunger and Malnourishment失控的暖化將導致大規模飢餓和營養不良]]
 [[BookNotes/Fast Food Nation#Conclusion結論\|Fast Food Nation#Conclusion結論]]
 [[BookNotes/Born to Run#The Benefits of a Plant-Based Diet植物性飲食的好處\|Born to Run#The Benefits of a Plant-Based Diet植物性飲食的好處]]

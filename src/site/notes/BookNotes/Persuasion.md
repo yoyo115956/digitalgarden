@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/persuasion/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:13.940+08:00","updated":"2024-11-28T11:30:51.810+08:00"}
+{"dg-publish":true,"tags":["社會與文化","性與關係"],"permalink":"/book-notes/persuasion/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:13.940+08:00","updated":"2024-11-28T13:19:01.180+08:00"}
 ---
 
 # 相關筆記
-#社會與文化 #性與關係 
 [[BookNotes/Influence#Introduction介紹\|Influence#Introduction介紹]]
 [[BookNotes/The Catcher in the Rye#Final Reflections最後的思考\|The Catcher in the Rye#Final Reflections最後的思考]]
 [[BookNotes/To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介\|To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介]]

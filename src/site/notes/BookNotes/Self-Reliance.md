@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/self-reliance/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.737+08:00","updated":"2024-11-28T00:16:23.852+08:00"}
+{"dg-publish":true,"tags":["動機與靈感","個人發展","哲學"],"permalink":"/book-notes/self-reliance/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.737+08:00","updated":"2024-11-28T13:20:13.278+08:00"}
 ---
 
 # 相關筆記
-#動機與靈感 #個人發展 #哲學 
 [[BookNotes/The Nicomachean Ethics#Conclusion The Ripple Effect of Balanced Living結論：平衡生活的連鎖反應\|The Nicomachean Ethics#Conclusion The Ripple Effect of Balanced Living結論：平衡生活的連鎖反應]]
 [[BookNotes/Atomic Habits#Conclusion結論\|Atomic Habits#Conclusion結論]]
 [[BookNotes/The Origins of Totalitarianism#The Vulnerability of Isolated Individuals孤立個體的脆弱性\|The Origins of Totalitarianism#The Vulnerability of Isolated Individuals孤立個體的脆弱性]]

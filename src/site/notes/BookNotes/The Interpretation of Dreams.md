@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-interpretation-of-dreams/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.341+08:00","updated":"2024-11-27T23:30:07.678+08:00"}
+{"dg-publish":true,"tags":["心理學"],"permalink":"/book-notes/the-interpretation-of-dreams/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.341+08:00","updated":"2024-11-28T13:27:29.334+08:00"}
 ---
 
 # 相關筆記
-#心理學 
 [[BookNotes/Critique of Pure Reason#Chapter 12 Reflection of Experience, Not Reality第12章：經驗的反映，而非現實\|Critique of Pure Reason#Chapter 12 Reflection of Experience, Not Reality第12章：經驗的反映，而非現實]]
 # Introduction to Dream Interpretation解夢簡介
 

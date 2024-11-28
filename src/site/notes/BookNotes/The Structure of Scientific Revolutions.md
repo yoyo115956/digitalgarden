@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-structure-of-scientific-revolutions/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.873+08:00","updated":"2024-11-28T00:11:46.353+08:00"}
+{"dg-publish":true,"tags":["科學"],"permalink":"/book-notes/the-structure-of-scientific-revolutions/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.873+08:00","updated":"2024-11-28T13:31:37.632+08:00"}
 ---
 
 # 相關筆記
-#科學 
 [[BookNotes/Sapiens#Scientific Revolution科學革命\|Sapiens#Scientific Revolution科學革命]]
 [[BookNotes/A Brief History of Time#The Role of Theories in Science理論在科學中的作用\|A Brief History of Time#The Role of Theories in Science理論在科學中的作用]]
 [[BookNotes/Cosmos#Chapter 5 Modern Science Isn’t So Modern第五章：現代科學沒那麼現代\|Cosmos#Chapter 5 Modern Science Isn’t So Modern第五章：現代科學沒那麼現代]]

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/zen-and-the-art-of-motorcycle-maintenance/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.247+08:00","updated":"2024-11-28T11:47:18.740+08:00"}
+{"dg-publish":true,"tags":["哲學"],"permalink":"/book-notes/zen-and-the-art-of-motorcycle-maintenance/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.247+08:00","updated":"2024-11-28T13:33:43.687+08:00"}
 ---
 
 # 相關筆記
-#哲學 
 [[BookNotes/The Nicomachean Ethics#Introduction to Balance in Life生活平衡簡介\|The Nicomachean Ethics#Introduction to Balance in Life生活平衡簡介]]
 [[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]
 [[BookNotes/Critique of Pure Reason#Introduction介紹\|Critique of Pure Reason#Introduction介紹]]

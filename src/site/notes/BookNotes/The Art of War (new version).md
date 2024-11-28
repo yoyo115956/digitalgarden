@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-art-of-war-new-version/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.985+08:00","updated":"2024-11-28T00:21:29.779+08:00"}
+{"dg-publish":true,"tags":["管理與領導"],"permalink":"/book-notes/the-art-of-war-new-version/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.985+08:00","updated":"2024-11-28T13:23:30.127+08:00"}
 ---
 
 # 相關筆記
-#管理與領導 
 [[BookNotes/Tao Te Ching#Introduction to Tao Te Ching道德經簡介\|Tao Te Ching#Introduction to Tao Te Ching道德經簡介]]
 [[BookNotes/Foundation#The Mayors市長們\|Foundation#The Mayors市長們]]
 [[BookNotes/A People’s History of the United States#Post-Vietnam Military Actions越戰後的軍事行動\|A People’s History of the United States#Post-Vietnam Military Actions越戰後的軍事行動]]

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-meaning-of-life/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.006+08:00","updated":"2024-11-27T23:57:34.495+08:00"}
+{"dg-publish":true,"tags":["社會與文化","個人發展"],"permalink":"/book-notes/the-meaning-of-life/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.006+08:00","updated":"2024-11-28T13:28:02.201+08:00"}
 ---
 
 # 相關筆記
-#社會與文化 #個人發展 
 [[BookNotes/Man's Search for Meaning#Individual Meaning and Life Choices個人意義與人生選擇\|Man's Search for Meaning#Individual Meaning and Life Choices個人意義與人生選擇]]
 [[BookNotes/How Will You Measure Your Life#Introduction介紹\|How Will You Measure Your Life#Introduction介紹]]
 [[BookNotes/Being and Time#Living Authentically真實地生活\|Being and Time#Living Authentically真實地生活]]

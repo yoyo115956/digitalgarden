@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-book-of-why/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.003+08:00","updated":"2024-11-28T11:32:41.202+08:00"}
+{"dg-publish":true,"tags":["科學"],"permalink":"/book-notes/the-book-of-why/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.003+08:00","updated":"2024-11-28T13:24:36.237+08:00"}
 ---
 
 # 相關筆記
-#科學 
 [[BookNotes/On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響\|On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響]]
 [[BookNotes/Critique of Pure Reason#Chapter 14 The Role of Reason in Metaphysical Speculation第14章：理性在形上學思辨中的作用\|Critique of Pure Reason#Chapter 14 The Role of Reason in Metaphysical Speculation第14章：理性在形上學思辨中的作用]]
 [[BookNotes/Freakonomics#Causality vs. Correlation因果關係與相關關係\|Freakonomics#Causality vs. Correlation因果關係與相關關係]]

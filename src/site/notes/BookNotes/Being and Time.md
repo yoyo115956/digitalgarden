@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/being-and-time/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.645+08:00","updated":"2024-11-27T23:18:11.579+08:00"}
+{"dg-publish":true,"tags":["科學"],"permalink":"/book-notes/being-and-time/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.645+08:00","updated":"2024-11-28T12:31:53.354+08:00"}
 ---
 
 # 相關筆記
-#科學 
 [[BookNotes/A Brief History of Time#Introduction to Cosmology宇宙學導論\|A Brief History of Time#Introduction to Cosmology宇宙學導論]]
 [[BookNotes/Critique of Pure Reason#Chapter 9 Space and Time as Pure Forms of Sensibility第9章：空間和時間作為純粹的感性形式\|Critique of Pure Reason#Chapter 9 Space and Time as Pure Forms of Sensibility第9章：空間和時間作為純粹的感性形式]]
 # Introduction介紹

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/how-to-talk-to-anyone/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:51.962+08:00","updated":"2024-11-27T23:27:47.184+08:00"}
+{"dg-publish":true,"tags":["溝通技巧"],"permalink":"/book-notes/how-to-talk-to-anyone/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:51.962+08:00","updated":"2024-11-28T13:10:16.164+08:00"}
 ---
 
 # 相關筆記
-#溝通技巧 
 [[BookNotes/The 7 Habits of Highly Effective People#Habit 5 Seek First to Understand, Then to Be Understood習慣五：先尋求理解，再尋求被理解\|The 7 Habits of Highly Effective People#Habit 5 Seek First to Understand, Then to Be Understood習慣五：先尋求理解，再尋求被理解]]
 [[BookNotes/Lean In#Effective Communication有效溝通\|Lean In#Effective Communication有效溝通]]
 [[BookNotes/How to Win Friends and Influence People#Encouraging Conversation and Active Listening鼓勵對話和積極傾聽\|How to Win Friends and Influence People#Encouraging Conversation and Active Listening鼓勵對話和積極傾聽]]

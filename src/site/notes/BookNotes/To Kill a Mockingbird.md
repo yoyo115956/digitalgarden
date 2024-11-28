@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/to-kill-a-mockingbird/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.829+08:00","updated":"2024-11-28T00:54:40.640+08:00"}
+{"dg-publish":true,"tags":["歷史","社會與文化","小說"],"permalink":"/book-notes/to-kill-a-mockingbird/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.829+08:00","updated":"2024-11-28T13:33:25.652+08:00"}
 ---
 
 # 相關筆記
-#歷史 #社會與文化 #小說 
 [[BookNotes/Fahrenheit 451#Introduction to Fahrenheit 451華氏451度簡介\|Fahrenheit 451#Introduction to Fahrenheit 451華氏451度簡介]]
 [[BookNotes/The Catcher in the Rye#Seeking Connection尋求聯繫\|The Catcher in the Rye#Seeking Connection尋求聯繫]]
 [[BookNotes/The Great Gatsby#Introduction介紹\|The Great Gatsby#Introduction介紹]]

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/influence/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.178+08:00","updated":"2024-11-28T01:11:23.419+08:00"}
+{"dg-publish":true,"tags":["心理學","市場與營銷","溝通技巧"],"permalink":"/book-notes/influence/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.178+08:00","updated":"2024-11-28T13:12:41.293+08:00"}
 ---
 
 # 相關筆記
-#心理學 #市場與營銷 #溝通技巧 
 [[BookNotes/The Power of Habit#Introduction to Habits習慣簡介\|The Power of Habit#Introduction to Habits習慣簡介]]
 [[BookNotes/The Tipping Point#Persuasion and Salesmanship說服和推銷技巧\|The Tipping Point#Persuasion and Salesmanship說服和推銷技巧]]
 [[BookNotes/The Tipping Point#Key Influencers in Epidemics流行病的關鍵影響因素\|The Tipping Point#Key Influencers in Epidemics流行病的關鍵影響因素]]

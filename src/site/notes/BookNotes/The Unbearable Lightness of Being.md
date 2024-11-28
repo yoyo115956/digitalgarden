@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-unbearable-lightness-of-being/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.057+08:00","updated":"2024-11-27T23:51:45.621+08:00"}
+{"dg-publish":true,"tags":["動機與靈感","傳記與回憶"],"permalink":"/book-notes/the-unbearable-lightness-of-being/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.057+08:00","updated":"2024-11-28T13:32:10.670+08:00"}
 ---
 
 # 相關筆記
-#動機與靈感 #傳記與回憶 
 [[BookNotes/The Meaning of Life#Embracing Ambiguity擁抱歧義\|The Meaning of Life#Embracing Ambiguity擁抱歧義]]
 [[BookNotes/Being and Time#Conclusion結論\|Being and Time#Conclusion結論]]
 # Introduction介紹

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/moby-dick/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.687+08:00","updated":"2024-11-27T23:36:20.308+08:00"}
+{"dg-publish":true,"tags":["自然與環境","社會與文化","小說"],"permalink":"/book-notes/moby-dick/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.687+08:00","updated":"2024-11-28T13:16:57.269+08:00"}
 ---
 
 # 相關筆記
-#自然與環境 #社會與文化 #小說
 [[BookNotes/Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒\|Fahrenheit 451#Chapter 1 The Awakening of Guy Montag第一章：蓋伊‧蒙塔格的覺醒]]
 # Introduction to Moby Dick《莫比迪克》簡介
 

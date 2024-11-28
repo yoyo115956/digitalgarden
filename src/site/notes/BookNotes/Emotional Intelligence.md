@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/emotional-intelligence/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.528+08:00","updated":"2024-11-28T00:56:02.150+08:00"}
+{"dg-publish":true,"tags":["心理學","溝通技巧","性與關係"],"permalink":"/book-notes/emotional-intelligence/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.528+08:00","updated":"2024-11-28T12:43:18.910+08:00"}
 ---
 
 # 相關筆記
-#心理學 #溝通技巧 #性與關係 
 [[BookNotes/Blink#Chapter 5 Stress and Decision-Making第 5 章：壓力與決策\|Blink#Chapter 5 Stress and Decision-Making第 5 章：壓力與決策]]
 [[BookNotes/The Age of AI#AI's Influence on Human Identity人工智慧對人類身分的影響\|The Age of AI#AI's Influence on Human Identity人工智慧對人類身分的影響]]
 [[BookNotes/Meditations#The Role of Logic邏輯的作用\|Meditations#The Role of Logic邏輯的作用]]

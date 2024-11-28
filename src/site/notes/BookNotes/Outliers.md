@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/outliers/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.777+08:00","updated":"2024-11-28T00:00:03.830+08:00"}
+{"dg-publish":true,"tags":["心理學","動機與靈感"],"permalink":"/book-notes/outliers/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.777+08:00","updated":"2024-11-28T13:18:37.113+08:00"}
 ---
 
 # 相關筆記
-#心理學 #動機與靈感 
 [[BookNotes/The Artist's Way#Building Confidence and Overcoming Self-Doubt建立信心並克服自我懷疑\|The Artist's Way#Building Confidence and Overcoming Self-Doubt建立信心並克服自我懷疑]]
 [[BookNotes/Self-Reliance#The Path to Self-Discovery自我發現之路\|Self-Reliance#The Path to Self-Discovery自我發現之路]]
 [[BookNotes/Zero to One#Conclusion結論\|Zero to One#Conclusion結論]]

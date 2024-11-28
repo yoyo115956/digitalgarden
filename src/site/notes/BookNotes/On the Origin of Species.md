@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/on-the-origin-of-species/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.203+08:00","updated":"2024-11-28T00:53:23.376+08:00"}
+{"dg-publish":true,"tags":["科學","自然與環境"],"permalink":"/book-notes/on-the-origin-of-species/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.203+08:00","updated":"2024-11-28T13:18:18.309+08:00"}
 ---
 
 # 相關筆記
-#科學 #自然與環境 
 [[BookNotes/A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫\|A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫]]
 [[BookNotes/The Selfish Gene#The Gene as the Basic Unit of Evolution基因作為進化的基本單位\|The Selfish Gene#The Gene as the Basic Unit of Evolution基因作為進化的基本單位]]
 [[BookNotes/Sapiens#Introduction to Human Evolution人類演化概論\|Sapiens#Introduction to Human Evolution人類演化概論]]

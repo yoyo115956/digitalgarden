@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/sapiens/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.514+08:00","updated":"2024-11-28T01:12:55.954+08:00"}
+{"dg-publish":true,"tags":["科學","歷史"],"permalink":"/book-notes/sapiens/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.514+08:00","updated":"2024-11-28T13:19:39.835+08:00"}
 ---
 
 # 相關筆記
-#科學 #歷史 
 [[BookNotes/On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響\|On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響]]
 [[BookNotes/The Selfish Gene#The Gene as the Basic Unit of Evolution基因作為進化的基本單位\|The Selfish Gene#The Gene as the Basic Unit of Evolution基因作為進化的基本單位]]
 [[BookNotes/A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫\|A Short History of Nearly Everything#The Interconnectedness of Life生活的相互聯繫]]

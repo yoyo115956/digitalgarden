@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/dune/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.046+08:00","updated":"2024-11-28T00:04:57.522+08:00"}
+{"dg-publish":true,"tags":["科學","政治","社會與文化","小說"],"permalink":"/book-notes/dune/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.046+08:00","updated":"2024-11-28T12:42:42.430+08:00"}
 ---
 
 # 相關筆記
-#科學 #政治 #社會與文化 #小說 
 [[BookNotes/Foundation#Conclusion結論\|Foundation#Conclusion結論]]
 [[BookNotes/Fahrenheit 451#Introduction to Fahrenheit 451華氏451度簡介\|Fahrenheit 451#Introduction to Fahrenheit 451華氏451度簡介]]
 # Introduction to Dune沙丘簡介

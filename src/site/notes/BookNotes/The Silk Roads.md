@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-silk-roads/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.232+08:00","updated":"2024-11-28T11:39:56.190+08:00"}
+{"dg-publish":true,"tags":["歷史"],"permalink":"/book-notes/the-silk-roads/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.232+08:00","updated":"2024-11-28T13:30:59.893+08:00"}
 ---
 
 # 相關筆記
-#歷史 
 [[BookNotes/Sapiens#Peace in Modern Times現代和平\|Sapiens#Peace in Modern Times現代和平]]
 [[BookNotes/Genghis Khan and the Making of the Modern World#Conclusion結論\|Genghis Khan and the Making of the Modern World#Conclusion結論]]
 [[BookNotes/Guns, Germs, and Steel#Geographical Barriers and Agricultural Diffusion地理障礙和農業擴散\|Guns, Germs, and Steel#Geographical Barriers and Agricultural Diffusion地理障礙和農業擴散]]

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/essentialism/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.284+08:00","updated":"2024-11-28T11:50:02.345+08:00"}
+{"dg-publish":true,"tags":["生產力","管理與領導"],"permalink":"/book-notes/essentialism/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.284+08:00","updated":"2024-11-28T13:06:28.807+08:00"}
 ---
 
 # 相關筆記
-#生產力 #管理與領導 
 [[BookNotes/The Artist's Way#Avoiding Perfectionism and Fear避免完美主義和恐懼\|The Artist's Way#Avoiding Perfectionism and Fear避免完美主義和恐懼]]
 [[BookNotes/The Art of Happiness#Introduction介紹\|The Art of Happiness#Introduction介紹]]
 [[BookNotes/Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性\|Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性]]

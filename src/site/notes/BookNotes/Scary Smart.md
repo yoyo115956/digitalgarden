@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/scary-smart/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.036+08:00","updated":"2024-11-28T11:33:31.723+08:00"}
+{"dg-publish":true,"tags":["科學","技術與未來","社會與文化"],"permalink":"/book-notes/scary-smart/","dgPassFrontmatter":true,"created":"2024-11-27T12:30:14.036+08:00","updated":"2024-11-28T13:19:52.396+08:00"}
 ---
 
 # 相關筆記
-#科學 #技術與未來 #社會與文化 
 [[BookNotes/AI 2041#Introduction to AI's Future人工智慧的未來簡介\|AI 2041#Introduction to AI's Future人工智慧的未來簡介]]
 [[BookNotes/The Age of AI#The Future of AI人工智慧的未來\|The Age of AI#The Future of AI人工智慧的未來]]
 # Introduction to AI's Future人工智慧的未來簡介

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/good-to-great/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.032+08:00","updated":"2024-11-28T12:14:04.648+08:00"}
+{"dg-publish":true,"tags":["創業","管理與領導"],"permalink":"/book-notes/good-to-great/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.032+08:00","updated":"2024-11-28T13:09:02.663+08:00"}
 ---
 
 # 相關筆記
-#創業 #管理與領導 
 [[BookNotes/Zero to One#Conclusion結論\|Zero to One#Conclusion結論]]
 [[BookNotes/Outliers#Introduction介紹\|Outliers#Introduction介紹]]
 # Introduction介紹

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-origins-of-totalitarianism/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.912+08:00","updated":"2024-11-28T00:24:19.190+08:00"}
+{"dg-publish":true,"tags":["歷史","政治","哲學"],"permalink":"/book-notes/the-origins-of-totalitarianism/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.912+08:00","updated":"2024-11-28T13:29:28.564+08:00"}
 ---
 
 # 相關筆記
-#歷史 #政治 #哲學 
 [[BookNotes/Fahrenheit 451#Analysis of Chapter 1第一章分析\|Fahrenheit 451#Analysis of Chapter 1第一章分析]]
 [[BookNotes/Self-Reliance#Historical Examples of Individualism個人主義的歷史例子\|Self-Reliance#Historical Examples of Individualism個人主義的歷史例子]]
 [[BookNotes/The Book of Why#Chapter 1 The Disparagement of Causation第一章：對因果關係的貶低\|The Book of Why#Chapter 1 The Disparagement of Causation第一章：對因果關係的貶低]]

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/brave-new-world/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.196+08:00","updated":"2024-11-28T12:08:07.983+08:00"}
+{"dg-publish":true,"tags":["技術與未來","政治","社會與文化"],"permalink":"/book-notes/brave-new-world/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.196+08:00","updated":"2024-11-28T12:33:43.621+08:00"}
 ---
 
 # 相關筆記
-#技術與未來 #政治 #社會與文化 
 [[BookNotes/The Origins of Totalitarianism#The Rise of the Classless Masses無階級群眾的崛起\|The Origins of Totalitarianism#The Rise of the Classless Masses無階級群眾的崛起]]
 [[BookNotes/A Short History of Nearly Everything#The Origin of Life生命的起源\|A Short History of Nearly Everything#The Origin of Life生命的起源]]
 [[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]

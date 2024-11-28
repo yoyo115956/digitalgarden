@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/moneyball/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.385+08:00","updated":"2024-11-28T11:57:08.686+08:00"}
+{"dg-publish":true,"tags":["創業","社會與文化"],"permalink":"/book-notes/moneyball/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.385+08:00","updated":"2024-11-28T13:17:17.904+08:00"}
 ---
 
 # 相關筆記
-#創業 #社會與文化 
 [[BookNotes/Influence#Effort and Value努力與價值\|Influence#Effort and Value努力與價值]]
 [[BookNotes/The Next Millionaire Next Door#Busting Wealth-Related Myths打破與財富相關的神話\|The Next Millionaire Next Door#Busting Wealth-Related Myths打破與財富相關的神話]]
 [[BookNotes/Good to Great#Finding Your “Hedgehog Concept”找到你的“刺蝟理念”\|Good to Great#Finding Your “Hedgehog Concept”找到你的“刺蝟理念”]]

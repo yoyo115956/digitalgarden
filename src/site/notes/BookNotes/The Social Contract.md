@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-social-contract/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.450+08:00","updated":"2024-11-28T01:21:55.076+08:00"}
+{"dg-publish":true,"tags":["政治","哲學"],"permalink":"/book-notes/the-social-contract/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.450+08:00","updated":"2024-11-28T13:31:08.680+08:00"}
 ---
 
 # 相關筆記
-#政治 #哲學 
 [[BookNotes/The Republic#Conclusion結論\|The Republic#Conclusion結論]]
 [[BookNotes/The Power of Habit#Social Movements and Habits社會運動和習慣\|The Power of Habit#Social Movements and Habits社會運動和習慣]]
 [[BookNotes/The Origins of Totalitarianism#Conclusion結論\|The Origins of Totalitarianism#Conclusion結論]]

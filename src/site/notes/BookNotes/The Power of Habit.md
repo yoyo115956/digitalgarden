@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-power-of-habit/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.631+08:00","updated":"2024-11-28T01:18:28.052+08:00"}
+{"dg-publish":true,"tags":["生產力","個人發展"],"permalink":"/book-notes/the-power-of-habit/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.631+08:00","updated":"2024-11-28T13:29:53.977+08:00"}
 ---
 
 # 相關筆記
-#生產力 #個人發展 
 [[BookNotes/Atomic Habits#Understanding Habits了解習慣\|Atomic Habits#Understanding Habits了解習慣]]
 [[BookNotes/Atomic Habits#Motivation and Rewards動機和獎勵\|Atomic Habits#Motivation and Rewards動機和獎勵]]
 # Introduction to Habits習慣簡介

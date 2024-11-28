@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/alexander-hamilton/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.406+08:00","updated":"2024-11-28T00:29:30.587+08:00"}
+{"dg-publish":true,"tags":["傳記與回憶"],"permalink":"/book-notes/alexander-hamilton/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.406+08:00","updated":"2024-11-28T12:31:04.400+08:00"}
 ---
 
 # 相關筆記
-#傳記與回憶 
 [[BookNotes/Genghis Khan and the Making of the Modern World#Conclusion結論\|Genghis Khan and the Making of the Modern World#Conclusion結論]]
 [[BookNotes/A People’s History of the United States#Introduction to American History美國歷史概論\|A People’s History of the United States#Introduction to American History美國歷史概論]]
 # Introduction介紹

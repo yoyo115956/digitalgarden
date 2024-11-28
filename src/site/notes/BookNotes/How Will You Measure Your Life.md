@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/how-will-you-measure-your-life/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.272+08:00","updated":"2024-11-27T23:40:53.954+08:00"}
+{"dg-publish":true,"tags":["職業與成功"],"permalink":"/book-notes/how-will-you-measure-your-life/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.272+08:00","updated":"2024-11-28T13:11:22.784+08:00"}
 ---
 
 # 相關筆記
-#職業與成功
 [[BookNotes/The E-Myth Revisited#Aligning Business with Personal Goals使業務與個人目標一致\|The E-Myth Revisited#Aligning Business with Personal Goals使業務與個人目標一致]]
 [[BookNotes/Self-Reliance#The Path to Self-Discovery自我發現之路\|Self-Reliance#The Path to Self-Discovery自我發現之路]]
 [[BookNotes/Lean In#Focusing on What Matters專注於重要的事情\|Lean In#Focusing on What Matters專注於重要的事情]]

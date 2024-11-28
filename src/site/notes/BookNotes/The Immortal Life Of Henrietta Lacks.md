@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-immortal-life-of-henrietta-lacks/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.368+08:00","updated":"2024-11-28T01:16:32.479+08:00"}
+{"dg-publish":true,"tags":["科學","傳記與回憶"],"permalink":"/book-notes/the-immortal-life-of-henrietta-lacks/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.368+08:00","updated":"2024-11-28T13:26:51.995+08:00"}
 ---
 
 # 相關筆記
-#科學 #傳記與回憶 
 [[BookNotes/A Short History of Nearly Everything#The Origin of Life生命的起源\|A Short History of Nearly Everything#The Origin of Life生命的起源]]
 [[BookNotes/The Autobiography of Malcolm X#Introduction to Malcolm X馬爾科姆·X 簡介\|The Autobiography of Malcolm X#Introduction to Malcolm X馬爾科姆·X 簡介]]
 [[BookNotes/Becoming#Conclusion結論\|Becoming#Conclusion結論]]

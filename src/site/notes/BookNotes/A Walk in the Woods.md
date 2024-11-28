@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/a-walk-in-the-woods/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.348+08:00","updated":"2024-11-28T12:02:51.701+08:00"}
+{"dg-publish":true,"tags":["動機與靈感","歷史"],"permalink":"/book-notes/a-walk-in-the-woods/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.348+08:00","updated":"2024-11-28T12:30:23.697+08:00"}
 ---
 
 # 相關筆記
-#動機與靈感 #歷史 
 [[BookNotes/Braiding Sweetgrass#Introduction介紹\|Braiding Sweetgrass#Introduction介紹]]
 # Introduction介紹
 

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/nineteen-eighty-four-1984/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.789+08:00","updated":"2024-11-28T00:57:44.829+08:00"}
+{"dg-publish":true,"tags":["技術與未來","政治","社會與文化","小說"],"permalink":"/book-notes/nineteen-eighty-four-1984/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.789+08:00","updated":"2024-11-28T13:17:57.482+08:00"}
 ---
 
 # 相關筆記
-#技術與未來 #政治 #社會與文化 #小說 
 [[BookNotes/The Origins of Totalitarianism#Indoctrination Through Propaganda透過宣傳灌輸\|The Origins of Totalitarianism#Indoctrination Through Propaganda透過宣傳灌輸]]
 [[BookNotes/Fahrenheit 451#Analysis of Chapter 1第一章分析\|Fahrenheit 451#Analysis of Chapter 1第一章分析]]
 [[BookNotes/Brave New World#Introduction介紹\|Brave New World#Introduction介紹]]

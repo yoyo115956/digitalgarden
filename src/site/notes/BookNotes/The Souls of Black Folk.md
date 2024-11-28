@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-souls-of-black-folk/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.018+08:00","updated":"2024-11-28T12:15:50.593+08:00"}
+{"dg-publish":true,"tags":["歷史","社會與文化"],"permalink":"/book-notes/the-souls-of-black-folk/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.018+08:00","updated":"2024-11-28T13:31:22.331+08:00"}
 ---
 
 # 相關筆記
-#歷史 #社會與文化 
 [[BookNotes/A People’s History of the United States#Native American Resistance and African Slavery美洲原住民的反抗與非洲奴隸制\|A People’s History of the United States#Native American Resistance and African Slavery美洲原住民的反抗與非洲奴隸制]]
 [[BookNotes/The Autobiography of Malcolm X#New Initiatives and Organizations新措施和組織\|The Autobiography of Malcolm X#New Initiatives and Organizations新措施和組織]]
 # Introduction介紹

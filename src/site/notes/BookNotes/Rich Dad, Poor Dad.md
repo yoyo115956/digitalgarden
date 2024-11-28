@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/rich-dad-poor-dad/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:51.989+08:00","updated":"2024-11-27T23:43:11.561+08:00"}
+{"dg-publish":true,"tags":["金錢與投資"],"permalink":"/book-notes/rich-dad-poor-dad/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:51.989+08:00","updated":"2024-11-28T13:19:29.416+08:00"}
 ---
 
 # 相關筆記
-#金錢與投資
 [[BookNotes/Outliers#Influence of Upbringing教養的影響\|Outliers#Influence of Upbringing教養的影響]]
 [[BookNotes/The Next Millionaire Next Door#Busting Wealth-Related Myths打破與財富相關的神話\|The Next Millionaire Next Door#Busting Wealth-Related Myths打破與財富相關的神話]]
 [[BookNotes/The Warren Buffett Way#Introduction介紹\|The Warren Buffett Way#Introduction介紹]]

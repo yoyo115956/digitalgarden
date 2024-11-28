@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/critique-of-pure-reason/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.656+08:00","updated":"2024-11-27T23:15:49.584+08:00"}
+{"dg-publish":true,"tags":["哲學"],"permalink":"/book-notes/critique-of-pure-reason/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.656+08:00","updated":"2024-11-28T12:35:11.165+08:00"}
 ---
 
 # 相關筆記
-#哲學
 [[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]
 [[BookNotes/Fahrenheit 451#Analysis of Chapter 3第3章分析\|Fahrenheit 451#Analysis of Chapter 3第3章分析]]
 [[BookNotes/Meditations#The Role of Logic邏輯的作用\|Meditations#The Role of Logic邏輯的作用]]

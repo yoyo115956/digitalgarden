@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-age-of-ai/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.333+08:00","updated":"2024-11-27T19:15:36.065+08:00"}
+{"dg-publish":true,"tags":["科學","技術與未來","社會與文化"],"permalink":"/book-notes/the-age-of-ai/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.333+08:00","updated":"2024-11-28T13:23:04.203+08:00"}
 ---
 
+# 相關筆記
+[[BookNotes/Scary Smart#Introduction to AI's Future人工智慧的未來簡介\|Scary Smart#Introduction to AI's Future人工智慧的未來簡介]]
+[[BookNotes/AI 2041#Introduction to AI's Future人工智慧的未來簡介\|AI 2041#Introduction to AI's Future人工智慧的未來簡介]]
 # Introduction to AI's Impact人工智慧影響簡介
 
 Artificial intelligence (AI) is no longer just a theoretical concept; it has become a significant part of our global civilization. Its rapid evolution affects various aspects of life, from creative arts to military applications. The challenge now lies in how society and its leaders manage AI's growth, ensuring ethical use and governance.人工智慧（AI）不再只是一個理論概念； 它已成為我們全球文明的重要組成部分。 它的快速發展影響著生活的各個方面，從創意藝術到軍事應用。 現在的挑戰在於社會及其領導者如何管理人工智慧的發展，確保道德使用和治理。

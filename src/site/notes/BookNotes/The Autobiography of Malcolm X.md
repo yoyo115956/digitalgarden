@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-autobiography-of-malcolm-x/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.120+08:00","updated":"2024-11-28T11:43:56.498+08:00"}
+{"dg-publish":true,"tags":["傳記與回憶"],"permalink":"/book-notes/the-autobiography-of-malcolm-x/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.120+08:00","updated":"2024-11-28T13:23:44.806+08:00"}
 ---
 
 # 相關筆記
-#傳記與回憶 
 [[BookNotes/The Immortal Life Of Henrietta Lacks#The Forgotten Legacy of Henrietta Lacks亨利埃塔被遺忘的遺產缺乏\|The Immortal Life Of Henrietta Lacks#The Forgotten Legacy of Henrietta Lacks亨利埃塔被遺忘的遺產缺乏]]
 [[BookNotes/Long Walk to Freedom#Childhood Influences童年的影響\|Long Walk to Freedom#Childhood Influences童年的影響]]
 [[BookNotes/Persuasion#Anne's Early Life and Loss安妮的早年生活和損失\|Persuasion#Anne's Early Life and Loss安妮的早年生活和損失]]

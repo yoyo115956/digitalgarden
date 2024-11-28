@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-next-millionaire-next-door/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.027+08:00","updated":"2024-11-27T23:45:03.340+08:00"}
+{"dg-publish":true,"tags":["金錢與投資","個人發展","職業與成功"],"permalink":"/book-notes/the-next-millionaire-next-door/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.027+08:00","updated":"2024-11-28T13:28:19.089+08:00"}
 ---
 
 # 相關筆記
-#金錢與投資 #個人發展 #職業與成功 
 [[BookNotes/Zero to One#Chapter 2 Stop Relying on Luck第 2 章：停止依賴運氣\|Zero to One#Chapter 2 Stop Relying on Luck第 2 章：停止依賴運氣]]
 [[BookNotes/The Warren Buffett Way#Conclusion結論\|The Warren Buffett Way#Conclusion結論]]
 [[BookNotes/Zero to One#Conclusion結論\|Zero to One#Conclusion結論]]

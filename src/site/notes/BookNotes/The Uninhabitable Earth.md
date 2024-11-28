@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-uninhabitable-earth/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.938+08:00","updated":"2024-11-28T12:22:21.918+08:00"}
+{"dg-publish":true,"tags":["自然與環境"],"permalink":"/book-notes/the-uninhabitable-earth/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.938+08:00","updated":"2024-11-28T13:32:24.323+08:00"}
 ---
 
 # 相關筆記
-#自然與環境 
 [[BookNotes/A Short History of Nearly Everything#Conditions for Life on Earth地球上生命的條件\|A Short History of Nearly Everything#Conditions for Life on Earth地球上生命的條件]]
 [[BookNotes/SuperFreakonomics#Innovative Approaches to Climate Change應對氣候變遷的創新方法\|SuperFreakonomics#Innovative Approaches to Climate Change應對氣候變遷的創新方法]]
 [[BookNotes/Cosmos#Chapter 3 Venus is Hellish and Inhospitable, but Mars Could Be Habitable第三章：金星是地獄般的、不適合居住的，但火星可能適合居住\|Cosmos#Chapter 3 Venus is Hellish and Inhospitable, but Mars Could Be Habitable第三章：金星是地獄般的、不適合居住的，但火星可能適合居住]]

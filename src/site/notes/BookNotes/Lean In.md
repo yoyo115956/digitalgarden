@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/lean-in/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.270+08:00","updated":"2024-11-28T11:54:09.056+08:00"}
+{"dg-publish":true,"tags":["管理與領導","職業與成功","社會與文化"],"permalink":"/book-notes/lean-in/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.270+08:00","updated":"2024-11-28T13:15:09.675+08:00"}
 ---
 
+# 相關筆記
+[[BookNotes/Nice Girls Don’t Get the Corner Office#Chapter 1 Women are Still Underprivileged in the Business World第一章：女性在商界仍處於弱勢地位\|Nice Girls Don’t Get the Corner Office#Chapter 1 Women are Still Underprivileged in the Business World第一章：女性在商界仍處於弱勢地位]]
+[[BookNotes/The Second Sex#Improvements and Ongoing Subjugation改進和持續的征服\|The Second Sex#Improvements and Ongoing Subjugation改進和持續的征服]]
+[[BookNotes/A Room of One’s Own#Men's Power and Gender Disparities男性權力和性別差異\|A Room of One’s Own#Men's Power and Gender Disparities男性權力和性別差異]]
 # Introduction介紹
 
 The pursuit of gender equality has made significant progress over the past century, yet substantial disparities persist. While women in developed nations have gained ground, particularly in education and workforce participation, the journey toward true equality remains ongoing. Issues such as wage gaps, underrepresentation in leadership roles, and societal expectations continue to hinder women's advancement.在過去一個世紀，追求性別平等取得了重大進展，但仍存在巨大差距。 儘管已開發國家的婦女取得了進展，特別是在教育和勞動參與方面，但實現真正平等的旅程仍在繼續。 薪資差距、領導角色代表性不足以及社會期望等問題持續阻礙婦女的進步。

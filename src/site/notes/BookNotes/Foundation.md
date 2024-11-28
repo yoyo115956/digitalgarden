@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/foundation/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.245+08:00","updated":"2024-11-27T23:49:09.637+08:00"}
+{"dg-publish":true,"tags":["科學","技術與未來","歷史","社會與文化"],"permalink":"/book-notes/foundation/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.245+08:00","updated":"2024-11-28T13:07:53.881+08:00"}
 ---
 
 # 相關筆記
-#科學 #技術與未來 #歷史 #社會與文化 
 [[BookNotes/A Short History of Nearly Everything#Introduction to the Universe宇宙簡介\|A Short History of Nearly Everything#Introduction to the Universe宇宙簡介]]
 [[BookNotes/Dune#The Complex Universe of Dune沙丘的複雜宇宙\|Dune#The Complex Universe of Dune沙丘的複雜宇宙]] 
 [[BookNotes/Cosmos#Introduction介紹\|Cosmos#Introduction介紹]]

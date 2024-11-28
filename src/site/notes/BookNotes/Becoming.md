@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/becoming/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.421+08:00","updated":"2024-11-28T01:20:21.812+08:00"}
+{"dg-publish":true,"tags":["傳記與回憶"],"permalink":"/book-notes/becoming/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.421+08:00","updated":"2024-11-28T12:31:33.825+08:00"}
 ---
 
 # 相關筆記
-#傳記與回憶 
 [[BookNotes/Educated#Conclusion A Journey of Empowerment結論：賦權之旅\|Educated#Conclusion A Journey of Empowerment結論：賦權之旅]]
 [[BookNotes/The Diary of a Young Girl#Conclusion結論\|The Diary of a Young Girl#Conclusion結論]]
 [[BookNotes/I Know why the Caged Bird Sings#Chapter 3 Mrs. Flowers第3章：花夫人\|I Know why the Caged Bird Sings#Chapter 3 Mrs. Flowers第3章：花夫人]]

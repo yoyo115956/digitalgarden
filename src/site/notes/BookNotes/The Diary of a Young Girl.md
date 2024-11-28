@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-diary-of-a-young-girl/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.396+08:00","updated":"2024-11-28T11:41:57.156+08:00"}
+{"dg-publish":true,"tags":["歷史","傳記與回憶"],"permalink":"/book-notes/the-diary-of-a-young-girl/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.396+08:00","updated":"2024-11-28T13:26:02.963+08:00"}
 ---
 
 # 相關筆記
-#歷史 #傳記與回憶 
 [[BookNotes/A Room of One’s Own#Contemporary Women's Fiction當代女性小說\|A Room of One’s Own#Contemporary Women's Fiction當代女性小說]]
 [[BookNotes/Persuasion#Anne's Early Life and Loss安妮的早年生活和損失\|Persuasion#Anne's Early Life and Loss安妮的早年生活和損失]]
 [[BookNotes/The Story of My Life#Joy and Struggles in Childhood童年的歡樂與掙扎\|The Story of My Life#Joy and Struggles in Childhood童年的歡樂與掙扎]]

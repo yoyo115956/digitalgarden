@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-80-20-principle/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.617+08:00","updated":"2024-11-28T00:04:20.431+08:00"}
+{"dg-publish":true,"tags":["生產力","個人發展","管理與領導"],"permalink":"/book-notes/the-80-20-principle/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.617+08:00","updated":"2024-11-28T13:21:40.478+08:00"}
 ---
 
 # 相關筆記
-#生產力 #個人發展 #管理與領導 
 [[BookNotes/The Tipping Point#Understanding the Tipping Point了解臨界點\|The Tipping Point#Understanding the Tipping Point了解臨界點]]
 [[BookNotes/Nineteen Eighty-Four (1984)#Conclusion The Relevance of 1984結論：1984 年的現實意義\|Nineteen Eighty-Four (1984)#Conclusion The Relevance of 1984結論：1984 年的現實意義]]
 [[BookNotes/Atomic Habits#The Power of Small Habits小習慣的力量\|Atomic Habits#The Power of Small Habits小習慣的力量]]

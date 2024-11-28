@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/fahrenheit-451/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.116+08:00","updated":"2024-11-28T00:08:11.248+08:00"}
+{"dg-publish":true,"tags":["科學","技術與未來","社會與文化"],"permalink":"/book-notes/fahrenheit-451/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.116+08:00","updated":"2024-11-28T13:07:08.461+08:00"}
 ---
 
 # 相關筆記
-#科學 #技術與未來 #社會與文化 
 [[BookNotes/Nineteen Eighty-Four (1984)#Introduction to 19841984年簡介\|Nineteen Eighty-Four (1984)#Introduction to 19841984年簡介]]
 [[BookNotes/Critique of Pure Reason#Introduction介紹\|Critique of Pure Reason#Introduction介紹]]
 [[BookNotes/To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介\|To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介]]

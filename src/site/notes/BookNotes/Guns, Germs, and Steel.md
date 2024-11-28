@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/guns-germs-and-steel/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.501+08:00","updated":"2024-11-28T01:02:27.247+08:00"}
+{"dg-publish":true,"tags":["科學","歷史","自然與環境","社會與文化"],"permalink":"/book-notes/guns-germs-and-steel/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.501+08:00","updated":"2024-11-28T13:09:43.738+08:00"}
 ---
 
 # 相關筆記
-#科學 #歷史 #自然與環境 #社會與文化 
 [[BookNotes/Sapiens#Introduction to Human Evolution人類演化概論\|Sapiens#Introduction to Human Evolution人類演化概論]]
 [[BookNotes/Cosmos#Chapter 5 Modern Science Isn’t So Modern第五章：現代科學沒那麼現代\|Cosmos#Chapter 5 Modern Science Isn’t So Modern第五章：現代科學沒那麼現代]]
 # Introduction介紹

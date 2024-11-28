@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/freakonomics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.307+08:00","updated":"2024-11-28T12:05:27.083+08:00"}
+{"dg-publish":true,"tags":["經濟學"],"permalink":"/book-notes/freakonomics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.307+08:00","updated":"2024-11-28T13:08:07.969+08:00"}
 ---
 
 # 相關筆記
-#經濟學 
 [[BookNotes/SuperFreakonomics#Statistics and Insights統計數據和見解\|SuperFreakonomics#Statistics and Insights統計數據和見解]]
 [[BookNotes/Atomic Habits#Motivation and Rewards動機和獎勵\|Atomic Habits#Motivation and Rewards動機和獎勵]]
 [[BookNotes/How Will You Measure Your Life#Motivation vs. Money動機與金錢\|How Will You Measure Your Life#Motivation vs. Money動機與金錢]]

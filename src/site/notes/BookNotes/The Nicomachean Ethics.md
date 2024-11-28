@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-nicomachean-ethics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.133+08:00","updated":"2024-11-28T00:20:00.544+08:00"}
+{"dg-publish":true,"tags":["正念與快樂","個人發展","哲學"],"permalink":"/book-notes/the-nicomachean-ethics/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.133+08:00","updated":"2024-11-28T13:28:44.951+08:00"}
 ---
 
 # 相關筆記
-#正念與快樂 #個人發展 #哲學 
 [[BookNotes/Meditations#Conclusion結論\|Meditations#Conclusion結論]]
 [[BookNotes/Zen and the Art of Motorcycle Maintenance#Introduction介紹\|Zen and the Art of Motorcycle Maintenance#Introduction介紹]]
 [[BookNotes/Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性\|Critique of Pure Reason#Chapter 2 The Need for a Critique of Pure Reason第二章：批判純粹理性的必要性]]

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/evolve-your-brain/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.568+08:00","updated":"2024-11-27T23:41:38.677+08:00"}
+{"dg-publish":true,"tags":["科學","健康與營養"],"permalink":"/book-notes/evolve-your-brain/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.568+08:00","updated":"2024-11-28T13:06:45.105+08:00"}
 ---
 
 # 相關筆記
-#科學 #健康與營養
 [[BookNotes/Sapiens#Introduction to Human Evolution人類演化概論\|Sapiens#Introduction to Human Evolution人類演化概論]]
 [[BookNotes/On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響\|On the Origin of Species#Conclusion The Impact of Darwin's Theory結論：達爾文理論的影響]]
 [[BookNotes/The Selfish Gene#Introduction to Evolution進化論簡介\|The Selfish Gene#Introduction to Evolution進化論簡介]]

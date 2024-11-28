@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-great-gatsby/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.701+08:00","updated":"2024-11-28T00:51:59.587+08:00"}
+{"dg-publish":true,"tags":["性與關係","歷史","創造力","社會與文化","小說"],"permalink":"/book-notes/the-great-gatsby/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.701+08:00","updated":"2024-11-28T13:26:38.360+08:00"}
 ---
 
 # 相關筆記
-#性與關係 #歷史 #創造力 #社會與文化 #小說 
 [[BookNotes/Good to Great#Introduction介紹\|Good to Great#Introduction介紹]]
 [[BookNotes/The Unbearable Lightness of Being#Conclusion結論\|The Unbearable Lightness of Being#Conclusion結論]]
 [[BookNotes/To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介\|To Kill a Mockingbird#Introduction to To Kill a Mockingbird殺死一隻知更鳥簡介]]

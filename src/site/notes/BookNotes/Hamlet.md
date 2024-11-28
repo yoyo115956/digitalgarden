@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/hamlet/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.233+08:00","updated":"2024-11-28T00:01:46.407+08:00"}
+{"dg-publish":true,"tags":["歷史","哲學","創造力","社會與文化","小說"],"permalink":"/book-notes/hamlet/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.233+08:00","updated":"2024-11-28T13:10:07.021+08:00"}
 ---
 
 # 相關筆記
-#歷史 #哲學 #創造力 #社會與文化 #小說 
 [[BookNotes/Death of a Salesman#The Tragic Conclusion悲劇性的結論\|Death of a Salesman#The Tragic Conclusion悲劇性的結論]]
 # Introduction to Hamlet哈姆雷特簡介
 

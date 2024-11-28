@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/meditations/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.287+08:00","updated":"2024-11-27T23:23:08.144+08:00"}
+{"dg-publish":true,"tags":["哲學"],"permalink":"/book-notes/meditations/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:52.287+08:00","updated":"2024-11-28T13:16:05.539+08:00"}
 ---
 
 # 相關筆記
-#哲學 
 [[BookNotes/Cosmos#Introduction介紹\|Cosmos#Introduction介紹]]
 [[BookNotes/Tao Te Ching#**The Essence of Daoist Leadership and Philosophy道教領導與哲學的本質**\|Tao Te Ching#**The Essence of Daoist Leadership and Philosophy道教領導與哲學的本質**]]
 [[BookNotes/Being and Time#A New Way to Think About Being一種思考存在的新方式\|Being and Time#A New Way to Think About Being一種思考存在的新方式]]

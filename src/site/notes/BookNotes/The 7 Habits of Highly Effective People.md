@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/the-7-habits-of-highly-effective-people/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.101+08:00","updated":"2024-11-28T00:05:43.250+08:00"}
+{"dg-publish":true,"tags":["生產力","職業與成功"],"permalink":"/book-notes/the-7-habits-of-highly-effective-people/","dgPassFrontmatter":true,"created":"2024-11-24T10:41:53.101+08:00","updated":"2024-11-28T13:21:20.189+08:00"}
 ---
 
 # 相關筆記
-#生產力 #職業與成功
 [[BookNotes/The Power of Habit#Introduction to Habits習慣簡介\|The Power of Habit#Introduction to Habits習慣簡介]]
 [[BookNotes/Atomic Habits#Conclusion結論\|Atomic Habits#Conclusion結論]]
 [[BookNotes/How to Win Friends and Influence People#Setting High Standards設定高標準\|How to Win Friends and Influence People#Setting High Standards設定高標準]]
